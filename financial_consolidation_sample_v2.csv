@@ -1,0 +1,2801 @@
+Entity_ID,Account,Period,Cost_Center,Product,Amount,Currency
+ParentCo,Revenue,2024-Q1,Sales,Product A,99785.8,EUR
+ParentCo,Revenue,2024-Q1,Sales,Product B,131491.04,GBP
+ParentCo,Revenue,2024-Q1,Sales,Product C,127708.22,GBP
+ParentCo,Revenue,2024-Q1,Sales,Service X,394655.74,USD
+ParentCo,Revenue,2024-Q1,Sales,Service Y,325683.64,GBP
+ParentCo,Revenue,2024-Q1,Marketing,Product A,439055.75,GBP
+ParentCo,Revenue,2024-Q1,Marketing,Product B,272592.55,GBP
+ParentCo,Revenue,2024-Q1,Marketing,Product C,325869.26,EUR
+ParentCo,Revenue,2024-Q1,Marketing,Service X,255167.67,EUR
+ParentCo,Revenue,2024-Q1,Marketing,Service Y,109813.11,GBP
+ParentCo,Revenue,2024-Q1,R&D,Product A,484077.09,EUR
+ParentCo,Revenue,2024-Q1,R&D,Product B,142289.3,USD
+ParentCo,Revenue,2024-Q1,R&D,Product C,36446.93,USD
+ParentCo,Revenue,2024-Q1,R&D,Service X,286762.42,GBP
+ParentCo,Revenue,2024-Q1,R&D,Service Y,434349.22,GBP
+ParentCo,Revenue,2024-Q1,Finance,Product A,471900.1,EUR
+ParentCo,Revenue,2024-Q1,Finance,Product B,15628.53,USD
+ParentCo,Revenue,2024-Q1,Finance,Product C,359557.88,EUR
+ParentCo,Revenue,2024-Q1,Finance,Service X,374817.79,USD
+ParentCo,Revenue,2024-Q1,Finance,Service Y,389069.89,USD
+ParentCo,Revenue,2024-Q1,Operations,Product A,420021.8,GBP
+ParentCo,Revenue,2024-Q1,Operations,Product B,410707.96,EUR
+ParentCo,Revenue,2024-Q1,Operations,Product C,18811.86,USD
+ParentCo,Revenue,2024-Q1,Operations,Service X,443248.07,GBP
+ParentCo,Revenue,2024-Q1,Operations,Service Y,103964.86,EUR
+ParentCo,COGS,2024-Q1,Sales,Product A,359560.69,GBP
+ParentCo,COGS,2024-Q1,Sales,Product B,464745.37,EUR
+ParentCo,COGS,2024-Q1,Sales,Product C,156499.41,GBP
+ParentCo,COGS,2024-Q1,Sales,Service X,477051.62,GBP
+ParentCo,COGS,2024-Q1,Sales,Service Y,108967.78,USD
+ParentCo,COGS,2024-Q1,Marketing,Product A,429917.48,USD
+ParentCo,COGS,2024-Q1,Marketing,Product B,41118.9,EUR
+ParentCo,COGS,2024-Q1,Marketing,Product C,47006.89,GBP
+ParentCo,COGS,2024-Q1,Marketing,Service X,199988.11,EUR
+ParentCo,COGS,2024-Q1,Marketing,Service Y,164455.53,EUR
+ParentCo,COGS,2024-Q1,R&D,Product A,27215.07,GBP
+ParentCo,COGS,2024-Q1,R&D,Product B,44173.36,GBP
+ParentCo,COGS,2024-Q1,R&D,Product C,91197.3,GBP
+ParentCo,COGS,2024-Q1,R&D,Service X,125564.6,GBP
+ParentCo,COGS,2024-Q1,R&D,Service Y,455279.15,GBP
+ParentCo,COGS,2024-Q1,Finance,Product A,13130.94,GBP
+ParentCo,COGS,2024-Q1,Finance,Product B,373416.73,GBP
+ParentCo,COGS,2024-Q1,Finance,Product C,434772.34,GBP
+ParentCo,COGS,2024-Q1,Finance,Service X,247398.79,GBP
+ParentCo,COGS,2024-Q1,Finance,Service Y,332634.51,EUR
+ParentCo,COGS,2024-Q1,Operations,Product A,324552.55,EUR
+ParentCo,COGS,2024-Q1,Operations,Product B,286756.48,GBP
+ParentCo,COGS,2024-Q1,Operations,Product C,76184.51,EUR
+ParentCo,COGS,2024-Q1,Operations,Service X,411521.7,USD
+ParentCo,COGS,2024-Q1,Operations,Service Y,314097.57,EUR
+ParentCo,Operating Expenses,2024-Q1,Sales,Product A,194048.75,EUR
+ParentCo,Operating Expenses,2024-Q1,Sales,Product B,413322.23,USD
+ParentCo,Operating Expenses,2024-Q1,Sales,Product C,242456.23,EUR
+ParentCo,Operating Expenses,2024-Q1,Sales,Service X,227681.78,GBP
+ParentCo,Operating Expenses,2024-Q1,Sales,Service Y,80173.33,GBP
+ParentCo,Operating Expenses,2024-Q1,Marketing,Product A,453262.97,GBP
+ParentCo,Operating Expenses,2024-Q1,Marketing,Product B,361244.23,USD
+ParentCo,Operating Expenses,2024-Q1,Marketing,Product C,356630,EUR
+ParentCo,Operating Expenses,2024-Q1,Marketing,Service X,263515.12,EUR
+ParentCo,Operating Expenses,2024-Q1,Marketing,Service Y,433779.11,EUR
+ParentCo,Operating Expenses,2024-Q1,R&D,Product A,216241.91,EUR
+ParentCo,Operating Expenses,2024-Q1,R&D,Product B,189526.38,USD
+ParentCo,Operating Expenses,2024-Q1,R&D,Product C,193531.38,USD
+ParentCo,Operating Expenses,2024-Q1,R&D,Service X,52858.94,GBP
+ParentCo,Operating Expenses,2024-Q1,R&D,Service Y,55010.16,USD
+ParentCo,Operating Expenses,2024-Q1,Finance,Product A,73371.59,GBP
+ParentCo,Operating Expenses,2024-Q1,Finance,Product B,268610.97,EUR
+ParentCo,Operating Expenses,2024-Q1,Finance,Product C,165427.32,EUR
+ParentCo,Operating Expenses,2024-Q1,Finance,Service X,260293.11,EUR
+ParentCo,Operating Expenses,2024-Q1,Finance,Service Y,308555.02,GBP
+ParentCo,Operating Expenses,2024-Q1,Operations,Product A,226663.74,EUR
+ParentCo,Operating Expenses,2024-Q1,Operations,Product B,481187.48,EUR
+ParentCo,Operating Expenses,2024-Q1,Operations,Product C,292505.27,GBP
+ParentCo,Operating Expenses,2024-Q1,Operations,Service X,314590.9,GBP
+ParentCo,Operating Expenses,2024-Q1,Operations,Service Y,491769.05,EUR
+ParentCo,Net Income,2024-Q1,Sales,Product A,417890.32,GBP
+ParentCo,Net Income,2024-Q1,Sales,Product B,317994.79,EUR
+ParentCo,Net Income,2024-Q1,Sales,Product C,352656.31,EUR
+ParentCo,Net Income,2024-Q1,Sales,Service X,34246.23,EUR
+ParentCo,Net Income,2024-Q1,Sales,Service Y,194121.16,GBP
+ParentCo,Net Income,2024-Q1,Marketing,Product A,155721.66,EUR
+ParentCo,Net Income,2024-Q1,Marketing,Product B,423403.71,GBP
+ParentCo,Net Income,2024-Q1,Marketing,Product C,430151.43,GBP
+ParentCo,Net Income,2024-Q1,Marketing,Service X,459431.24,GBP
+ParentCo,Net Income,2024-Q1,Marketing,Service Y,381377.38,GBP
+ParentCo,Net Income,2024-Q1,R&D,Product A,406180.79,USD
+ParentCo,Net Income,2024-Q1,R&D,Product B,316556.8,GBP
+ParentCo,Net Income,2024-Q1,R&D,Product C,426715.16,GBP
+ParentCo,Net Income,2024-Q1,R&D,Service X,296322.85,GBP
+ParentCo,Net Income,2024-Q1,R&D,Service Y,13592.07,GBP
+ParentCo,Net Income,2024-Q1,Finance,Product A,430306.83,GBP
+ParentCo,Net Income,2024-Q1,Finance,Product B,420090.43,USD
+ParentCo,Net Income,2024-Q1,Finance,Product C,255483.71,EUR
+ParentCo,Net Income,2024-Q1,Finance,Service X,274669.47,EUR
+ParentCo,Net Income,2024-Q1,Finance,Service Y,248745.29,EUR
+ParentCo,Net Income,2024-Q1,Operations,Product A,407997.58,GBP
+ParentCo,Net Income,2024-Q1,Operations,Product B,279237.98,USD
+ParentCo,Net Income,2024-Q1,Operations,Product C,455279.63,GBP
+ParentCo,Net Income,2024-Q1,Operations,Service X,248253.68,GBP
+ParentCo,Net Income,2024-Q1,Operations,Service Y,238304.43,GBP
+ParentCo,Assets,2024-Q1,Sales,Product A,141796.2,GBP
+ParentCo,Assets,2024-Q1,Sales,Product B,381246.01,GBP
+ParentCo,Assets,2024-Q1,Sales,Product C,81014.74,GBP
+ParentCo,Assets,2024-Q1,Sales,Service X,174005.08,EUR
+ParentCo,Assets,2024-Q1,Sales,Service Y,258441.81,EUR
+ParentCo,Assets,2024-Q1,Marketing,Product A,276896.85,GBP
+ParentCo,Assets,2024-Q1,Marketing,Product B,346125,EUR
+ParentCo,Assets,2024-Q1,Marketing,Product C,327037.8,EUR
+ParentCo,Assets,2024-Q1,Marketing,Service X,360452.39,GBP
+ParentCo,Assets,2024-Q1,Marketing,Service Y,475422.07,GBP
+ParentCo,Assets,2024-Q1,R&D,Product A,481862.76,USD
+ParentCo,Assets,2024-Q1,R&D,Product B,63833.98,GBP
+ParentCo,Assets,2024-Q1,R&D,Product C,454622.56,EUR
+ParentCo,Assets,2024-Q1,R&D,Service X,168038.67,EUR
+ParentCo,Assets,2024-Q1,R&D,Service Y,498100.77,EUR
+ParentCo,Assets,2024-Q1,Finance,Product A,84657.19,EUR
+ParentCo,Assets,2024-Q1,Finance,Product B,109668.37,USD
+ParentCo,Assets,2024-Q1,Finance,Product C,393180.96,USD
+ParentCo,Assets,2024-Q1,Finance,Service X,440965.75,EUR
+ParentCo,Assets,2024-Q1,Finance,Service Y,152026.84,EUR
+ParentCo,Assets,2024-Q1,Operations,Product A,14881.16,GBP
+ParentCo,Assets,2024-Q1,Operations,Product B,474009.27,GBP
+ParentCo,Assets,2024-Q1,Operations,Product C,428899.78,GBP
+ParentCo,Assets,2024-Q1,Operations,Service X,358703.35,EUR
+ParentCo,Assets,2024-Q1,Operations,Service Y,366110.87,EUR
+ParentCo,Liabilities,2024-Q1,Sales,Product A,490004.34,USD
+ParentCo,Liabilities,2024-Q1,Sales,Product B,62150.43,USD
+ParentCo,Liabilities,2024-Q1,Sales,Product C,35758.43,USD
+ParentCo,Liabilities,2024-Q1,Sales,Service X,119857.93,USD
+ParentCo,Liabilities,2024-Q1,Sales,Service Y,46945.11,GBP
+ParentCo,Liabilities,2024-Q1,Marketing,Product A,436276.2,GBP
+ParentCo,Liabilities,2024-Q1,Marketing,Product B,153201.55,GBP
+ParentCo,Liabilities,2024-Q1,Marketing,Product C,296948.8,GBP
+ParentCo,Liabilities,2024-Q1,Marketing,Service X,277293.9,EUR
+ParentCo,Liabilities,2024-Q1,Marketing,Service Y,40079.72,GBP
+ParentCo,Liabilities,2024-Q1,R&D,Product A,462678.21,GBP
+ParentCo,Liabilities,2024-Q1,R&D,Product B,491031.06,GBP
+ParentCo,Liabilities,2024-Q1,R&D,Product C,192963.98,USD
+ParentCo,Liabilities,2024-Q1,R&D,Service X,128808.13,EUR
+ParentCo,Liabilities,2024-Q1,R&D,Service Y,143982.74,EUR
+ParentCo,Liabilities,2024-Q1,Finance,Product A,38184.16,GBP
+ParentCo,Liabilities,2024-Q1,Finance,Product B,159368.76,GBP
+ParentCo,Liabilities,2024-Q1,Finance,Product C,494853.61,GBP
+ParentCo,Liabilities,2024-Q1,Finance,Service X,370238.02,EUR
+ParentCo,Liabilities,2024-Q1,Finance,Service Y,443503.91,EUR
+ParentCo,Liabilities,2024-Q1,Operations,Product A,133077.89,EUR
+ParentCo,Liabilities,2024-Q1,Operations,Product B,312890.6,USD
+ParentCo,Liabilities,2024-Q1,Operations,Product C,367067.27,EUR
+ParentCo,Liabilities,2024-Q1,Operations,Service X,105226.11,USD
+ParentCo,Liabilities,2024-Q1,Operations,Service Y,483554.67,EUR
+ParentCo,Equity,2024-Q1,Sales,Product A,482370.08,EUR
+ParentCo,Equity,2024-Q1,Sales,Product B,382408.51,USD
+ParentCo,Equity,2024-Q1,Sales,Product C,226341.57,USD
+ParentCo,Equity,2024-Q1,Sales,Service X,496407.2,EUR
+ParentCo,Equity,2024-Q1,Sales,Service Y,58488.11,EUR
+ParentCo,Equity,2024-Q1,Marketing,Product A,244137.19,GBP
+ParentCo,Equity,2024-Q1,Marketing,Product B,261070.89,GBP
+ParentCo,Equity,2024-Q1,Marketing,Product C,390486.78,USD
+ParentCo,Equity,2024-Q1,Marketing,Service X,144017.99,EUR
+ParentCo,Equity,2024-Q1,Marketing,Service Y,317382.89,EUR
+ParentCo,Equity,2024-Q1,R&D,Product A,108305.9,EUR
+ParentCo,Equity,2024-Q1,R&D,Product B,41016.86,EUR
+ParentCo,Equity,2024-Q1,R&D,Product C,118814.61,EUR
+ParentCo,Equity,2024-Q1,R&D,Service X,442766.59,GBP
+ParentCo,Equity,2024-Q1,R&D,Service Y,334881.97,GBP
+ParentCo,Equity,2024-Q1,Finance,Product A,167623.65,USD
+ParentCo,Equity,2024-Q1,Finance,Product B,196354.48,USD
+ParentCo,Equity,2024-Q1,Finance,Product C,469009.16,EUR
+ParentCo,Equity,2024-Q1,Finance,Service X,487749.85,EUR
+ParentCo,Equity,2024-Q1,Finance,Service Y,461899.96,EUR
+ParentCo,Equity,2024-Q1,Operations,Product A,171996.11,EUR
+ParentCo,Equity,2024-Q1,Operations,Product B,356074.87,EUR
+ParentCo,Equity,2024-Q1,Operations,Product C,168828.7,GBP
+ParentCo,Equity,2024-Q1,Operations,Service X,323536.55,GBP
+ParentCo,Equity,2024-Q1,Operations,Service Y,171285.02,GBP
+ParentCo,Revenue,2024-Q2,Sales,Product A,274077.59,EUR
+ParentCo,Revenue,2024-Q2,Sales,Product B,202290.15,GBP
+ParentCo,Revenue,2024-Q2,Sales,Product C,112920.58,USD
+ParentCo,Revenue,2024-Q2,Sales,Service X,240374.37,EUR
+ParentCo,Revenue,2024-Q2,Sales,Service Y,403916.46,GBP
+ParentCo,Revenue,2024-Q2,Marketing,Product A,293616.96,USD
+ParentCo,Revenue,2024-Q2,Marketing,Product B,60730.07,EUR
+ParentCo,Revenue,2024-Q2,Marketing,Product C,67202.35,USD
+ParentCo,Revenue,2024-Q2,Marketing,Service X,24940.54,USD
+ParentCo,Revenue,2024-Q2,Marketing,Service Y,273657.09,USD
+ParentCo,Revenue,2024-Q2,R&D,Product A,299155.53,EUR
+ParentCo,Revenue,2024-Q2,R&D,Product B,322921.87,USD
+ParentCo,Revenue,2024-Q2,R&D,Product C,363671.05,USD
+ParentCo,Revenue,2024-Q2,R&D,Service X,474752.9,EUR
+ParentCo,Revenue,2024-Q2,R&D,Service Y,109791,USD
+ParentCo,Revenue,2024-Q2,Finance,Product A,387953.59,USD
+ParentCo,Revenue,2024-Q2,Finance,Product B,371646.95,USD
+ParentCo,Revenue,2024-Q2,Finance,Product C,393397.94,USD
+ParentCo,Revenue,2024-Q2,Finance,Service X,29792.55,GBP
+ParentCo,Revenue,2024-Q2,Finance,Service Y,106863.15,GBP
+ParentCo,Revenue,2024-Q2,Operations,Product A,285261.43,EUR
+ParentCo,Revenue,2024-Q2,Operations,Product B,208036.49,USD
+ParentCo,Revenue,2024-Q2,Operations,Product C,51437.17,GBP
+ParentCo,Revenue,2024-Q2,Operations,Service X,285358.74,GBP
+ParentCo,Revenue,2024-Q2,Operations,Service Y,254771.6,GBP
+ParentCo,COGS,2024-Q2,Sales,Product A,410157.41,EUR
+ParentCo,COGS,2024-Q2,Sales,Product B,195925.56,EUR
+ParentCo,COGS,2024-Q2,Sales,Product C,128878.07,GBP
+ParentCo,COGS,2024-Q2,Sales,Service X,472019.34,GBP
+ParentCo,COGS,2024-Q2,Sales,Service Y,249680.22,GBP
+ParentCo,COGS,2024-Q2,Marketing,Product A,273606.61,USD
+ParentCo,COGS,2024-Q2,Marketing,Product B,460819.54,GBP
+ParentCo,COGS,2024-Q2,Marketing,Product C,240001.39,EUR
+ParentCo,COGS,2024-Q2,Marketing,Service X,131667.52,EUR
+ParentCo,COGS,2024-Q2,Marketing,Service Y,66306.41,GBP
+ParentCo,COGS,2024-Q2,R&D,Product A,33960.19,USD
+ParentCo,COGS,2024-Q2,R&D,Product B,410379.49,EUR
+ParentCo,COGS,2024-Q2,R&D,Product C,52576.11,EUR
+ParentCo,COGS,2024-Q2,R&D,Service X,284208.27,EUR
+ParentCo,COGS,2024-Q2,R&D,Service Y,200666.24,GBP
+ParentCo,COGS,2024-Q2,Finance,Product A,387693.3,EUR
+ParentCo,COGS,2024-Q2,Finance,Product B,155116.63,USD
+ParentCo,COGS,2024-Q2,Finance,Product C,178469.25,EUR
+ParentCo,COGS,2024-Q2,Finance,Service X,348610.78,EUR
+ParentCo,COGS,2024-Q2,Finance,Service Y,409094.09,GBP
+ParentCo,COGS,2024-Q2,Operations,Product A,174533.21,USD
+ParentCo,COGS,2024-Q2,Operations,Product B,307667.28,USD
+ParentCo,COGS,2024-Q2,Operations,Product C,291432.74,GBP
+ParentCo,COGS,2024-Q2,Operations,Service X,269040.23,GBP
+ParentCo,COGS,2024-Q2,Operations,Service Y,289038.58,USD
+ParentCo,Operating Expenses,2024-Q2,Sales,Product A,340125.25,EUR
+ParentCo,Operating Expenses,2024-Q2,Sales,Product B,68700.52,USD
+ParentCo,Operating Expenses,2024-Q2,Sales,Product C,130392.88,USD
+ParentCo,Operating Expenses,2024-Q2,Sales,Service X,174994.76,GBP
+ParentCo,Operating Expenses,2024-Q2,Sales,Service Y,88467.55,EUR
+ParentCo,Operating Expenses,2024-Q2,Marketing,Product A,467971.51,GBP
+ParentCo,Operating Expenses,2024-Q2,Marketing,Product B,358595.92,GBP
+ParentCo,Operating Expenses,2024-Q2,Marketing,Product C,183274.71,USD
+ParentCo,Operating Expenses,2024-Q2,Marketing,Service X,226910.76,USD
+ParentCo,Operating Expenses,2024-Q2,Marketing,Service Y,349708.67,GBP
+ParentCo,Operating Expenses,2024-Q2,R&D,Product A,171432.84,GBP
+ParentCo,Operating Expenses,2024-Q2,R&D,Product B,274221.73,GBP
+ParentCo,Operating Expenses,2024-Q2,R&D,Product C,347471,GBP
+ParentCo,Operating Expenses,2024-Q2,R&D,Service X,489120.46,USD
+ParentCo,Operating Expenses,2024-Q2,R&D,Service Y,344826.12,EUR
+ParentCo,Operating Expenses,2024-Q2,Finance,Product A,219788.8,USD
+ParentCo,Operating Expenses,2024-Q2,Finance,Product B,221507.06,USD
+ParentCo,Operating Expenses,2024-Q2,Finance,Product C,420540.91,USD
+ParentCo,Operating Expenses,2024-Q2,Finance,Service X,362731.66,GBP
+ParentCo,Operating Expenses,2024-Q2,Finance,Service Y,52111.37,EUR
+ParentCo,Operating Expenses,2024-Q2,Operations,Product A,183682.3,GBP
+ParentCo,Operating Expenses,2024-Q2,Operations,Product B,165691.55,GBP
+ParentCo,Operating Expenses,2024-Q2,Operations,Product C,313592.32,USD
+ParentCo,Operating Expenses,2024-Q2,Operations,Service X,180926.76,GBP
+ParentCo,Operating Expenses,2024-Q2,Operations,Service Y,15175.55,USD
+ParentCo,Net Income,2024-Q2,Sales,Product A,190250.02,EUR
+ParentCo,Net Income,2024-Q2,Sales,Product B,52793.51,USD
+ParentCo,Net Income,2024-Q2,Sales,Product C,419984.43,EUR
+ParentCo,Net Income,2024-Q2,Sales,Service X,148555.4,GBP
+ParentCo,Net Income,2024-Q2,Sales,Service Y,50123.08,EUR
+ParentCo,Net Income,2024-Q2,Marketing,Product A,430169.75,EUR
+ParentCo,Net Income,2024-Q2,Marketing,Product B,254365.03,USD
+ParentCo,Net Income,2024-Q2,Marketing,Product C,386454.91,GBP
+ParentCo,Net Income,2024-Q2,Marketing,Service X,46453.2,EUR
+ParentCo,Net Income,2024-Q2,Marketing,Service Y,446359.94,USD
+ParentCo,Net Income,2024-Q2,R&D,Product A,136965.44,USD
+ParentCo,Net Income,2024-Q2,R&D,Product B,226347.92,GBP
+ParentCo,Net Income,2024-Q2,R&D,Product C,471856.1,GBP
+ParentCo,Net Income,2024-Q2,R&D,Service X,321266.52,USD
+ParentCo,Net Income,2024-Q2,R&D,Service Y,91399.29,EUR
+ParentCo,Net Income,2024-Q2,Finance,Product A,138600.44,USD
+ParentCo,Net Income,2024-Q2,Finance,Product B,64633.38,USD
+ParentCo,Net Income,2024-Q2,Finance,Product C,19856.36,GBP
+ParentCo,Net Income,2024-Q2,Finance,Service X,49490.66,GBP
+ParentCo,Net Income,2024-Q2,Finance,Service Y,215400.72,USD
+ParentCo,Net Income,2024-Q2,Operations,Product A,458980.87,USD
+ParentCo,Net Income,2024-Q2,Operations,Product B,114974.88,GBP
+ParentCo,Net Income,2024-Q2,Operations,Product C,101106.34,GBP
+ParentCo,Net Income,2024-Q2,Operations,Service X,488685.2,EUR
+ParentCo,Net Income,2024-Q2,Operations,Service Y,45665.65,USD
+ParentCo,Assets,2024-Q2,Sales,Product A,158532.05,EUR
+ParentCo,Assets,2024-Q2,Sales,Product B,85333.59,EUR
+ParentCo,Assets,2024-Q2,Sales,Product C,34454.5,EUR
+ParentCo,Assets,2024-Q2,Sales,Service X,89826.65,GBP
+ParentCo,Assets,2024-Q2,Sales,Service Y,76902.18,USD
+ParentCo,Assets,2024-Q2,Marketing,Product A,437012.94,GBP
+ParentCo,Assets,2024-Q2,Marketing,Product B,259064.73,EUR
+ParentCo,Assets,2024-Q2,Marketing,Product C,490404.48,EUR
+ParentCo,Assets,2024-Q2,Marketing,Service X,32601.72,GBP
+ParentCo,Assets,2024-Q2,Marketing,Service Y,37702.42,GBP
+ParentCo,Assets,2024-Q2,R&D,Product A,388302.77,USD
+ParentCo,Assets,2024-Q2,R&D,Product B,393821.43,EUR
+ParentCo,Assets,2024-Q2,R&D,Product C,220170.86,EUR
+ParentCo,Assets,2024-Q2,R&D,Service X,340540.2,GBP
+ParentCo,Assets,2024-Q2,R&D,Service Y,477655.58,USD
+ParentCo,Assets,2024-Q2,Finance,Product A,247471.12,EUR
+ParentCo,Assets,2024-Q2,Finance,Product B,472592.1,GBP
+ParentCo,Assets,2024-Q2,Finance,Product C,185820.71,GBP
+ParentCo,Assets,2024-Q2,Finance,Service X,25528.94,EUR
+ParentCo,Assets,2024-Q2,Finance,Service Y,91161.43,EUR
+ParentCo,Assets,2024-Q2,Operations,Product A,191628.51,USD
+ParentCo,Assets,2024-Q2,Operations,Product B,454498.52,USD
+ParentCo,Assets,2024-Q2,Operations,Product C,356591.32,USD
+ParentCo,Assets,2024-Q2,Operations,Service X,466787.58,GBP
+ParentCo,Assets,2024-Q2,Operations,Service Y,206987.4,GBP
+ParentCo,Liabilities,2024-Q2,Sales,Product A,391806.69,USD
+ParentCo,Liabilities,2024-Q2,Sales,Product B,121233.81,USD
+ParentCo,Liabilities,2024-Q2,Sales,Product C,53616.11,EUR
+ParentCo,Liabilities,2024-Q2,Sales,Service X,411324.06,EUR
+ParentCo,Liabilities,2024-Q2,Sales,Service Y,113908.65,EUR
+ParentCo,Liabilities,2024-Q2,Marketing,Product A,184426.44,GBP
+ParentCo,Liabilities,2024-Q2,Marketing,Product B,226224.9,EUR
+ParentCo,Liabilities,2024-Q2,Marketing,Product C,291365.35,USD
+ParentCo,Liabilities,2024-Q2,Marketing,Service X,484603.42,USD
+ParentCo,Liabilities,2024-Q2,Marketing,Service Y,119887.66,GBP
+ParentCo,Liabilities,2024-Q2,R&D,Product A,117493.02,EUR
+ParentCo,Liabilities,2024-Q2,R&D,Product B,112609.44,EUR
+ParentCo,Liabilities,2024-Q2,R&D,Product C,298507.33,EUR
+ParentCo,Liabilities,2024-Q2,R&D,Service X,62660.19,EUR
+ParentCo,Liabilities,2024-Q2,R&D,Service Y,291976.87,USD
+ParentCo,Liabilities,2024-Q2,Finance,Product A,205983.51,EUR
+ParentCo,Liabilities,2024-Q2,Finance,Product B,341857.95,GBP
+ParentCo,Liabilities,2024-Q2,Finance,Product C,148044.88,USD
+ParentCo,Liabilities,2024-Q2,Finance,Service X,69321.28,GBP
+ParentCo,Liabilities,2024-Q2,Finance,Service Y,144039.25,GBP
+ParentCo,Liabilities,2024-Q2,Operations,Product A,433144.3,GBP
+ParentCo,Liabilities,2024-Q2,Operations,Product B,44599.73,EUR
+ParentCo,Liabilities,2024-Q2,Operations,Product C,412320.75,EUR
+ParentCo,Liabilities,2024-Q2,Operations,Service X,229394.5,EUR
+ParentCo,Liabilities,2024-Q2,Operations,Service Y,76847.04,EUR
+ParentCo,Equity,2024-Q2,Sales,Product A,78381.35,EUR
+ParentCo,Equity,2024-Q2,Sales,Product B,168988.32,USD
+ParentCo,Equity,2024-Q2,Sales,Product C,249706.5,USD
+ParentCo,Equity,2024-Q2,Sales,Service X,149552.04,GBP
+ParentCo,Equity,2024-Q2,Sales,Service Y,22463.52,GBP
+ParentCo,Equity,2024-Q2,Marketing,Product A,394819.42,EUR
+ParentCo,Equity,2024-Q2,Marketing,Product B,353603.09,GBP
+ParentCo,Equity,2024-Q2,Marketing,Product C,471569.06,GBP
+ParentCo,Equity,2024-Q2,Marketing,Service X,494166.61,EUR
+ParentCo,Equity,2024-Q2,Marketing,Service Y,247486.92,GBP
+ParentCo,Equity,2024-Q2,R&D,Product A,425443.77,GBP
+ParentCo,Equity,2024-Q2,R&D,Product B,485541.7,EUR
+ParentCo,Equity,2024-Q2,R&D,Product C,442742.02,USD
+ParentCo,Equity,2024-Q2,R&D,Service X,77786.85,EUR
+ParentCo,Equity,2024-Q2,R&D,Service Y,195327.44,GBP
+ParentCo,Equity,2024-Q2,Finance,Product A,310575.7,USD
+ParentCo,Equity,2024-Q2,Finance,Product B,390433.53,GBP
+ParentCo,Equity,2024-Q2,Finance,Product C,423112.89,EUR
+ParentCo,Equity,2024-Q2,Finance,Service X,89872.42,USD
+ParentCo,Equity,2024-Q2,Finance,Service Y,292907.15,USD
+ParentCo,Equity,2024-Q2,Operations,Product A,252756.77,EUR
+ParentCo,Equity,2024-Q2,Operations,Product B,448866.14,GBP
+ParentCo,Equity,2024-Q2,Operations,Product C,453886.17,GBP
+ParentCo,Equity,2024-Q2,Operations,Service X,62128.92,USD
+ParentCo,Equity,2024-Q2,Operations,Service Y,489991.95,USD
+ParentCo,Revenue,2024-Q3,Sales,Product A,95373.54,EUR
+ParentCo,Revenue,2024-Q3,Sales,Product B,130938.47,GBP
+ParentCo,Revenue,2024-Q3,Sales,Product C,404417.21,USD
+ParentCo,Revenue,2024-Q3,Sales,Service X,477233.33,USD
+ParentCo,Revenue,2024-Q3,Sales,Service Y,274087.42,EUR
+ParentCo,Revenue,2024-Q3,Marketing,Product A,477101.1,EUR
+ParentCo,Revenue,2024-Q3,Marketing,Product B,421307.04,GBP
+ParentCo,Revenue,2024-Q3,Marketing,Product C,194701.8,GBP
+ParentCo,Revenue,2024-Q3,Marketing,Service X,346528.91,GBP
+ParentCo,Revenue,2024-Q3,Marketing,Service Y,20991.7,EUR
+ParentCo,Revenue,2024-Q3,R&D,Product A,399286.59,USD
+ParentCo,Revenue,2024-Q3,R&D,Product B,246042.56,USD
+ParentCo,Revenue,2024-Q3,R&D,Product C,330268.63,EUR
+ParentCo,Revenue,2024-Q3,R&D,Service X,468932.88,GBP
+ParentCo,Revenue,2024-Q3,R&D,Service Y,15389.4,USD
+ParentCo,Revenue,2024-Q3,Finance,Product A,479818.38,USD
+ParentCo,Revenue,2024-Q3,Finance,Product B,88158.73,USD
+ParentCo,Revenue,2024-Q3,Finance,Product C,57361.54,GBP
+ParentCo,Revenue,2024-Q3,Finance,Service X,186499.05,EUR
+ParentCo,Revenue,2024-Q3,Finance,Service Y,122131.51,GBP
+ParentCo,Revenue,2024-Q3,Operations,Product A,457787.03,USD
+ParentCo,Revenue,2024-Q3,Operations,Product B,327313.63,EUR
+ParentCo,Revenue,2024-Q3,Operations,Product C,487679.07,EUR
+ParentCo,Revenue,2024-Q3,Operations,Service X,396344.74,EUR
+ParentCo,Revenue,2024-Q3,Operations,Service Y,279124.1,USD
+ParentCo,COGS,2024-Q3,Sales,Product A,319208.19,EUR
+ParentCo,COGS,2024-Q3,Sales,Product B,54741.2,EUR
+ParentCo,COGS,2024-Q3,Sales,Product C,103852.95,USD
+ParentCo,COGS,2024-Q3,Sales,Service X,312160.42,USD
+ParentCo,COGS,2024-Q3,Sales,Service Y,359296.32,EUR
+ParentCo,COGS,2024-Q3,Marketing,Product A,476573.3,EUR
+ParentCo,COGS,2024-Q3,Marketing,Product B,302639.21,USD
+ParentCo,COGS,2024-Q3,Marketing,Product C,209250.5,GBP
+ParentCo,COGS,2024-Q3,Marketing,Service X,331249.8,EUR
+ParentCo,COGS,2024-Q3,Marketing,Service Y,444290.68,EUR
+ParentCo,COGS,2024-Q3,R&D,Product A,28557.57,EUR
+ParentCo,COGS,2024-Q3,R&D,Product B,439267.42,GBP
+ParentCo,COGS,2024-Q3,R&D,Product C,279530.54,EUR
+ParentCo,COGS,2024-Q3,R&D,Service X,192950.88,EUR
+ParentCo,COGS,2024-Q3,R&D,Service Y,35507.67,GBP
+ParentCo,COGS,2024-Q3,Finance,Product A,28618.01,GBP
+ParentCo,COGS,2024-Q3,Finance,Product B,272646.42,USD
+ParentCo,COGS,2024-Q3,Finance,Product C,294017.14,USD
+ParentCo,COGS,2024-Q3,Finance,Service X,130640.37,EUR
+ParentCo,COGS,2024-Q3,Finance,Service Y,55067.1,GBP
+ParentCo,COGS,2024-Q3,Operations,Product A,409311.53,USD
+ParentCo,COGS,2024-Q3,Operations,Product B,159859.34,USD
+ParentCo,COGS,2024-Q3,Operations,Product C,29137.8,EUR
+ParentCo,COGS,2024-Q3,Operations,Service X,437029.43,EUR
+ParentCo,COGS,2024-Q3,Operations,Service Y,43549.56,USD
+ParentCo,Operating Expenses,2024-Q3,Sales,Product A,335908.93,EUR
+ParentCo,Operating Expenses,2024-Q3,Sales,Product B,340940.04,USD
+ParentCo,Operating Expenses,2024-Q3,Sales,Product C,133395.57,GBP
+ParentCo,Operating Expenses,2024-Q3,Sales,Service X,198239.88,EUR
+ParentCo,Operating Expenses,2024-Q3,Sales,Service Y,46028.86,EUR
+ParentCo,Operating Expenses,2024-Q3,Marketing,Product A,72689.66,GBP
+ParentCo,Operating Expenses,2024-Q3,Marketing,Product B,492768.17,GBP
+ParentCo,Operating Expenses,2024-Q3,Marketing,Product C,411815.1,USD
+ParentCo,Operating Expenses,2024-Q3,Marketing,Service X,83216.48,EUR
+ParentCo,Operating Expenses,2024-Q3,Marketing,Service Y,112200.41,USD
+ParentCo,Operating Expenses,2024-Q3,R&D,Product A,462218.94,GBP
+ParentCo,Operating Expenses,2024-Q3,R&D,Product B,385150.17,GBP
+ParentCo,Operating Expenses,2024-Q3,R&D,Product C,126067.18,GBP
+ParentCo,Operating Expenses,2024-Q3,R&D,Service X,38072.92,EUR
+ParentCo,Operating Expenses,2024-Q3,R&D,Service Y,366575.48,USD
+ParentCo,Operating Expenses,2024-Q3,Finance,Product A,47170.55,GBP
+ParentCo,Operating Expenses,2024-Q3,Finance,Product B,128789.44,USD
+ParentCo,Operating Expenses,2024-Q3,Finance,Product C,100986.34,GBP
+ParentCo,Operating Expenses,2024-Q3,Finance,Service X,403973.06,EUR
+ParentCo,Operating Expenses,2024-Q3,Finance,Service Y,111966.22,USD
+ParentCo,Operating Expenses,2024-Q3,Operations,Product A,95154.81,GBP
+ParentCo,Operating Expenses,2024-Q3,Operations,Product B,196707.33,USD
+ParentCo,Operating Expenses,2024-Q3,Operations,Product C,162251.76,GBP
+ParentCo,Operating Expenses,2024-Q3,Operations,Service X,456906.98,GBP
+ParentCo,Operating Expenses,2024-Q3,Operations,Service Y,83122.72,USD
+ParentCo,Net Income,2024-Q3,Sales,Product A,71005.55,USD
+ParentCo,Net Income,2024-Q3,Sales,Product B,354702.84,USD
+ParentCo,Net Income,2024-Q3,Sales,Product C,228720.94,GBP
+ParentCo,Net Income,2024-Q3,Sales,Service X,343544.28,USD
+ParentCo,Net Income,2024-Q3,Sales,Service Y,365646.63,USD
+ParentCo,Net Income,2024-Q3,Marketing,Product A,429447.68,GBP
+ParentCo,Net Income,2024-Q3,Marketing,Product B,61258,USD
+ParentCo,Net Income,2024-Q3,Marketing,Product C,335537.44,USD
+ParentCo,Net Income,2024-Q3,Marketing,Service X,35584.89,GBP
+ParentCo,Net Income,2024-Q3,Marketing,Service Y,173887.55,EUR
+ParentCo,Net Income,2024-Q3,R&D,Product A,261029.42,GBP
+ParentCo,Net Income,2024-Q3,R&D,Product B,158500.38,GBP
+ParentCo,Net Income,2024-Q3,R&D,Product C,252985.81,USD
+ParentCo,Net Income,2024-Q3,R&D,Service X,343958.61,USD
+ParentCo,Net Income,2024-Q3,R&D,Service Y,121936.56,GBP
+ParentCo,Net Income,2024-Q3,Finance,Product A,159575.31,GBP
+ParentCo,Net Income,2024-Q3,Finance,Product B,360731.39,EUR
+ParentCo,Net Income,2024-Q3,Finance,Product C,134020.44,GBP
+ParentCo,Net Income,2024-Q3,Finance,Service X,174981,GBP
+ParentCo,Net Income,2024-Q3,Finance,Service Y,353874.58,GBP
+ParentCo,Net Income,2024-Q3,Operations,Product A,464783.94,USD
+ParentCo,Net Income,2024-Q3,Operations,Product B,357177.08,EUR
+ParentCo,Net Income,2024-Q3,Operations,Product C,179371.89,EUR
+ParentCo,Net Income,2024-Q3,Operations,Service X,467769.39,GBP
+ParentCo,Net Income,2024-Q3,Operations,Service Y,39825.95,GBP
+ParentCo,Assets,2024-Q3,Sales,Product A,338539.62,EUR
+ParentCo,Assets,2024-Q3,Sales,Product B,124894.06,GBP
+ParentCo,Assets,2024-Q3,Sales,Product C,449612.7,EUR
+ParentCo,Assets,2024-Q3,Sales,Service X,205102.06,EUR
+ParentCo,Assets,2024-Q3,Sales,Service Y,35322.85,USD
+ParentCo,Assets,2024-Q3,Marketing,Product A,237238.25,USD
+ParentCo,Assets,2024-Q3,Marketing,Product B,496506.95,EUR
+ParentCo,Assets,2024-Q3,Marketing,Product C,394430.78,USD
+ParentCo,Assets,2024-Q3,Marketing,Service X,200015.74,EUR
+ParentCo,Assets,2024-Q3,Marketing,Service Y,118950.51,EUR
+ParentCo,Assets,2024-Q3,R&D,Product A,116888.94,USD
+ParentCo,Assets,2024-Q3,R&D,Product B,189295.43,GBP
+ParentCo,Assets,2024-Q3,R&D,Product C,301141.71,GBP
+ParentCo,Assets,2024-Q3,R&D,Service X,436234.86,GBP
+ParentCo,Assets,2024-Q3,R&D,Service Y,442476.92,GBP
+ParentCo,Assets,2024-Q3,Finance,Product A,415876.94,EUR
+ParentCo,Assets,2024-Q3,Finance,Product B,354251.86,GBP
+ParentCo,Assets,2024-Q3,Finance,Product C,90003.59,EUR
+ParentCo,Assets,2024-Q3,Finance,Service X,396613.15,EUR
+ParentCo,Assets,2024-Q3,Finance,Service Y,204198.45,USD
+ParentCo,Assets,2024-Q3,Operations,Product A,227760.17,EUR
+ParentCo,Assets,2024-Q3,Operations,Product B,462183.03,EUR
+ParentCo,Assets,2024-Q3,Operations,Product C,380029.5,GBP
+ParentCo,Assets,2024-Q3,Operations,Service X,378854.88,USD
+ParentCo,Assets,2024-Q3,Operations,Service Y,89156.32,USD
+ParentCo,Liabilities,2024-Q3,Sales,Product A,133743.81,USD
+ParentCo,Liabilities,2024-Q3,Sales,Product B,389089.81,EUR
+ParentCo,Liabilities,2024-Q3,Sales,Product C,156605.9,USD
+ParentCo,Liabilities,2024-Q3,Sales,Service X,10640.74,GBP
+ParentCo,Liabilities,2024-Q3,Sales,Service Y,238535.97,EUR
+ParentCo,Liabilities,2024-Q3,Marketing,Product A,136647.83,GBP
+ParentCo,Liabilities,2024-Q3,Marketing,Product B,145388.13,USD
+ParentCo,Liabilities,2024-Q3,Marketing,Product C,387216.85,EUR
+ParentCo,Liabilities,2024-Q3,Marketing,Service X,213133.67,USD
+ParentCo,Liabilities,2024-Q3,Marketing,Service Y,452687.72,GBP
+ParentCo,Liabilities,2024-Q3,R&D,Product A,418868.12,USD
+ParentCo,Liabilities,2024-Q3,R&D,Product B,477267.67,EUR
+ParentCo,Liabilities,2024-Q3,R&D,Product C,147453.81,USD
+ParentCo,Liabilities,2024-Q3,R&D,Service X,438973.32,GBP
+ParentCo,Liabilities,2024-Q3,R&D,Service Y,276421.91,EUR
+ParentCo,Liabilities,2024-Q3,Finance,Product A,177501.68,GBP
+ParentCo,Liabilities,2024-Q3,Finance,Product B,309335.25,EUR
+ParentCo,Liabilities,2024-Q3,Finance,Product C,69751.01,USD
+ParentCo,Liabilities,2024-Q3,Finance,Service X,290791.42,EUR
+ParentCo,Liabilities,2024-Q3,Finance,Service Y,221281.49,EUR
+ParentCo,Liabilities,2024-Q3,Operations,Product A,445509.2,GBP
+ParentCo,Liabilities,2024-Q3,Operations,Product B,98257.5,USD
+ParentCo,Liabilities,2024-Q3,Operations,Product C,101054.04,USD
+ParentCo,Liabilities,2024-Q3,Operations,Service X,85210.9,USD
+ParentCo,Liabilities,2024-Q3,Operations,Service Y,191758.74,EUR
+ParentCo,Equity,2024-Q3,Sales,Product A,234765.57,USD
+ParentCo,Equity,2024-Q3,Sales,Product B,458007.9,USD
+ParentCo,Equity,2024-Q3,Sales,Product C,50538.15,EUR
+ParentCo,Equity,2024-Q3,Sales,Service X,306495.23,EUR
+ParentCo,Equity,2024-Q3,Sales,Service Y,355802.64,USD
+ParentCo,Equity,2024-Q3,Marketing,Product A,281107.23,GBP
+ParentCo,Equity,2024-Q3,Marketing,Product B,414076.22,EUR
+ParentCo,Equity,2024-Q3,Marketing,Product C,212588.67,GBP
+ParentCo,Equity,2024-Q3,Marketing,Service X,424965.42,EUR
+ParentCo,Equity,2024-Q3,Marketing,Service Y,330918.91,GBP
+ParentCo,Equity,2024-Q3,R&D,Product A,94202.58,USD
+ParentCo,Equity,2024-Q3,R&D,Product B,264860.69,EUR
+ParentCo,Equity,2024-Q3,R&D,Product C,210931.43,EUR
+ParentCo,Equity,2024-Q3,R&D,Service X,319185.04,USD
+ParentCo,Equity,2024-Q3,R&D,Service Y,83156.67,GBP
+ParentCo,Equity,2024-Q3,Finance,Product A,463186.8,GBP
+ParentCo,Equity,2024-Q3,Finance,Product B,238687.71,EUR
+ParentCo,Equity,2024-Q3,Finance,Product C,288353.12,EUR
+ParentCo,Equity,2024-Q3,Finance,Service X,223593.11,GBP
+ParentCo,Equity,2024-Q3,Finance,Service Y,477226.56,GBP
+ParentCo,Equity,2024-Q3,Operations,Product A,25916.55,EUR
+ParentCo,Equity,2024-Q3,Operations,Product B,394626.82,USD
+ParentCo,Equity,2024-Q3,Operations,Product C,358261.06,EUR
+ParentCo,Equity,2024-Q3,Operations,Service X,308013.91,USD
+ParentCo,Equity,2024-Q3,Operations,Service Y,220672.51,EUR
+ParentCo,Revenue,2024-Q4,Sales,Product A,322035.14,GBP
+ParentCo,Revenue,2024-Q4,Sales,Product B,253348.19,EUR
+ParentCo,Revenue,2024-Q4,Sales,Product C,310794.3,USD
+ParentCo,Revenue,2024-Q4,Sales,Service X,369666.48,USD
+ParentCo,Revenue,2024-Q4,Sales,Service Y,398484.91,USD
+ParentCo,Revenue,2024-Q4,Marketing,Product A,379828.85,EUR
+ParentCo,Revenue,2024-Q4,Marketing,Product B,440258.08,EUR
+ParentCo,Revenue,2024-Q4,Marketing,Product C,327028.07,GBP
+ParentCo,Revenue,2024-Q4,Marketing,Service X,15570.19,EUR
+ParentCo,Revenue,2024-Q4,Marketing,Service Y,432495.34,GBP
+ParentCo,Revenue,2024-Q4,R&D,Product A,70374.64,GBP
+ParentCo,Revenue,2024-Q4,R&D,Product B,198593.85,GBP
+ParentCo,Revenue,2024-Q4,R&D,Product C,384480.97,EUR
+ParentCo,Revenue,2024-Q4,R&D,Service X,189232.19,USD
+ParentCo,Revenue,2024-Q4,R&D,Service Y,226481.83,USD
+ParentCo,Revenue,2024-Q4,Finance,Product A,281790.21,GBP
+ParentCo,Revenue,2024-Q4,Finance,Product B,411576.76,USD
+ParentCo,Revenue,2024-Q4,Finance,Product C,340061.06,EUR
+ParentCo,Revenue,2024-Q4,Finance,Service X,148210.53,GBP
+ParentCo,Revenue,2024-Q4,Finance,Service Y,439731.63,EUR
+ParentCo,Revenue,2024-Q4,Operations,Product A,63181.35,USD
+ParentCo,Revenue,2024-Q4,Operations,Product B,205535.27,USD
+ParentCo,Revenue,2024-Q4,Operations,Product C,184204.02,GBP
+ParentCo,Revenue,2024-Q4,Operations,Service X,119534.71,USD
+ParentCo,Revenue,2024-Q4,Operations,Service Y,431989.18,USD
+ParentCo,COGS,2024-Q4,Sales,Product A,427288.74,EUR
+ParentCo,COGS,2024-Q4,Sales,Product B,481590.56,EUR
+ParentCo,COGS,2024-Q4,Sales,Product C,400595.66,USD
+ParentCo,COGS,2024-Q4,Sales,Service X,320191.51,GBP
+ParentCo,COGS,2024-Q4,Sales,Service Y,303524.86,USD
+ParentCo,COGS,2024-Q4,Marketing,Product A,131477.09,USD
+ParentCo,COGS,2024-Q4,Marketing,Product B,366037.93,USD
+ParentCo,COGS,2024-Q4,Marketing,Product C,41387.49,EUR
+ParentCo,COGS,2024-Q4,Marketing,Service X,237679.97,GBP
+ParentCo,COGS,2024-Q4,Marketing,Service Y,332570.27,USD
+ParentCo,COGS,2024-Q4,R&D,Product A,302913.64,USD
+ParentCo,COGS,2024-Q4,R&D,Product B,452218.07,USD
+ParentCo,COGS,2024-Q4,R&D,Product C,477529.5,EUR
+ParentCo,COGS,2024-Q4,R&D,Service X,477847.64,USD
+ParentCo,COGS,2024-Q4,R&D,Service Y,489316.79,GBP
+ParentCo,COGS,2024-Q4,Finance,Product A,439539.48,GBP
+ParentCo,COGS,2024-Q4,Finance,Product B,201477.82,USD
+ParentCo,COGS,2024-Q4,Finance,Product C,207104.96,GBP
+ParentCo,COGS,2024-Q4,Finance,Service X,376844.33,EUR
+ParentCo,COGS,2024-Q4,Finance,Service Y,479780.39,GBP
+ParentCo,COGS,2024-Q4,Operations,Product A,239225.88,EUR
+ParentCo,COGS,2024-Q4,Operations,Product B,208683.12,GBP
+ParentCo,COGS,2024-Q4,Operations,Product C,272373.37,USD
+ParentCo,COGS,2024-Q4,Operations,Service X,102259.56,EUR
+ParentCo,COGS,2024-Q4,Operations,Service Y,247607.9,EUR
+ParentCo,Operating Expenses,2024-Q4,Sales,Product A,160588.64,USD
+ParentCo,Operating Expenses,2024-Q4,Sales,Product B,243158.71,EUR
+ParentCo,Operating Expenses,2024-Q4,Sales,Product C,193767.18,EUR
+ParentCo,Operating Expenses,2024-Q4,Sales,Service X,353746.64,EUR
+ParentCo,Operating Expenses,2024-Q4,Sales,Service Y,191956.13,EUR
+ParentCo,Operating Expenses,2024-Q4,Marketing,Product A,400536.73,GBP
+ParentCo,Operating Expenses,2024-Q4,Marketing,Product B,72912.27,EUR
+ParentCo,Operating Expenses,2024-Q4,Marketing,Product C,288454.07,EUR
+ParentCo,Operating Expenses,2024-Q4,Marketing,Service X,288674.94,GBP
+ParentCo,Operating Expenses,2024-Q4,Marketing,Service Y,344808.49,EUR
+ParentCo,Operating Expenses,2024-Q4,R&D,Product A,240979.16,USD
+ParentCo,Operating Expenses,2024-Q4,R&D,Product B,226259.63,EUR
+ParentCo,Operating Expenses,2024-Q4,R&D,Product C,419792.48,GBP
+ParentCo,Operating Expenses,2024-Q4,R&D,Service X,342575.07,GBP
+ParentCo,Operating Expenses,2024-Q4,R&D,Service Y,490576.59,USD
+ParentCo,Operating Expenses,2024-Q4,Finance,Product A,345251.52,EUR
+ParentCo,Operating Expenses,2024-Q4,Finance,Product B,251544.54,EUR
+ParentCo,Operating Expenses,2024-Q4,Finance,Product C,138087.44,USD
+ParentCo,Operating Expenses,2024-Q4,Finance,Service X,475984.73,USD
+ParentCo,Operating Expenses,2024-Q4,Finance,Service Y,310070.44,GBP
+ParentCo,Operating Expenses,2024-Q4,Operations,Product A,421853.23,USD
+ParentCo,Operating Expenses,2024-Q4,Operations,Product B,171182.5,GBP
+ParentCo,Operating Expenses,2024-Q4,Operations,Product C,22638.43,USD
+ParentCo,Operating Expenses,2024-Q4,Operations,Service X,154520.19,USD
+ParentCo,Operating Expenses,2024-Q4,Operations,Service Y,47564.89,GBP
+ParentCo,Net Income,2024-Q4,Sales,Product A,448533.96,GBP
+ParentCo,Net Income,2024-Q4,Sales,Product B,67766.6,GBP
+ParentCo,Net Income,2024-Q4,Sales,Product C,138958.11,GBP
+ParentCo,Net Income,2024-Q4,Sales,Service X,87130.81,USD
+ParentCo,Net Income,2024-Q4,Sales,Service Y,456682.84,USD
+ParentCo,Net Income,2024-Q4,Marketing,Product A,338803.56,EUR
+ParentCo,Net Income,2024-Q4,Marketing,Product B,160730.93,USD
+ParentCo,Net Income,2024-Q4,Marketing,Product C,198978.61,EUR
+ParentCo,Net Income,2024-Q4,Marketing,Service X,468569.76,USD
+ParentCo,Net Income,2024-Q4,Marketing,Service Y,62491.21,GBP
+ParentCo,Net Income,2024-Q4,R&D,Product A,196724.06,GBP
+ParentCo,Net Income,2024-Q4,R&D,Product B,370348.24,EUR
+ParentCo,Net Income,2024-Q4,R&D,Product C,406984.34,USD
+ParentCo,Net Income,2024-Q4,R&D,Service X,395235.18,GBP
+ParentCo,Net Income,2024-Q4,R&D,Service Y,230765.39,GBP
+ParentCo,Net Income,2024-Q4,Finance,Product A,48502.89,GBP
+ParentCo,Net Income,2024-Q4,Finance,Product B,81338.38,GBP
+ParentCo,Net Income,2024-Q4,Finance,Product C,443927.56,USD
+ParentCo,Net Income,2024-Q4,Finance,Service X,86897.36,GBP
+ParentCo,Net Income,2024-Q4,Finance,Service Y,405767.42,USD
+ParentCo,Net Income,2024-Q4,Operations,Product A,77063.45,USD
+ParentCo,Net Income,2024-Q4,Operations,Product B,105155.46,EUR
+ParentCo,Net Income,2024-Q4,Operations,Product C,322547.52,USD
+ParentCo,Net Income,2024-Q4,Operations,Service X,48901.48,USD
+ParentCo,Net Income,2024-Q4,Operations,Service Y,415489.62,GBP
+ParentCo,Assets,2024-Q4,Sales,Product A,217615.42,EUR
+ParentCo,Assets,2024-Q4,Sales,Product B,121755.97,GBP
+ParentCo,Assets,2024-Q4,Sales,Product C,256698,EUR
+ParentCo,Assets,2024-Q4,Sales,Service X,98334.53,GBP
+ParentCo,Assets,2024-Q4,Sales,Service Y,476400.61,GBP
+ParentCo,Assets,2024-Q4,Marketing,Product A,156545.61,EUR
+ParentCo,Assets,2024-Q4,Marketing,Product B,269661.16,GBP
+ParentCo,Assets,2024-Q4,Marketing,Product C,136706.15,USD
+ParentCo,Assets,2024-Q4,Marketing,Service X,309414.42,GBP
+ParentCo,Assets,2024-Q4,Marketing,Service Y,239982.03,GBP
+ParentCo,Assets,2024-Q4,R&D,Product A,480942.82,EUR
+ParentCo,Assets,2024-Q4,R&D,Product B,322935.84,GBP
+ParentCo,Assets,2024-Q4,R&D,Product C,16662.55,USD
+ParentCo,Assets,2024-Q4,R&D,Service X,242325.16,EUR
+ParentCo,Assets,2024-Q4,R&D,Service Y,105050.81,EUR
+ParentCo,Assets,2024-Q4,Finance,Product A,256493.77,GBP
+ParentCo,Assets,2024-Q4,Finance,Product B,181294.51,USD
+ParentCo,Assets,2024-Q4,Finance,Product C,73230.23,EUR
+ParentCo,Assets,2024-Q4,Finance,Service X,156389.97,USD
+ParentCo,Assets,2024-Q4,Finance,Service Y,43726.61,EUR
+ParentCo,Assets,2024-Q4,Operations,Product A,314767.02,USD
+ParentCo,Assets,2024-Q4,Operations,Product B,237858.44,USD
+ParentCo,Assets,2024-Q4,Operations,Product C,53562.91,USD
+ParentCo,Assets,2024-Q4,Operations,Service X,315367.62,USD
+ParentCo,Assets,2024-Q4,Operations,Service Y,34152.4,USD
+ParentCo,Liabilities,2024-Q4,Sales,Product A,61888.31,GBP
+ParentCo,Liabilities,2024-Q4,Sales,Product B,385886.26,USD
+ParentCo,Liabilities,2024-Q4,Sales,Product C,434041.99,GBP
+ParentCo,Liabilities,2024-Q4,Sales,Service X,497165.05,EUR
+ParentCo,Liabilities,2024-Q4,Sales,Service Y,186140.36,EUR
+ParentCo,Liabilities,2024-Q4,Marketing,Product A,290339.78,USD
+ParentCo,Liabilities,2024-Q4,Marketing,Product B,411662.55,GBP
+ParentCo,Liabilities,2024-Q4,Marketing,Product C,247539.12,GBP
+ParentCo,Liabilities,2024-Q4,Marketing,Service X,212163.75,GBP
+ParentCo,Liabilities,2024-Q4,Marketing,Service Y,243223.1,USD
+ParentCo,Liabilities,2024-Q4,R&D,Product A,442480.25,EUR
+ParentCo,Liabilities,2024-Q4,R&D,Product B,172401.67,USD
+ParentCo,Liabilities,2024-Q4,R&D,Product C,134707.32,USD
+ParentCo,Liabilities,2024-Q4,R&D,Service X,425487.63,USD
+ParentCo,Liabilities,2024-Q4,R&D,Service Y,345106.78,EUR
+ParentCo,Liabilities,2024-Q4,Finance,Product A,321574.84,USD
+ParentCo,Liabilities,2024-Q4,Finance,Product B,15831.13,GBP
+ParentCo,Liabilities,2024-Q4,Finance,Product C,52934.85,GBP
+ParentCo,Liabilities,2024-Q4,Finance,Service X,457829.21,EUR
+ParentCo,Liabilities,2024-Q4,Finance,Service Y,145197.54,GBP
+ParentCo,Liabilities,2024-Q4,Operations,Product A,56115.73,USD
+ParentCo,Liabilities,2024-Q4,Operations,Product B,100812.05,GBP
+ParentCo,Liabilities,2024-Q4,Operations,Product C,87926.14,GBP
+ParentCo,Liabilities,2024-Q4,Operations,Service X,436543.52,GBP
+ParentCo,Liabilities,2024-Q4,Operations,Service Y,408405.87,EUR
+ParentCo,Equity,2024-Q4,Sales,Product A,364192.35,USD
+ParentCo,Equity,2024-Q4,Sales,Product B,438699.75,EUR
+ParentCo,Equity,2024-Q4,Sales,Product C,280240.64,USD
+ParentCo,Equity,2024-Q4,Sales,Service X,352594.81,USD
+ParentCo,Equity,2024-Q4,Sales,Service Y,347656.1,USD
+ParentCo,Equity,2024-Q4,Marketing,Product A,161777.02,EUR
+ParentCo,Equity,2024-Q4,Marketing,Product B,87436.65,EUR
+ParentCo,Equity,2024-Q4,Marketing,Product C,106788.9,USD
+ParentCo,Equity,2024-Q4,Marketing,Service X,305892.52,GBP
+ParentCo,Equity,2024-Q4,Marketing,Service Y,392154.95,USD
+ParentCo,Equity,2024-Q4,R&D,Product A,244996.88,USD
+ParentCo,Equity,2024-Q4,R&D,Product B,25150.79,USD
+ParentCo,Equity,2024-Q4,R&D,Product C,452296,EUR
+ParentCo,Equity,2024-Q4,R&D,Service X,350257.82,GBP
+ParentCo,Equity,2024-Q4,R&D,Service Y,112463.99,USD
+ParentCo,Equity,2024-Q4,Finance,Product A,485122.45,GBP
+ParentCo,Equity,2024-Q4,Finance,Product B,195195.74,USD
+ParentCo,Equity,2024-Q4,Finance,Product C,123511.31,EUR
+ParentCo,Equity,2024-Q4,Finance,Service X,492946.94,GBP
+ParentCo,Equity,2024-Q4,Finance,Service Y,130499.47,GBP
+ParentCo,Equity,2024-Q4,Operations,Product A,185133.45,GBP
+ParentCo,Equity,2024-Q4,Operations,Product B,125050.9,USD
+ParentCo,Equity,2024-Q4,Operations,Product C,266567.76,EUR
+ParentCo,Equity,2024-Q4,Operations,Service X,207909.08,GBP
+ParentCo,Equity,2024-Q4,Operations,Service Y,279343.18,GBP
+Subsidiary A,Revenue,2024-Q1,Sales,Product A,75614.95,USD
+Subsidiary A,Revenue,2024-Q1,Sales,Product B,356749.36,USD
+Subsidiary A,Revenue,2024-Q1,Sales,Product C,487951.24,GBP
+Subsidiary A,Revenue,2024-Q1,Sales,Service X,207154.39,EUR
+Subsidiary A,Revenue,2024-Q1,Sales,Service Y,462022.85,EUR
+Subsidiary A,Revenue,2024-Q1,Marketing,Product A,481720.46,EUR
+Subsidiary A,Revenue,2024-Q1,Marketing,Product B,387389.61,GBP
+Subsidiary A,Revenue,2024-Q1,Marketing,Product C,451301.35,EUR
+Subsidiary A,Revenue,2024-Q1,Marketing,Service X,499079.46,GBP
+Subsidiary A,Revenue,2024-Q1,Marketing,Service Y,423725.23,EUR
+Subsidiary A,Revenue,2024-Q1,R&D,Product A,170225.99,GBP
+Subsidiary A,Revenue,2024-Q1,R&D,Product B,186983.02,GBP
+Subsidiary A,Revenue,2024-Q1,R&D,Product C,112202.51,EUR
+Subsidiary A,Revenue,2024-Q1,R&D,Service X,150216.54,USD
+Subsidiary A,Revenue,2024-Q1,R&D,Service Y,170578.06,EUR
+Subsidiary A,Revenue,2024-Q1,Finance,Product A,112732.37,GBP
+Subsidiary A,Revenue,2024-Q1,Finance,Product B,77346.53,EUR
+Subsidiary A,Revenue,2024-Q1,Finance,Product C,108055.48,EUR
+Subsidiary A,Revenue,2024-Q1,Finance,Service X,127499.28,EUR
+Subsidiary A,Revenue,2024-Q1,Finance,Service Y,103626.54,EUR
+Subsidiary A,Revenue,2024-Q1,Operations,Product A,75659.85,EUR
+Subsidiary A,Revenue,2024-Q1,Operations,Product B,280805.35,EUR
+Subsidiary A,Revenue,2024-Q1,Operations,Product C,169329.14,EUR
+Subsidiary A,Revenue,2024-Q1,Operations,Service X,455204.28,USD
+Subsidiary A,Revenue,2024-Q1,Operations,Service Y,419202.04,GBP
+Subsidiary A,COGS,2024-Q1,Sales,Product A,298689.56,EUR
+Subsidiary A,COGS,2024-Q1,Sales,Product B,285249.01,EUR
+Subsidiary A,COGS,2024-Q1,Sales,Product C,356610.44,GBP
+Subsidiary A,COGS,2024-Q1,Sales,Service X,341794.97,USD
+Subsidiary A,COGS,2024-Q1,Sales,Service Y,22180.83,USD
+Subsidiary A,COGS,2024-Q1,Marketing,Product A,188004.65,EUR
+Subsidiary A,COGS,2024-Q1,Marketing,Product B,14855.05,GBP
+Subsidiary A,COGS,2024-Q1,Marketing,Product C,147988.43,USD
+Subsidiary A,COGS,2024-Q1,Marketing,Service X,118198.22,USD
+Subsidiary A,COGS,2024-Q1,Marketing,Service Y,128676.04,GBP
+Subsidiary A,COGS,2024-Q1,R&D,Product A,273737.22,GBP
+Subsidiary A,COGS,2024-Q1,R&D,Product B,345160,USD
+Subsidiary A,COGS,2024-Q1,R&D,Product C,350630.84,EUR
+Subsidiary A,COGS,2024-Q1,R&D,Service X,498934.1,GBP
+Subsidiary A,COGS,2024-Q1,R&D,Service Y,371733.15,EUR
+Subsidiary A,COGS,2024-Q1,Finance,Product A,479893.35,GBP
+Subsidiary A,COGS,2024-Q1,Finance,Product B,240172.8,GBP
+Subsidiary A,COGS,2024-Q1,Finance,Product C,454549.27,GBP
+Subsidiary A,COGS,2024-Q1,Finance,Service X,410195.38,USD
+Subsidiary A,COGS,2024-Q1,Finance,Service Y,133261.09,GBP
+Subsidiary A,COGS,2024-Q1,Operations,Product A,156701.63,USD
+Subsidiary A,COGS,2024-Q1,Operations,Product B,405627.77,GBP
+Subsidiary A,COGS,2024-Q1,Operations,Product C,164704.22,GBP
+Subsidiary A,COGS,2024-Q1,Operations,Service X,57216.8,GBP
+Subsidiary A,COGS,2024-Q1,Operations,Service Y,432208.69,GBP
+Subsidiary A,Operating Expenses,2024-Q1,Sales,Product A,381633.63,EUR
+Subsidiary A,Operating Expenses,2024-Q1,Sales,Product B,108554.66,EUR
+Subsidiary A,Operating Expenses,2024-Q1,Sales,Product C,48198.04,EUR
+Subsidiary A,Operating Expenses,2024-Q1,Sales,Service X,82124.8,GBP
+Subsidiary A,Operating Expenses,2024-Q1,Sales,Service Y,461868.32,USD
+Subsidiary A,Operating Expenses,2024-Q1,Marketing,Product A,136922.38,GBP
+Subsidiary A,Operating Expenses,2024-Q1,Marketing,Product B,25081.87,USD
+Subsidiary A,Operating Expenses,2024-Q1,Marketing,Product C,462895.2,GBP
+Subsidiary A,Operating Expenses,2024-Q1,Marketing,Service X,187548.94,GBP
+Subsidiary A,Operating Expenses,2024-Q1,Marketing,Service Y,174051.69,USD
+Subsidiary A,Operating Expenses,2024-Q1,R&D,Product A,72681.88,GBP
+Subsidiary A,Operating Expenses,2024-Q1,R&D,Product B,360817.08,EUR
+Subsidiary A,Operating Expenses,2024-Q1,R&D,Product C,262275.41,EUR
+Subsidiary A,Operating Expenses,2024-Q1,R&D,Service X,395553.36,GBP
+Subsidiary A,Operating Expenses,2024-Q1,R&D,Service Y,290776.59,EUR
+Subsidiary A,Operating Expenses,2024-Q1,Finance,Product A,123486.78,EUR
+Subsidiary A,Operating Expenses,2024-Q1,Finance,Product B,418803.48,EUR
+Subsidiary A,Operating Expenses,2024-Q1,Finance,Product C,58091.7,USD
+Subsidiary A,Operating Expenses,2024-Q1,Finance,Service X,144489.76,EUR
+Subsidiary A,Operating Expenses,2024-Q1,Finance,Service Y,308098.2,USD
+Subsidiary A,Operating Expenses,2024-Q1,Operations,Product A,48283.11,USD
+Subsidiary A,Operating Expenses,2024-Q1,Operations,Product B,94876.58,USD
+Subsidiary A,Operating Expenses,2024-Q1,Operations,Product C,71337.94,EUR
+Subsidiary A,Operating Expenses,2024-Q1,Operations,Service X,282339.78,GBP
+Subsidiary A,Operating Expenses,2024-Q1,Operations,Service Y,295446.78,EUR
+Subsidiary A,Net Income,2024-Q1,Sales,Product A,320270.71,EUR
+Subsidiary A,Net Income,2024-Q1,Sales,Product B,429650.54,EUR
+Subsidiary A,Net Income,2024-Q1,Sales,Product C,486325.89,USD
+Subsidiary A,Net Income,2024-Q1,Sales,Service X,367160.05,USD
+Subsidiary A,Net Income,2024-Q1,Sales,Service Y,363965.28,USD
+Subsidiary A,Net Income,2024-Q1,Marketing,Product A,395038.06,USD
+Subsidiary A,Net Income,2024-Q1,Marketing,Product B,419375.25,EUR
+Subsidiary A,Net Income,2024-Q1,Marketing,Product C,213493.98,GBP
+Subsidiary A,Net Income,2024-Q1,Marketing,Service X,226854.67,EUR
+Subsidiary A,Net Income,2024-Q1,Marketing,Service Y,497169.57,USD
+Subsidiary A,Net Income,2024-Q1,R&D,Product A,149422.04,GBP
+Subsidiary A,Net Income,2024-Q1,R&D,Product B,226783.59,USD
+Subsidiary A,Net Income,2024-Q1,R&D,Product C,318796.78,USD
+Subsidiary A,Net Income,2024-Q1,R&D,Service X,140678.9,EUR
+Subsidiary A,Net Income,2024-Q1,R&D,Service Y,151159.9,EUR
+Subsidiary A,Net Income,2024-Q1,Finance,Product A,131699.06,EUR
+Subsidiary A,Net Income,2024-Q1,Finance,Product B,22982.82,GBP
+Subsidiary A,Net Income,2024-Q1,Finance,Product C,45785.03,EUR
+Subsidiary A,Net Income,2024-Q1,Finance,Service X,297103.88,GBP
+Subsidiary A,Net Income,2024-Q1,Finance,Service Y,163324.61,GBP
+Subsidiary A,Net Income,2024-Q1,Operations,Product A,361367.82,USD
+Subsidiary A,Net Income,2024-Q1,Operations,Product B,260074.05,GBP
+Subsidiary A,Net Income,2024-Q1,Operations,Product C,480290.57,EUR
+Subsidiary A,Net Income,2024-Q1,Operations,Service X,61865.14,USD
+Subsidiary A,Net Income,2024-Q1,Operations,Service Y,294011.42,USD
+Subsidiary A,Assets,2024-Q1,Sales,Product A,459441.83,USD
+Subsidiary A,Assets,2024-Q1,Sales,Product B,453006.7,EUR
+Subsidiary A,Assets,2024-Q1,Sales,Product C,50082.72,USD
+Subsidiary A,Assets,2024-Q1,Sales,Service X,314494.48,USD
+Subsidiary A,Assets,2024-Q1,Sales,Service Y,253789.5,USD
+Subsidiary A,Assets,2024-Q1,Marketing,Product A,156888.65,USD
+Subsidiary A,Assets,2024-Q1,Marketing,Product B,373396.61,GBP
+Subsidiary A,Assets,2024-Q1,Marketing,Product C,339419.51,GBP
+Subsidiary A,Assets,2024-Q1,Marketing,Service X,270382.64,GBP
+Subsidiary A,Assets,2024-Q1,Marketing,Service Y,375812.58,EUR
+Subsidiary A,Assets,2024-Q1,R&D,Product A,116146.07,EUR
+Subsidiary A,Assets,2024-Q1,R&D,Product B,495945.23,USD
+Subsidiary A,Assets,2024-Q1,R&D,Product C,206686.84,GBP
+Subsidiary A,Assets,2024-Q1,R&D,Service X,168158.83,EUR
+Subsidiary A,Assets,2024-Q1,R&D,Service Y,175237.18,USD
+Subsidiary A,Assets,2024-Q1,Finance,Product A,336500.84,USD
+Subsidiary A,Assets,2024-Q1,Finance,Product B,374502.44,EUR
+Subsidiary A,Assets,2024-Q1,Finance,Product C,68958.93,EUR
+Subsidiary A,Assets,2024-Q1,Finance,Service X,157195.62,GBP
+Subsidiary A,Assets,2024-Q1,Finance,Service Y,335635.6,USD
+Subsidiary A,Assets,2024-Q1,Operations,Product A,291376.75,USD
+Subsidiary A,Assets,2024-Q1,Operations,Product B,303707.8,GBP
+Subsidiary A,Assets,2024-Q1,Operations,Product C,82645.55,GBP
+Subsidiary A,Assets,2024-Q1,Operations,Service X,215927.02,EUR
+Subsidiary A,Assets,2024-Q1,Operations,Service Y,198788.73,USD
+Subsidiary A,Liabilities,2024-Q1,Sales,Product A,408448.77,EUR
+Subsidiary A,Liabilities,2024-Q1,Sales,Product B,366892.55,USD
+Subsidiary A,Liabilities,2024-Q1,Sales,Product C,279177.41,GBP
+Subsidiary A,Liabilities,2024-Q1,Sales,Service X,144512.16,EUR
+Subsidiary A,Liabilities,2024-Q1,Sales,Service Y,463686.73,GBP
+Subsidiary A,Liabilities,2024-Q1,Marketing,Product A,92779.12,USD
+Subsidiary A,Liabilities,2024-Q1,Marketing,Product B,265515.19,EUR
+Subsidiary A,Liabilities,2024-Q1,Marketing,Product C,86521.71,USD
+Subsidiary A,Liabilities,2024-Q1,Marketing,Service X,344203.98,EUR
+Subsidiary A,Liabilities,2024-Q1,Marketing,Service Y,311988.77,GBP
+Subsidiary A,Liabilities,2024-Q1,R&D,Product A,475127.45,USD
+Subsidiary A,Liabilities,2024-Q1,R&D,Product B,12530.48,EUR
+Subsidiary A,Liabilities,2024-Q1,R&D,Product C,490017.31,EUR
+Subsidiary A,Liabilities,2024-Q1,R&D,Service X,10617.8,GBP
+Subsidiary A,Liabilities,2024-Q1,R&D,Service Y,214815.14,USD
+Subsidiary A,Liabilities,2024-Q1,Finance,Product A,191039.46,GBP
+Subsidiary A,Liabilities,2024-Q1,Finance,Product B,278899.54,GBP
+Subsidiary A,Liabilities,2024-Q1,Finance,Product C,298890.66,EUR
+Subsidiary A,Liabilities,2024-Q1,Finance,Service X,191564.98,EUR
+Subsidiary A,Liabilities,2024-Q1,Finance,Service Y,322593.16,USD
+Subsidiary A,Liabilities,2024-Q1,Operations,Product A,241484.44,USD
+Subsidiary A,Liabilities,2024-Q1,Operations,Product B,132054.62,USD
+Subsidiary A,Liabilities,2024-Q1,Operations,Product C,201045.72,USD
+Subsidiary A,Liabilities,2024-Q1,Operations,Service X,355733.95,GBP
+Subsidiary A,Liabilities,2024-Q1,Operations,Service Y,49774.6,EUR
+Subsidiary A,Equity,2024-Q1,Sales,Product A,420028.59,USD
+Subsidiary A,Equity,2024-Q1,Sales,Product B,370546.61,USD
+Subsidiary A,Equity,2024-Q1,Sales,Product C,357489.32,EUR
+Subsidiary A,Equity,2024-Q1,Sales,Service X,301572.86,GBP
+Subsidiary A,Equity,2024-Q1,Sales,Service Y,99169.74,EUR
+Subsidiary A,Equity,2024-Q1,Marketing,Product A,400924.58,EUR
+Subsidiary A,Equity,2024-Q1,Marketing,Product B,465262.35,GBP
+Subsidiary A,Equity,2024-Q1,Marketing,Product C,405751.62,GBP
+Subsidiary A,Equity,2024-Q1,Marketing,Service X,128740.01,GBP
+Subsidiary A,Equity,2024-Q1,Marketing,Service Y,265941.33,GBP
+Subsidiary A,Equity,2024-Q1,R&D,Product A,199743.53,EUR
+Subsidiary A,Equity,2024-Q1,R&D,Product B,319263.7,EUR
+Subsidiary A,Equity,2024-Q1,R&D,Product C,177862.08,USD
+Subsidiary A,Equity,2024-Q1,R&D,Service X,132620.82,GBP
+Subsidiary A,Equity,2024-Q1,R&D,Service Y,219234.57,GBP
+Subsidiary A,Equity,2024-Q1,Finance,Product A,99569.99,EUR
+Subsidiary A,Equity,2024-Q1,Finance,Product B,247671.91,USD
+Subsidiary A,Equity,2024-Q1,Finance,Product C,479077.56,USD
+Subsidiary A,Equity,2024-Q1,Finance,Service X,140784.34,EUR
+Subsidiary A,Equity,2024-Q1,Finance,Service Y,135047.4,USD
+Subsidiary A,Equity,2024-Q1,Operations,Product A,317668.75,GBP
+Subsidiary A,Equity,2024-Q1,Operations,Product B,208184.92,EUR
+Subsidiary A,Equity,2024-Q1,Operations,Product C,274944.95,EUR
+Subsidiary A,Equity,2024-Q1,Operations,Service X,265073.59,GBP
+Subsidiary A,Equity,2024-Q1,Operations,Service Y,95328.21,USD
+Subsidiary A,Revenue,2024-Q2,Sales,Product A,139023.46,EUR
+Subsidiary A,Revenue,2024-Q2,Sales,Product B,235237.55,GBP
+Subsidiary A,Revenue,2024-Q2,Sales,Product C,79745.07,GBP
+Subsidiary A,Revenue,2024-Q2,Sales,Service X,112143.83,EUR
+Subsidiary A,Revenue,2024-Q2,Sales,Service Y,477448.99,GBP
+Subsidiary A,Revenue,2024-Q2,Marketing,Product A,94461.75,USD
+Subsidiary A,Revenue,2024-Q2,Marketing,Product B,16530.96,USD
+Subsidiary A,Revenue,2024-Q2,Marketing,Product C,114851.98,EUR
+Subsidiary A,Revenue,2024-Q2,Marketing,Service X,91550.74,GBP
+Subsidiary A,Revenue,2024-Q2,Marketing,Service Y,334805.5,USD
+Subsidiary A,Revenue,2024-Q2,R&D,Product A,170888.5,USD
+Subsidiary A,Revenue,2024-Q2,R&D,Product B,212191.93,EUR
+Subsidiary A,Revenue,2024-Q2,R&D,Product C,339227.58,GBP
+Subsidiary A,Revenue,2024-Q2,R&D,Service X,164208.98,EUR
+Subsidiary A,Revenue,2024-Q2,R&D,Service Y,224196.38,USD
+Subsidiary A,Revenue,2024-Q2,Finance,Product A,284256.78,GBP
+Subsidiary A,Revenue,2024-Q2,Finance,Product B,154169.66,GBP
+Subsidiary A,Revenue,2024-Q2,Finance,Product C,94198.05,EUR
+Subsidiary A,Revenue,2024-Q2,Finance,Service X,413814.27,USD
+Subsidiary A,Revenue,2024-Q2,Finance,Service Y,29541.63,USD
+Subsidiary A,Revenue,2024-Q2,Operations,Product A,245205.83,USD
+Subsidiary A,Revenue,2024-Q2,Operations,Product B,390840.95,EUR
+Subsidiary A,Revenue,2024-Q2,Operations,Product C,205151.69,EUR
+Subsidiary A,Revenue,2024-Q2,Operations,Service X,455140.11,USD
+Subsidiary A,Revenue,2024-Q2,Operations,Service Y,65875.16,USD
+Subsidiary A,COGS,2024-Q2,Sales,Product A,102892.26,GBP
+Subsidiary A,COGS,2024-Q2,Sales,Product B,420209.06,USD
+Subsidiary A,COGS,2024-Q2,Sales,Product C,12996.99,GBP
+Subsidiary A,COGS,2024-Q2,Sales,Service X,132536.42,GBP
+Subsidiary A,COGS,2024-Q2,Sales,Service Y,276259.82,GBP
+Subsidiary A,COGS,2024-Q2,Marketing,Product A,428558.17,GBP
+Subsidiary A,COGS,2024-Q2,Marketing,Product B,285851.74,USD
+Subsidiary A,COGS,2024-Q2,Marketing,Product C,289547.37,EUR
+Subsidiary A,COGS,2024-Q2,Marketing,Service X,272410.82,GBP
+Subsidiary A,COGS,2024-Q2,Marketing,Service Y,441815.26,EUR
+Subsidiary A,COGS,2024-Q2,R&D,Product A,441751.58,GBP
+Subsidiary A,COGS,2024-Q2,R&D,Product B,165757.91,USD
+Subsidiary A,COGS,2024-Q2,R&D,Product C,31595.49,USD
+Subsidiary A,COGS,2024-Q2,R&D,Service X,206653.18,USD
+Subsidiary A,COGS,2024-Q2,R&D,Service Y,170753.01,EUR
+Subsidiary A,COGS,2024-Q2,Finance,Product A,486423.15,EUR
+Subsidiary A,COGS,2024-Q2,Finance,Product B,396621.8,EUR
+Subsidiary A,COGS,2024-Q2,Finance,Product C,191829.27,GBP
+Subsidiary A,COGS,2024-Q2,Finance,Service X,232841.48,GBP
+Subsidiary A,COGS,2024-Q2,Finance,Service Y,154721.38,GBP
+Subsidiary A,COGS,2024-Q2,Operations,Product A,385691.34,USD
+Subsidiary A,COGS,2024-Q2,Operations,Product B,272281.78,USD
+Subsidiary A,COGS,2024-Q2,Operations,Product C,337246.65,USD
+Subsidiary A,COGS,2024-Q2,Operations,Service X,64219.77,GBP
+Subsidiary A,COGS,2024-Q2,Operations,Service Y,220309.91,GBP
+Subsidiary A,Operating Expenses,2024-Q2,Sales,Product A,420025,EUR
+Subsidiary A,Operating Expenses,2024-Q2,Sales,Product B,297229.01,GBP
+Subsidiary A,Operating Expenses,2024-Q2,Sales,Product C,478776.76,EUR
+Subsidiary A,Operating Expenses,2024-Q2,Sales,Service X,258157.53,EUR
+Subsidiary A,Operating Expenses,2024-Q2,Sales,Service Y,313877.23,EUR
+Subsidiary A,Operating Expenses,2024-Q2,Marketing,Product A,69042.46,EUR
+Subsidiary A,Operating Expenses,2024-Q2,Marketing,Product B,65416.22,USD
+Subsidiary A,Operating Expenses,2024-Q2,Marketing,Product C,145275.16,USD
+Subsidiary A,Operating Expenses,2024-Q2,Marketing,Service X,12339.88,USD
+Subsidiary A,Operating Expenses,2024-Q2,Marketing,Service Y,288172.53,USD
+Subsidiary A,Operating Expenses,2024-Q2,R&D,Product A,281623.52,GBP
+Subsidiary A,Operating Expenses,2024-Q2,R&D,Product B,103034.76,GBP
+Subsidiary A,Operating Expenses,2024-Q2,R&D,Product C,101752.51,GBP
+Subsidiary A,Operating Expenses,2024-Q2,R&D,Service X,382764.21,USD
+Subsidiary A,Operating Expenses,2024-Q2,R&D,Service Y,137686.22,USD
+Subsidiary A,Operating Expenses,2024-Q2,Finance,Product A,435125.09,EUR
+Subsidiary A,Operating Expenses,2024-Q2,Finance,Product B,42360.9,GBP
+Subsidiary A,Operating Expenses,2024-Q2,Finance,Product C,224514.73,USD
+Subsidiary A,Operating Expenses,2024-Q2,Finance,Service X,132659.8,USD
+Subsidiary A,Operating Expenses,2024-Q2,Finance,Service Y,415889.62,GBP
+Subsidiary A,Operating Expenses,2024-Q2,Operations,Product A,172721.53,EUR
+Subsidiary A,Operating Expenses,2024-Q2,Operations,Product B,162412.38,USD
+Subsidiary A,Operating Expenses,2024-Q2,Operations,Product C,169555.06,EUR
+Subsidiary A,Operating Expenses,2024-Q2,Operations,Service X,29102.18,GBP
+Subsidiary A,Operating Expenses,2024-Q2,Operations,Service Y,155442.76,EUR
+Subsidiary A,Net Income,2024-Q2,Sales,Product A,43555.99,EUR
+Subsidiary A,Net Income,2024-Q2,Sales,Product B,278886.36,USD
+Subsidiary A,Net Income,2024-Q2,Sales,Product C,336532.66,EUR
+Subsidiary A,Net Income,2024-Q2,Sales,Service X,267070.85,USD
+Subsidiary A,Net Income,2024-Q2,Sales,Service Y,488559.91,EUR
+Subsidiary A,Net Income,2024-Q2,Marketing,Product A,327010.7,GBP
+Subsidiary A,Net Income,2024-Q2,Marketing,Product B,489914.74,GBP
+Subsidiary A,Net Income,2024-Q2,Marketing,Product C,113664.71,GBP
+Subsidiary A,Net Income,2024-Q2,Marketing,Service X,471835.7,EUR
+Subsidiary A,Net Income,2024-Q2,Marketing,Service Y,22508.45,USD
+Subsidiary A,Net Income,2024-Q2,R&D,Product A,296966.04,GBP
+Subsidiary A,Net Income,2024-Q2,R&D,Product B,156421.89,GBP
+Subsidiary A,Net Income,2024-Q2,R&D,Product C,73268.25,USD
+Subsidiary A,Net Income,2024-Q2,R&D,Service X,376517.41,USD
+Subsidiary A,Net Income,2024-Q2,R&D,Service Y,193916.62,GBP
+Subsidiary A,Net Income,2024-Q2,Finance,Product A,433429.03,GBP
+Subsidiary A,Net Income,2024-Q2,Finance,Product B,256023.51,USD
+Subsidiary A,Net Income,2024-Q2,Finance,Product C,394620.88,GBP
+Subsidiary A,Net Income,2024-Q2,Finance,Service X,455653.13,EUR
+Subsidiary A,Net Income,2024-Q2,Finance,Service Y,179817.04,USD
+Subsidiary A,Net Income,2024-Q2,Operations,Product A,70893.72,USD
+Subsidiary A,Net Income,2024-Q2,Operations,Product B,311801.75,USD
+Subsidiary A,Net Income,2024-Q2,Operations,Product C,171214.09,EUR
+Subsidiary A,Net Income,2024-Q2,Operations,Service X,215032.7,USD
+Subsidiary A,Net Income,2024-Q2,Operations,Service Y,219960.54,USD
+Subsidiary A,Assets,2024-Q2,Sales,Product A,89360.09,GBP
+Subsidiary A,Assets,2024-Q2,Sales,Product B,345921.92,GBP
+Subsidiary A,Assets,2024-Q2,Sales,Product C,427692.9,USD
+Subsidiary A,Assets,2024-Q2,Sales,Service X,258654.83,EUR
+Subsidiary A,Assets,2024-Q2,Sales,Service Y,352671.29,GBP
+Subsidiary A,Assets,2024-Q2,Marketing,Product A,480929.74,USD
+Subsidiary A,Assets,2024-Q2,Marketing,Product B,488646.26,EUR
+Subsidiary A,Assets,2024-Q2,Marketing,Product C,294167.59,GBP
+Subsidiary A,Assets,2024-Q2,Marketing,Service X,291434.7,USD
+Subsidiary A,Assets,2024-Q2,Marketing,Service Y,429008.08,EUR
+Subsidiary A,Assets,2024-Q2,R&D,Product A,274552.76,EUR
+Subsidiary A,Assets,2024-Q2,R&D,Product B,433581.68,GBP
+Subsidiary A,Assets,2024-Q2,R&D,Product C,333708.83,EUR
+Subsidiary A,Assets,2024-Q2,R&D,Service X,439797.01,GBP
+Subsidiary A,Assets,2024-Q2,R&D,Service Y,299888.08,USD
+Subsidiary A,Assets,2024-Q2,Finance,Product A,287537.02,GBP
+Subsidiary A,Assets,2024-Q2,Finance,Product B,454298.77,USD
+Subsidiary A,Assets,2024-Q2,Finance,Product C,364669.66,GBP
+Subsidiary A,Assets,2024-Q2,Finance,Service X,215426.81,GBP
+Subsidiary A,Assets,2024-Q2,Finance,Service Y,483806,USD
+Subsidiary A,Assets,2024-Q2,Operations,Product A,170107.99,USD
+Subsidiary A,Assets,2024-Q2,Operations,Product B,314429.15,EUR
+Subsidiary A,Assets,2024-Q2,Operations,Product C,367092.18,GBP
+Subsidiary A,Assets,2024-Q2,Operations,Service X,448041.76,GBP
+Subsidiary A,Assets,2024-Q2,Operations,Service Y,374894.2,GBP
+Subsidiary A,Liabilities,2024-Q2,Sales,Product A,128301.68,USD
+Subsidiary A,Liabilities,2024-Q2,Sales,Product B,251669.5,USD
+Subsidiary A,Liabilities,2024-Q2,Sales,Product C,69842.14,GBP
+Subsidiary A,Liabilities,2024-Q2,Sales,Service X,241321.8,EUR
+Subsidiary A,Liabilities,2024-Q2,Sales,Service Y,103972.46,EUR
+Subsidiary A,Liabilities,2024-Q2,Marketing,Product A,358514.2,GBP
+Subsidiary A,Liabilities,2024-Q2,Marketing,Product B,484789.93,EUR
+Subsidiary A,Liabilities,2024-Q2,Marketing,Product C,492573.91,EUR
+Subsidiary A,Liabilities,2024-Q2,Marketing,Service X,39159.73,EUR
+Subsidiary A,Liabilities,2024-Q2,Marketing,Service Y,164627.59,GBP
+Subsidiary A,Liabilities,2024-Q2,R&D,Product A,204599.76,EUR
+Subsidiary A,Liabilities,2024-Q2,R&D,Product B,368572.36,GBP
+Subsidiary A,Liabilities,2024-Q2,R&D,Product C,270102.34,EUR
+Subsidiary A,Liabilities,2024-Q2,R&D,Service X,436024.11,GBP
+Subsidiary A,Liabilities,2024-Q2,R&D,Service Y,41804.97,GBP
+Subsidiary A,Liabilities,2024-Q2,Finance,Product A,150194.71,USD
+Subsidiary A,Liabilities,2024-Q2,Finance,Product B,249341.51,USD
+Subsidiary A,Liabilities,2024-Q2,Finance,Product C,24719.54,EUR
+Subsidiary A,Liabilities,2024-Q2,Finance,Service X,398122.98,EUR
+Subsidiary A,Liabilities,2024-Q2,Finance,Service Y,475705.97,EUR
+Subsidiary A,Liabilities,2024-Q2,Operations,Product A,295429,USD
+Subsidiary A,Liabilities,2024-Q2,Operations,Product B,432810.96,GBP
+Subsidiary A,Liabilities,2024-Q2,Operations,Product C,171677.03,USD
+Subsidiary A,Liabilities,2024-Q2,Operations,Service X,332633.71,EUR
+Subsidiary A,Liabilities,2024-Q2,Operations,Service Y,166515.14,USD
+Subsidiary A,Equity,2024-Q2,Sales,Product A,36773.91,USD
+Subsidiary A,Equity,2024-Q2,Sales,Product B,383251.52,GBP
+Subsidiary A,Equity,2024-Q2,Sales,Product C,289779.66,EUR
+Subsidiary A,Equity,2024-Q2,Sales,Service X,45986.92,GBP
+Subsidiary A,Equity,2024-Q2,Sales,Service Y,117920.64,GBP
+Subsidiary A,Equity,2024-Q2,Marketing,Product A,429469.63,EUR
+Subsidiary A,Equity,2024-Q2,Marketing,Product B,288869.64,GBP
+Subsidiary A,Equity,2024-Q2,Marketing,Product C,16634.69,USD
+Subsidiary A,Equity,2024-Q2,Marketing,Service X,82391.39,USD
+Subsidiary A,Equity,2024-Q2,Marketing,Service Y,342380.41,EUR
+Subsidiary A,Equity,2024-Q2,R&D,Product A,181615.6,GBP
+Subsidiary A,Equity,2024-Q2,R&D,Product B,488273.29,USD
+Subsidiary A,Equity,2024-Q2,R&D,Product C,165298.34,EUR
+Subsidiary A,Equity,2024-Q2,R&D,Service X,463696.09,GBP
+Subsidiary A,Equity,2024-Q2,R&D,Service Y,386807.32,USD
+Subsidiary A,Equity,2024-Q2,Finance,Product A,97470.14,GBP
+Subsidiary A,Equity,2024-Q2,Finance,Product B,135662.84,EUR
+Subsidiary A,Equity,2024-Q2,Finance,Product C,34872.95,USD
+Subsidiary A,Equity,2024-Q2,Finance,Service X,111458.2,EUR
+Subsidiary A,Equity,2024-Q2,Finance,Service Y,203848.27,GBP
+Subsidiary A,Equity,2024-Q2,Operations,Product A,437697.04,EUR
+Subsidiary A,Equity,2024-Q2,Operations,Product B,126578.14,USD
+Subsidiary A,Equity,2024-Q2,Operations,Product C,10906.99,EUR
+Subsidiary A,Equity,2024-Q2,Operations,Service X,488760.93,GBP
+Subsidiary A,Equity,2024-Q2,Operations,Service Y,386555.2,GBP
+Subsidiary A,Revenue,2024-Q3,Sales,Product A,428188.11,GBP
+Subsidiary A,Revenue,2024-Q3,Sales,Product B,58888.13,USD
+Subsidiary A,Revenue,2024-Q3,Sales,Product C,150019,USD
+Subsidiary A,Revenue,2024-Q3,Sales,Service X,79130.38,GBP
+Subsidiary A,Revenue,2024-Q3,Sales,Service Y,19467.89,EUR
+Subsidiary A,Revenue,2024-Q3,Marketing,Product A,339917.42,USD
+Subsidiary A,Revenue,2024-Q3,Marketing,Product B,311181.15,EUR
+Subsidiary A,Revenue,2024-Q3,Marketing,Product C,312677.97,GBP
+Subsidiary A,Revenue,2024-Q3,Marketing,Service X,308198.46,GBP
+Subsidiary A,Revenue,2024-Q3,Marketing,Service Y,486731.12,GBP
+Subsidiary A,Revenue,2024-Q3,R&D,Product A,32571.29,EUR
+Subsidiary A,Revenue,2024-Q3,R&D,Product B,171112.02,EUR
+Subsidiary A,Revenue,2024-Q3,R&D,Product C,369476.14,USD
+Subsidiary A,Revenue,2024-Q3,R&D,Service X,398456.73,USD
+Subsidiary A,Revenue,2024-Q3,R&D,Service Y,113392.62,EUR
+Subsidiary A,Revenue,2024-Q3,Finance,Product A,191687.91,EUR
+Subsidiary A,Revenue,2024-Q3,Finance,Product B,439157.45,USD
+Subsidiary A,Revenue,2024-Q3,Finance,Product C,149323.18,EUR
+Subsidiary A,Revenue,2024-Q3,Finance,Service X,372352.28,GBP
+Subsidiary A,Revenue,2024-Q3,Finance,Service Y,323858.71,USD
+Subsidiary A,Revenue,2024-Q3,Operations,Product A,484740.79,GBP
+Subsidiary A,Revenue,2024-Q3,Operations,Product B,88846.96,USD
+Subsidiary A,Revenue,2024-Q3,Operations,Product C,459091.36,EUR
+Subsidiary A,Revenue,2024-Q3,Operations,Service X,397717.02,GBP
+Subsidiary A,Revenue,2024-Q3,Operations,Service Y,90645.68,GBP
+Subsidiary A,COGS,2024-Q3,Sales,Product A,393246.55,EUR
+Subsidiary A,COGS,2024-Q3,Sales,Product B,40233.35,GBP
+Subsidiary A,COGS,2024-Q3,Sales,Product C,82686.11,GBP
+Subsidiary A,COGS,2024-Q3,Sales,Service X,119640.91,GBP
+Subsidiary A,COGS,2024-Q3,Sales,Service Y,119211.71,EUR
+Subsidiary A,COGS,2024-Q3,Marketing,Product A,136346.23,GBP
+Subsidiary A,COGS,2024-Q3,Marketing,Product B,311489.9,GBP
+Subsidiary A,COGS,2024-Q3,Marketing,Product C,105486.77,EUR
+Subsidiary A,COGS,2024-Q3,Marketing,Service X,400633.69,GBP
+Subsidiary A,COGS,2024-Q3,Marketing,Service Y,272410.45,GBP
+Subsidiary A,COGS,2024-Q3,R&D,Product A,184197.39,USD
+Subsidiary A,COGS,2024-Q3,R&D,Product B,483190.1,EUR
+Subsidiary A,COGS,2024-Q3,R&D,Product C,41979.77,EUR
+Subsidiary A,COGS,2024-Q3,R&D,Service X,438956.84,EUR
+Subsidiary A,COGS,2024-Q3,R&D,Service Y,235978.76,GBP
+Subsidiary A,COGS,2024-Q3,Finance,Product A,257494.4,EUR
+Subsidiary A,COGS,2024-Q3,Finance,Product B,43102.56,USD
+Subsidiary A,COGS,2024-Q3,Finance,Product C,499283.64,GBP
+Subsidiary A,COGS,2024-Q3,Finance,Service X,26032.82,EUR
+Subsidiary A,COGS,2024-Q3,Finance,Service Y,386972.95,GBP
+Subsidiary A,COGS,2024-Q3,Operations,Product A,286429.57,EUR
+Subsidiary A,COGS,2024-Q3,Operations,Product B,165288.06,USD
+Subsidiary A,COGS,2024-Q3,Operations,Product C,149492.44,EUR
+Subsidiary A,COGS,2024-Q3,Operations,Service X,384808.03,EUR
+Subsidiary A,COGS,2024-Q3,Operations,Service Y,230272.77,USD
+Subsidiary A,Operating Expenses,2024-Q3,Sales,Product A,105929.27,EUR
+Subsidiary A,Operating Expenses,2024-Q3,Sales,Product B,477939.27,EUR
+Subsidiary A,Operating Expenses,2024-Q3,Sales,Product C,459563.08,GBP
+Subsidiary A,Operating Expenses,2024-Q3,Sales,Service X,408658.78,EUR
+Subsidiary A,Operating Expenses,2024-Q3,Sales,Service Y,168572.81,USD
+Subsidiary A,Operating Expenses,2024-Q3,Marketing,Product A,410888.7,EUR
+Subsidiary A,Operating Expenses,2024-Q3,Marketing,Product B,107411.91,GBP
+Subsidiary A,Operating Expenses,2024-Q3,Marketing,Product C,255560.9,USD
+Subsidiary A,Operating Expenses,2024-Q3,Marketing,Service X,179962.39,USD
+Subsidiary A,Operating Expenses,2024-Q3,Marketing,Service Y,333493.37,USD
+Subsidiary A,Operating Expenses,2024-Q3,R&D,Product A,53256.82,USD
+Subsidiary A,Operating Expenses,2024-Q3,R&D,Product B,482658.08,GBP
+Subsidiary A,Operating Expenses,2024-Q3,R&D,Product C,286548.7,GBP
+Subsidiary A,Operating Expenses,2024-Q3,R&D,Service X,465863.71,EUR
+Subsidiary A,Operating Expenses,2024-Q3,R&D,Service Y,425500.77,GBP
+Subsidiary A,Operating Expenses,2024-Q3,Finance,Product A,102188.74,USD
+Subsidiary A,Operating Expenses,2024-Q3,Finance,Product B,261322.18,EUR
+Subsidiary A,Operating Expenses,2024-Q3,Finance,Product C,439861.41,USD
+Subsidiary A,Operating Expenses,2024-Q3,Finance,Service X,15684.06,USD
+Subsidiary A,Operating Expenses,2024-Q3,Finance,Service Y,151159.85,EUR
+Subsidiary A,Operating Expenses,2024-Q3,Operations,Product A,322171.34,GBP
+Subsidiary A,Operating Expenses,2024-Q3,Operations,Product B,313638.97,USD
+Subsidiary A,Operating Expenses,2024-Q3,Operations,Product C,140209.52,USD
+Subsidiary A,Operating Expenses,2024-Q3,Operations,Service X,371832.05,EUR
+Subsidiary A,Operating Expenses,2024-Q3,Operations,Service Y,288306.78,USD
+Subsidiary A,Net Income,2024-Q3,Sales,Product A,400430.54,EUR
+Subsidiary A,Net Income,2024-Q3,Sales,Product B,425937.53,GBP
+Subsidiary A,Net Income,2024-Q3,Sales,Product C,426536.99,GBP
+Subsidiary A,Net Income,2024-Q3,Sales,Service X,400193.58,EUR
+Subsidiary A,Net Income,2024-Q3,Sales,Service Y,492615.94,EUR
+Subsidiary A,Net Income,2024-Q3,Marketing,Product A,131593.17,GBP
+Subsidiary A,Net Income,2024-Q3,Marketing,Product B,399884.07,USD
+Subsidiary A,Net Income,2024-Q3,Marketing,Product C,134784.72,EUR
+Subsidiary A,Net Income,2024-Q3,Marketing,Service X,372663.04,USD
+Subsidiary A,Net Income,2024-Q3,Marketing,Service Y,426162.26,EUR
+Subsidiary A,Net Income,2024-Q3,R&D,Product A,449408.45,USD
+Subsidiary A,Net Income,2024-Q3,R&D,Product B,273029.95,USD
+Subsidiary A,Net Income,2024-Q3,R&D,Product C,389786.56,GBP
+Subsidiary A,Net Income,2024-Q3,R&D,Service X,178194.44,GBP
+Subsidiary A,Net Income,2024-Q3,R&D,Service Y,200631.25,GBP
+Subsidiary A,Net Income,2024-Q3,Finance,Product A,86276.6,GBP
+Subsidiary A,Net Income,2024-Q3,Finance,Product B,48533.51,USD
+Subsidiary A,Net Income,2024-Q3,Finance,Product C,441671.24,EUR
+Subsidiary A,Net Income,2024-Q3,Finance,Service X,316806.47,GBP
+Subsidiary A,Net Income,2024-Q3,Finance,Service Y,485267.76,USD
+Subsidiary A,Net Income,2024-Q3,Operations,Product A,362816.28,EUR
+Subsidiary A,Net Income,2024-Q3,Operations,Product B,17843.77,USD
+Subsidiary A,Net Income,2024-Q3,Operations,Product C,236062.18,USD
+Subsidiary A,Net Income,2024-Q3,Operations,Service X,336607.46,GBP
+Subsidiary A,Net Income,2024-Q3,Operations,Service Y,326244.81,USD
+Subsidiary A,Assets,2024-Q3,Sales,Product A,268503.52,GBP
+Subsidiary A,Assets,2024-Q3,Sales,Product B,11628.73,GBP
+Subsidiary A,Assets,2024-Q3,Sales,Product C,382349.98,EUR
+Subsidiary A,Assets,2024-Q3,Sales,Service X,439368.54,GBP
+Subsidiary A,Assets,2024-Q3,Sales,Service Y,278808.06,USD
+Subsidiary A,Assets,2024-Q3,Marketing,Product A,406413.54,EUR
+Subsidiary A,Assets,2024-Q3,Marketing,Product B,260337.69,USD
+Subsidiary A,Assets,2024-Q3,Marketing,Product C,58690.42,USD
+Subsidiary A,Assets,2024-Q3,Marketing,Service X,315527.31,USD
+Subsidiary A,Assets,2024-Q3,Marketing,Service Y,25654.39,USD
+Subsidiary A,Assets,2024-Q3,R&D,Product A,379551.35,EUR
+Subsidiary A,Assets,2024-Q3,R&D,Product B,394592.95,USD
+Subsidiary A,Assets,2024-Q3,R&D,Product C,86099.23,EUR
+Subsidiary A,Assets,2024-Q3,R&D,Service X,61432.32,GBP
+Subsidiary A,Assets,2024-Q3,R&D,Service Y,368608.74,GBP
+Subsidiary A,Assets,2024-Q3,Finance,Product A,422931.25,GBP
+Subsidiary A,Assets,2024-Q3,Finance,Product B,203785.29,GBP
+Subsidiary A,Assets,2024-Q3,Finance,Product C,88112.94,GBP
+Subsidiary A,Assets,2024-Q3,Finance,Service X,161183.53,GBP
+Subsidiary A,Assets,2024-Q3,Finance,Service Y,398303.02,EUR
+Subsidiary A,Assets,2024-Q3,Operations,Product A,117710.6,EUR
+Subsidiary A,Assets,2024-Q3,Operations,Product B,198230.65,GBP
+Subsidiary A,Assets,2024-Q3,Operations,Product C,227616.53,EUR
+Subsidiary A,Assets,2024-Q3,Operations,Service X,239237.52,GBP
+Subsidiary A,Assets,2024-Q3,Operations,Service Y,408942.19,GBP
+Subsidiary A,Liabilities,2024-Q3,Sales,Product A,464554.4,GBP
+Subsidiary A,Liabilities,2024-Q3,Sales,Product B,496905.66,EUR
+Subsidiary A,Liabilities,2024-Q3,Sales,Product C,430986.52,GBP
+Subsidiary A,Liabilities,2024-Q3,Sales,Service X,183339.66,GBP
+Subsidiary A,Liabilities,2024-Q3,Sales,Service Y,232996.57,GBP
+Subsidiary A,Liabilities,2024-Q3,Marketing,Product A,222361.9,GBP
+Subsidiary A,Liabilities,2024-Q3,Marketing,Product B,33634.08,USD
+Subsidiary A,Liabilities,2024-Q3,Marketing,Product C,205942.08,GBP
+Subsidiary A,Liabilities,2024-Q3,Marketing,Service X,413578.91,USD
+Subsidiary A,Liabilities,2024-Q3,Marketing,Service Y,233545.43,GBP
+Subsidiary A,Liabilities,2024-Q3,R&D,Product A,381439.1,USD
+Subsidiary A,Liabilities,2024-Q3,R&D,Product B,176221.71,USD
+Subsidiary A,Liabilities,2024-Q3,R&D,Product C,271787.9,EUR
+Subsidiary A,Liabilities,2024-Q3,R&D,Service X,32381.27,EUR
+Subsidiary A,Liabilities,2024-Q3,R&D,Service Y,63034.05,GBP
+Subsidiary A,Liabilities,2024-Q3,Finance,Product A,176687.32,USD
+Subsidiary A,Liabilities,2024-Q3,Finance,Product B,231581.13,GBP
+Subsidiary A,Liabilities,2024-Q3,Finance,Product C,231172.37,EUR
+Subsidiary A,Liabilities,2024-Q3,Finance,Service X,289367.68,GBP
+Subsidiary A,Liabilities,2024-Q3,Finance,Service Y,302574.98,GBP
+Subsidiary A,Liabilities,2024-Q3,Operations,Product A,162621.22,USD
+Subsidiary A,Liabilities,2024-Q3,Operations,Product B,372288.86,USD
+Subsidiary A,Liabilities,2024-Q3,Operations,Product C,401037.38,GBP
+Subsidiary A,Liabilities,2024-Q3,Operations,Service X,227435.04,USD
+Subsidiary A,Liabilities,2024-Q3,Operations,Service Y,363878.2,USD
+Subsidiary A,Equity,2024-Q3,Sales,Product A,332356.25,GBP
+Subsidiary A,Equity,2024-Q3,Sales,Product B,272647.31,USD
+Subsidiary A,Equity,2024-Q3,Sales,Product C,163587.29,GBP
+Subsidiary A,Equity,2024-Q3,Sales,Service X,152420.82,GBP
+Subsidiary A,Equity,2024-Q3,Sales,Service Y,474053.66,EUR
+Subsidiary A,Equity,2024-Q3,Marketing,Product A,389172.98,GBP
+Subsidiary A,Equity,2024-Q3,Marketing,Product B,250174.7,USD
+Subsidiary A,Equity,2024-Q3,Marketing,Product C,290282.9,USD
+Subsidiary A,Equity,2024-Q3,Marketing,Service X,335065.99,GBP
+Subsidiary A,Equity,2024-Q3,Marketing,Service Y,209113.04,USD
+Subsidiary A,Equity,2024-Q3,R&D,Product A,83611.84,GBP
+Subsidiary A,Equity,2024-Q3,R&D,Product B,454169.31,EUR
+Subsidiary A,Equity,2024-Q3,R&D,Product C,415866.06,EUR
+Subsidiary A,Equity,2024-Q3,R&D,Service X,104345.46,USD
+Subsidiary A,Equity,2024-Q3,R&D,Service Y,219700.48,GBP
+Subsidiary A,Equity,2024-Q3,Finance,Product A,472823.09,EUR
+Subsidiary A,Equity,2024-Q3,Finance,Product B,76275.47,USD
+Subsidiary A,Equity,2024-Q3,Finance,Product C,417261.69,GBP
+Subsidiary A,Equity,2024-Q3,Finance,Service X,95236.91,EUR
+Subsidiary A,Equity,2024-Q3,Finance,Service Y,294491.45,EUR
+Subsidiary A,Equity,2024-Q3,Operations,Product A,396097.32,EUR
+Subsidiary A,Equity,2024-Q3,Operations,Product B,253585.5,USD
+Subsidiary A,Equity,2024-Q3,Operations,Product C,87681.3,USD
+Subsidiary A,Equity,2024-Q3,Operations,Service X,354958.14,USD
+Subsidiary A,Equity,2024-Q3,Operations,Service Y,284826.28,EUR
+Subsidiary A,Revenue,2024-Q4,Sales,Product A,489894.92,USD
+Subsidiary A,Revenue,2024-Q4,Sales,Product B,257682.19,GBP
+Subsidiary A,Revenue,2024-Q4,Sales,Product C,401322.79,EUR
+Subsidiary A,Revenue,2024-Q4,Sales,Service X,379954.22,USD
+Subsidiary A,Revenue,2024-Q4,Sales,Service Y,334287.83,EUR
+Subsidiary A,Revenue,2024-Q4,Marketing,Product A,270549.33,GBP
+Subsidiary A,Revenue,2024-Q4,Marketing,Product B,290279.6,GBP
+Subsidiary A,Revenue,2024-Q4,Marketing,Product C,230970.22,GBP
+Subsidiary A,Revenue,2024-Q4,Marketing,Service X,107115.13,EUR
+Subsidiary A,Revenue,2024-Q4,Marketing,Service Y,161269.7,USD
+Subsidiary A,Revenue,2024-Q4,R&D,Product A,310995,EUR
+Subsidiary A,Revenue,2024-Q4,R&D,Product B,227737,EUR
+Subsidiary A,Revenue,2024-Q4,R&D,Product C,200693.88,EUR
+Subsidiary A,Revenue,2024-Q4,R&D,Service X,353586.07,USD
+Subsidiary A,Revenue,2024-Q4,R&D,Service Y,206838.14,GBP
+Subsidiary A,Revenue,2024-Q4,Finance,Product A,201216.5,EUR
+Subsidiary A,Revenue,2024-Q4,Finance,Product B,94123.16,EUR
+Subsidiary A,Revenue,2024-Q4,Finance,Product C,340146.28,EUR
+Subsidiary A,Revenue,2024-Q4,Finance,Service X,113434.25,EUR
+Subsidiary A,Revenue,2024-Q4,Finance,Service Y,29762.91,USD
+Subsidiary A,Revenue,2024-Q4,Operations,Product A,408698.52,EUR
+Subsidiary A,Revenue,2024-Q4,Operations,Product B,268264.69,USD
+Subsidiary A,Revenue,2024-Q4,Operations,Product C,116516.47,GBP
+Subsidiary A,Revenue,2024-Q4,Operations,Service X,395582.82,USD
+Subsidiary A,Revenue,2024-Q4,Operations,Service Y,134165.39,EUR
+Subsidiary A,COGS,2024-Q4,Sales,Product A,269848.86,GBP
+Subsidiary A,COGS,2024-Q4,Sales,Product B,247003.98,USD
+Subsidiary A,COGS,2024-Q4,Sales,Product C,13153.66,EUR
+Subsidiary A,COGS,2024-Q4,Sales,Service X,317272.8,USD
+Subsidiary A,COGS,2024-Q4,Sales,Service Y,361152.34,EUR
+Subsidiary A,COGS,2024-Q4,Marketing,Product A,491599.89,GBP
+Subsidiary A,COGS,2024-Q4,Marketing,Product B,47579.71,GBP
+Subsidiary A,COGS,2024-Q4,Marketing,Product C,243307.81,USD
+Subsidiary A,COGS,2024-Q4,Marketing,Service X,416219.37,EUR
+Subsidiary A,COGS,2024-Q4,Marketing,Service Y,148731.42,EUR
+Subsidiary A,COGS,2024-Q4,R&D,Product A,141644.14,EUR
+Subsidiary A,COGS,2024-Q4,R&D,Product B,62751.52,GBP
+Subsidiary A,COGS,2024-Q4,R&D,Product C,481523.08,EUR
+Subsidiary A,COGS,2024-Q4,R&D,Service X,170654.77,EUR
+Subsidiary A,COGS,2024-Q4,R&D,Service Y,485937.22,USD
+Subsidiary A,COGS,2024-Q4,Finance,Product A,369024.13,USD
+Subsidiary A,COGS,2024-Q4,Finance,Product B,379619.36,USD
+Subsidiary A,COGS,2024-Q4,Finance,Product C,255033.92,EUR
+Subsidiary A,COGS,2024-Q4,Finance,Service X,444152.71,EUR
+Subsidiary A,COGS,2024-Q4,Finance,Service Y,73659.14,EUR
+Subsidiary A,COGS,2024-Q4,Operations,Product A,134792.64,GBP
+Subsidiary A,COGS,2024-Q4,Operations,Product B,237157.35,EUR
+Subsidiary A,COGS,2024-Q4,Operations,Product C,440769.21,GBP
+Subsidiary A,COGS,2024-Q4,Operations,Service X,356113.82,USD
+Subsidiary A,COGS,2024-Q4,Operations,Service Y,233355.88,EUR
+Subsidiary A,Operating Expenses,2024-Q4,Sales,Product A,414487.64,USD
+Subsidiary A,Operating Expenses,2024-Q4,Sales,Product B,181570.57,GBP
+Subsidiary A,Operating Expenses,2024-Q4,Sales,Product C,403252.63,GBP
+Subsidiary A,Operating Expenses,2024-Q4,Sales,Service X,233517.34,USD
+Subsidiary A,Operating Expenses,2024-Q4,Sales,Service Y,23683.06,GBP
+Subsidiary A,Operating Expenses,2024-Q4,Marketing,Product A,113499.69,USD
+Subsidiary A,Operating Expenses,2024-Q4,Marketing,Product B,483997.53,GBP
+Subsidiary A,Operating Expenses,2024-Q4,Marketing,Product C,345192.85,USD
+Subsidiary A,Operating Expenses,2024-Q4,Marketing,Service X,112655.97,USD
+Subsidiary A,Operating Expenses,2024-Q4,Marketing,Service Y,228368.47,GBP
+Subsidiary A,Operating Expenses,2024-Q4,R&D,Product A,60866.14,USD
+Subsidiary A,Operating Expenses,2024-Q4,R&D,Product B,347184.59,USD
+Subsidiary A,Operating Expenses,2024-Q4,R&D,Product C,447396.93,USD
+Subsidiary A,Operating Expenses,2024-Q4,R&D,Service X,210505.95,USD
+Subsidiary A,Operating Expenses,2024-Q4,R&D,Service Y,417034.91,GBP
+Subsidiary A,Operating Expenses,2024-Q4,Finance,Product A,461363.31,EUR
+Subsidiary A,Operating Expenses,2024-Q4,Finance,Product B,427633.2,EUR
+Subsidiary A,Operating Expenses,2024-Q4,Finance,Product C,448943.73,EUR
+Subsidiary A,Operating Expenses,2024-Q4,Finance,Service X,136756.29,GBP
+Subsidiary A,Operating Expenses,2024-Q4,Finance,Service Y,429842.45,GBP
+Subsidiary A,Operating Expenses,2024-Q4,Operations,Product A,135687.88,EUR
+Subsidiary A,Operating Expenses,2024-Q4,Operations,Product B,433038.3,USD
+Subsidiary A,Operating Expenses,2024-Q4,Operations,Product C,450974.82,USD
+Subsidiary A,Operating Expenses,2024-Q4,Operations,Service X,194027.51,GBP
+Subsidiary A,Operating Expenses,2024-Q4,Operations,Service Y,268980.39,GBP
+Subsidiary A,Net Income,2024-Q4,Sales,Product A,404594.05,EUR
+Subsidiary A,Net Income,2024-Q4,Sales,Product B,215300.47,GBP
+Subsidiary A,Net Income,2024-Q4,Sales,Product C,241950.92,EUR
+Subsidiary A,Net Income,2024-Q4,Sales,Service X,166813.35,USD
+Subsidiary A,Net Income,2024-Q4,Sales,Service Y,450594.23,USD
+Subsidiary A,Net Income,2024-Q4,Marketing,Product A,22025.63,USD
+Subsidiary A,Net Income,2024-Q4,Marketing,Product B,15194.09,GBP
+Subsidiary A,Net Income,2024-Q4,Marketing,Product C,435065.18,GBP
+Subsidiary A,Net Income,2024-Q4,Marketing,Service X,449833.38,USD
+Subsidiary A,Net Income,2024-Q4,Marketing,Service Y,456854.79,GBP
+Subsidiary A,Net Income,2024-Q4,R&D,Product A,123001.75,GBP
+Subsidiary A,Net Income,2024-Q4,R&D,Product B,412118.54,USD
+Subsidiary A,Net Income,2024-Q4,R&D,Product C,329589.59,USD
+Subsidiary A,Net Income,2024-Q4,R&D,Service X,210914.46,USD
+Subsidiary A,Net Income,2024-Q4,R&D,Service Y,419059.64,USD
+Subsidiary A,Net Income,2024-Q4,Finance,Product A,406927.99,GBP
+Subsidiary A,Net Income,2024-Q4,Finance,Product B,24613.2,USD
+Subsidiary A,Net Income,2024-Q4,Finance,Product C,467158.71,USD
+Subsidiary A,Net Income,2024-Q4,Finance,Service X,160987.77,EUR
+Subsidiary A,Net Income,2024-Q4,Finance,Service Y,160684.11,USD
+Subsidiary A,Net Income,2024-Q4,Operations,Product A,210207.3,USD
+Subsidiary A,Net Income,2024-Q4,Operations,Product B,381972.25,EUR
+Subsidiary A,Net Income,2024-Q4,Operations,Product C,70288.66,GBP
+Subsidiary A,Net Income,2024-Q4,Operations,Service X,402594.61,GBP
+Subsidiary A,Net Income,2024-Q4,Operations,Service Y,208748.45,GBP
+Subsidiary A,Assets,2024-Q4,Sales,Product A,54204.55,USD
+Subsidiary A,Assets,2024-Q4,Sales,Product B,411598.22,EUR
+Subsidiary A,Assets,2024-Q4,Sales,Product C,165025.2,USD
+Subsidiary A,Assets,2024-Q4,Sales,Service X,218958.38,EUR
+Subsidiary A,Assets,2024-Q4,Sales,Service Y,482239.58,GBP
+Subsidiary A,Assets,2024-Q4,Marketing,Product A,121274.61,USD
+Subsidiary A,Assets,2024-Q4,Marketing,Product B,99695.71,EUR
+Subsidiary A,Assets,2024-Q4,Marketing,Product C,440923.9,EUR
+Subsidiary A,Assets,2024-Q4,Marketing,Service X,274465.25,EUR
+Subsidiary A,Assets,2024-Q4,Marketing,Service Y,362092.29,EUR
+Subsidiary A,Assets,2024-Q4,R&D,Product A,257536.8,EUR
+Subsidiary A,Assets,2024-Q4,R&D,Product B,208664.09,GBP
+Subsidiary A,Assets,2024-Q4,R&D,Product C,360480.96,EUR
+Subsidiary A,Assets,2024-Q4,R&D,Service X,16844.54,GBP
+Subsidiary A,Assets,2024-Q4,R&D,Service Y,203814.91,EUR
+Subsidiary A,Assets,2024-Q4,Finance,Product A,471311.31,EUR
+Subsidiary A,Assets,2024-Q4,Finance,Product B,13287.78,EUR
+Subsidiary A,Assets,2024-Q4,Finance,Product C,91798.46,EUR
+Subsidiary A,Assets,2024-Q4,Finance,Service X,402574.61,GBP
+Subsidiary A,Assets,2024-Q4,Finance,Service Y,277083.86,GBP
+Subsidiary A,Assets,2024-Q4,Operations,Product A,432750.16,GBP
+Subsidiary A,Assets,2024-Q4,Operations,Product B,249241.11,EUR
+Subsidiary A,Assets,2024-Q4,Operations,Product C,493959.79,GBP
+Subsidiary A,Assets,2024-Q4,Operations,Service X,466450.96,GBP
+Subsidiary A,Assets,2024-Q4,Operations,Service Y,144288.74,USD
+Subsidiary A,Liabilities,2024-Q4,Sales,Product A,354314.77,GBP
+Subsidiary A,Liabilities,2024-Q4,Sales,Product B,337643.83,USD
+Subsidiary A,Liabilities,2024-Q4,Sales,Product C,43803.2,EUR
+Subsidiary A,Liabilities,2024-Q4,Sales,Service X,42989.75,EUR
+Subsidiary A,Liabilities,2024-Q4,Sales,Service Y,437337.51,GBP
+Subsidiary A,Liabilities,2024-Q4,Marketing,Product A,384845.29,GBP
+Subsidiary A,Liabilities,2024-Q4,Marketing,Product B,449249.63,GBP
+Subsidiary A,Liabilities,2024-Q4,Marketing,Product C,475746.02,GBP
+Subsidiary A,Liabilities,2024-Q4,Marketing,Service X,483928.01,EUR
+Subsidiary A,Liabilities,2024-Q4,Marketing,Service Y,79115.03,GBP
+Subsidiary A,Liabilities,2024-Q4,R&D,Product A,238354.25,GBP
+Subsidiary A,Liabilities,2024-Q4,R&D,Product B,55449.94,GBP
+Subsidiary A,Liabilities,2024-Q4,R&D,Product C,107290.37,GBP
+Subsidiary A,Liabilities,2024-Q4,R&D,Service X,341014.22,GBP
+Subsidiary A,Liabilities,2024-Q4,R&D,Service Y,170914.3,GBP
+Subsidiary A,Liabilities,2024-Q4,Finance,Product A,406690.47,USD
+Subsidiary A,Liabilities,2024-Q4,Finance,Product B,127270.67,EUR
+Subsidiary A,Liabilities,2024-Q4,Finance,Product C,426236.16,USD
+Subsidiary A,Liabilities,2024-Q4,Finance,Service X,390779.28,GBP
+Subsidiary A,Liabilities,2024-Q4,Finance,Service Y,330674.78,USD
+Subsidiary A,Liabilities,2024-Q4,Operations,Product A,83818.65,GBP
+Subsidiary A,Liabilities,2024-Q4,Operations,Product B,453865.12,EUR
+Subsidiary A,Liabilities,2024-Q4,Operations,Product C,408964.28,USD
+Subsidiary A,Liabilities,2024-Q4,Operations,Service X,421205.67,USD
+Subsidiary A,Liabilities,2024-Q4,Operations,Service Y,37578.73,USD
+Subsidiary A,Equity,2024-Q4,Sales,Product A,463178.21,GBP
+Subsidiary A,Equity,2024-Q4,Sales,Product B,127276.45,USD
+Subsidiary A,Equity,2024-Q4,Sales,Product C,92739.96,GBP
+Subsidiary A,Equity,2024-Q4,Sales,Service X,412976.67,GBP
+Subsidiary A,Equity,2024-Q4,Sales,Service Y,491935.8,GBP
+Subsidiary A,Equity,2024-Q4,Marketing,Product A,369376.26,USD
+Subsidiary A,Equity,2024-Q4,Marketing,Product B,17942.63,GBP
+Subsidiary A,Equity,2024-Q4,Marketing,Product C,87732.13,USD
+Subsidiary A,Equity,2024-Q4,Marketing,Service X,442715.66,USD
+Subsidiary A,Equity,2024-Q4,Marketing,Service Y,11191.22,GBP
+Subsidiary A,Equity,2024-Q4,R&D,Product A,388299.26,USD
+Subsidiary A,Equity,2024-Q4,R&D,Product B,149466.58,USD
+Subsidiary A,Equity,2024-Q4,R&D,Product C,422623.42,USD
+Subsidiary A,Equity,2024-Q4,R&D,Service X,387567.82,EUR
+Subsidiary A,Equity,2024-Q4,R&D,Service Y,287869.76,GBP
+Subsidiary A,Equity,2024-Q4,Finance,Product A,113256.05,USD
+Subsidiary A,Equity,2024-Q4,Finance,Product B,125085.24,GBP
+Subsidiary A,Equity,2024-Q4,Finance,Product C,439699.25,GBP
+Subsidiary A,Equity,2024-Q4,Finance,Service X,208816.29,EUR
+Subsidiary A,Equity,2024-Q4,Finance,Service Y,101729.98,EUR
+Subsidiary A,Equity,2024-Q4,Operations,Product A,176658.73,GBP
+Subsidiary A,Equity,2024-Q4,Operations,Product B,121699.65,EUR
+Subsidiary A,Equity,2024-Q4,Operations,Product C,331630.82,EUR
+Subsidiary A,Equity,2024-Q4,Operations,Service X,345590.99,EUR
+Subsidiary A,Equity,2024-Q4,Operations,Service Y,19064.65,GBP
+Subsidiary B,Revenue,2024-Q1,Sales,Product A,85253.91,GBP
+Subsidiary B,Revenue,2024-Q1,Sales,Product B,181809.49,GBP
+Subsidiary B,Revenue,2024-Q1,Sales,Product C,253811.93,EUR
+Subsidiary B,Revenue,2024-Q1,Sales,Service X,470028.97,GBP
+Subsidiary B,Revenue,2024-Q1,Sales,Service Y,344195.25,GBP
+Subsidiary B,Revenue,2024-Q1,Marketing,Product A,46308.29,EUR
+Subsidiary B,Revenue,2024-Q1,Marketing,Product B,263503.12,GBP
+Subsidiary B,Revenue,2024-Q1,Marketing,Product C,486057.9,GBP
+Subsidiary B,Revenue,2024-Q1,Marketing,Service X,236957.81,USD
+Subsidiary B,Revenue,2024-Q1,Marketing,Service Y,370856.56,USD
+Subsidiary B,Revenue,2024-Q1,R&D,Product A,168349.54,EUR
+Subsidiary B,Revenue,2024-Q1,R&D,Product B,262817.96,USD
+Subsidiary B,Revenue,2024-Q1,R&D,Product C,181301.75,USD
+Subsidiary B,Revenue,2024-Q1,R&D,Service X,412210.56,GBP
+Subsidiary B,Revenue,2024-Q1,R&D,Service Y,469886.97,GBP
+Subsidiary B,Revenue,2024-Q1,Finance,Product A,139480.62,EUR
+Subsidiary B,Revenue,2024-Q1,Finance,Product B,464986.22,USD
+Subsidiary B,Revenue,2024-Q1,Finance,Product C,303331.8,GBP
+Subsidiary B,Revenue,2024-Q1,Finance,Service X,442407.12,EUR
+Subsidiary B,Revenue,2024-Q1,Finance,Service Y,203471.85,GBP
+Subsidiary B,Revenue,2024-Q1,Operations,Product A,253381.3,USD
+Subsidiary B,Revenue,2024-Q1,Operations,Product B,233164.8,GBP
+Subsidiary B,Revenue,2024-Q1,Operations,Product C,303249.75,EUR
+Subsidiary B,Revenue,2024-Q1,Operations,Service X,53688.26,GBP
+Subsidiary B,Revenue,2024-Q1,Operations,Service Y,92562.79,USD
+Subsidiary B,COGS,2024-Q1,Sales,Product A,171845.74,EUR
+Subsidiary B,COGS,2024-Q1,Sales,Product B,94531.91,EUR
+Subsidiary B,COGS,2024-Q1,Sales,Product C,131295.33,USD
+Subsidiary B,COGS,2024-Q1,Sales,Service X,408348.05,EUR
+Subsidiary B,COGS,2024-Q1,Sales,Service Y,359405.39,USD
+Subsidiary B,COGS,2024-Q1,Marketing,Product A,103690.29,GBP
+Subsidiary B,COGS,2024-Q1,Marketing,Product B,215460.85,USD
+Subsidiary B,COGS,2024-Q1,Marketing,Product C,16210.79,GBP
+Subsidiary B,COGS,2024-Q1,Marketing,Service X,201769.86,USD
+Subsidiary B,COGS,2024-Q1,Marketing,Service Y,329211.43,GBP
+Subsidiary B,COGS,2024-Q1,R&D,Product A,311188.3,EUR
+Subsidiary B,COGS,2024-Q1,R&D,Product B,494826.65,USD
+Subsidiary B,COGS,2024-Q1,R&D,Product C,199699.87,USD
+Subsidiary B,COGS,2024-Q1,R&D,Service X,314153.39,EUR
+Subsidiary B,COGS,2024-Q1,R&D,Service Y,99779.39,GBP
+Subsidiary B,COGS,2024-Q1,Finance,Product A,236198.75,GBP
+Subsidiary B,COGS,2024-Q1,Finance,Product B,343608.59,GBP
+Subsidiary B,COGS,2024-Q1,Finance,Product C,340005.09,USD
+Subsidiary B,COGS,2024-Q1,Finance,Service X,115105.76,GBP
+Subsidiary B,COGS,2024-Q1,Finance,Service Y,18811.9,GBP
+Subsidiary B,COGS,2024-Q1,Operations,Product A,186199.82,EUR
+Subsidiary B,COGS,2024-Q1,Operations,Product B,228479.91,GBP
+Subsidiary B,COGS,2024-Q1,Operations,Product C,355538.66,GBP
+Subsidiary B,COGS,2024-Q1,Operations,Service X,461897.1,GBP
+Subsidiary B,COGS,2024-Q1,Operations,Service Y,325971.21,GBP
+Subsidiary B,Operating Expenses,2024-Q1,Sales,Product A,426155.76,USD
+Subsidiary B,Operating Expenses,2024-Q1,Sales,Product B,403010.23,USD
+Subsidiary B,Operating Expenses,2024-Q1,Sales,Product C,153644.24,GBP
+Subsidiary B,Operating Expenses,2024-Q1,Sales,Service X,12487.03,GBP
+Subsidiary B,Operating Expenses,2024-Q1,Sales,Service Y,493069.51,GBP
+Subsidiary B,Operating Expenses,2024-Q1,Marketing,Product A,154510.21,GBP
+Subsidiary B,Operating Expenses,2024-Q1,Marketing,Product B,161378.52,GBP
+Subsidiary B,Operating Expenses,2024-Q1,Marketing,Product C,432622.83,EUR
+Subsidiary B,Operating Expenses,2024-Q1,Marketing,Service X,100022.01,EUR
+Subsidiary B,Operating Expenses,2024-Q1,Marketing,Service Y,403127.2,USD
+Subsidiary B,Operating Expenses,2024-Q1,R&D,Product A,333294.52,EUR
+Subsidiary B,Operating Expenses,2024-Q1,R&D,Product B,126885.42,USD
+Subsidiary B,Operating Expenses,2024-Q1,R&D,Product C,49733.3,GBP
+Subsidiary B,Operating Expenses,2024-Q1,R&D,Service X,441912.98,GBP
+Subsidiary B,Operating Expenses,2024-Q1,R&D,Service Y,96112.41,EUR
+Subsidiary B,Operating Expenses,2024-Q1,Finance,Product A,474310,USD
+Subsidiary B,Operating Expenses,2024-Q1,Finance,Product B,188652.82,EUR
+Subsidiary B,Operating Expenses,2024-Q1,Finance,Product C,225356.55,USD
+Subsidiary B,Operating Expenses,2024-Q1,Finance,Service X,461181.45,GBP
+Subsidiary B,Operating Expenses,2024-Q1,Finance,Service Y,10049.74,EUR
+Subsidiary B,Operating Expenses,2024-Q1,Operations,Product A,106875.42,GBP
+Subsidiary B,Operating Expenses,2024-Q1,Operations,Product B,155772.02,GBP
+Subsidiary B,Operating Expenses,2024-Q1,Operations,Product C,458867.54,USD
+Subsidiary B,Operating Expenses,2024-Q1,Operations,Service X,408523.12,EUR
+Subsidiary B,Operating Expenses,2024-Q1,Operations,Service Y,385072.21,GBP
+Subsidiary B,Net Income,2024-Q1,Sales,Product A,129760.57,GBP
+Subsidiary B,Net Income,2024-Q1,Sales,Product B,413755.65,GBP
+Subsidiary B,Net Income,2024-Q1,Sales,Product C,96303.9,USD
+Subsidiary B,Net Income,2024-Q1,Sales,Service X,415883.39,GBP
+Subsidiary B,Net Income,2024-Q1,Sales,Service Y,376984.48,USD
+Subsidiary B,Net Income,2024-Q1,Marketing,Product A,282584.48,EUR
+Subsidiary B,Net Income,2024-Q1,Marketing,Product B,69732.17,USD
+Subsidiary B,Net Income,2024-Q1,Marketing,Product C,287063.04,GBP
+Subsidiary B,Net Income,2024-Q1,Marketing,Service X,205496.95,GBP
+Subsidiary B,Net Income,2024-Q1,Marketing,Service Y,487305.79,EUR
+Subsidiary B,Net Income,2024-Q1,R&D,Product A,140968.46,GBP
+Subsidiary B,Net Income,2024-Q1,R&D,Product B,81508.68,EUR
+Subsidiary B,Net Income,2024-Q1,R&D,Product C,451476.08,EUR
+Subsidiary B,Net Income,2024-Q1,R&D,Service X,219834.19,GBP
+Subsidiary B,Net Income,2024-Q1,R&D,Service Y,207672.97,GBP
+Subsidiary B,Net Income,2024-Q1,Finance,Product A,493007.11,GBP
+Subsidiary B,Net Income,2024-Q1,Finance,Product B,367267,USD
+Subsidiary B,Net Income,2024-Q1,Finance,Product C,229800.9,USD
+Subsidiary B,Net Income,2024-Q1,Finance,Service X,73083.09,USD
+Subsidiary B,Net Income,2024-Q1,Finance,Service Y,474868.3,EUR
+Subsidiary B,Net Income,2024-Q1,Operations,Product A,330662.11,EUR
+Subsidiary B,Net Income,2024-Q1,Operations,Product B,48360.55,EUR
+Subsidiary B,Net Income,2024-Q1,Operations,Product C,229326.13,GBP
+Subsidiary B,Net Income,2024-Q1,Operations,Service X,240808.14,USD
+Subsidiary B,Net Income,2024-Q1,Operations,Service Y,434718.39,USD
+Subsidiary B,Assets,2024-Q1,Sales,Product A,492837.18,GBP
+Subsidiary B,Assets,2024-Q1,Sales,Product B,246408.1,GBP
+Subsidiary B,Assets,2024-Q1,Sales,Product C,353414.94,GBP
+Subsidiary B,Assets,2024-Q1,Sales,Service X,469252.76,USD
+Subsidiary B,Assets,2024-Q1,Sales,Service Y,29593.44,USD
+Subsidiary B,Assets,2024-Q1,Marketing,Product A,181636.94,GBP
+Subsidiary B,Assets,2024-Q1,Marketing,Product B,430770.3,EUR
+Subsidiary B,Assets,2024-Q1,Marketing,Product C,21142.32,USD
+Subsidiary B,Assets,2024-Q1,Marketing,Service X,367782.33,USD
+Subsidiary B,Assets,2024-Q1,Marketing,Service Y,10685.59,USD
+Subsidiary B,Assets,2024-Q1,R&D,Product A,69561.05,USD
+Subsidiary B,Assets,2024-Q1,R&D,Product B,363909.37,EUR
+Subsidiary B,Assets,2024-Q1,R&D,Product C,97450.47,USD
+Subsidiary B,Assets,2024-Q1,R&D,Service X,473413.05,EUR
+Subsidiary B,Assets,2024-Q1,R&D,Service Y,198406.82,GBP
+Subsidiary B,Assets,2024-Q1,Finance,Product A,146767.55,EUR
+Subsidiary B,Assets,2024-Q1,Finance,Product B,323376.4,EUR
+Subsidiary B,Assets,2024-Q1,Finance,Product C,401264.94,GBP
+Subsidiary B,Assets,2024-Q1,Finance,Service X,253305.59,GBP
+Subsidiary B,Assets,2024-Q1,Finance,Service Y,330715.22,USD
+Subsidiary B,Assets,2024-Q1,Operations,Product A,253387.37,USD
+Subsidiary B,Assets,2024-Q1,Operations,Product B,191057.87,EUR
+Subsidiary B,Assets,2024-Q1,Operations,Product C,230485.99,USD
+Subsidiary B,Assets,2024-Q1,Operations,Service X,269609.59,EUR
+Subsidiary B,Assets,2024-Q1,Operations,Service Y,475800.36,USD
+Subsidiary B,Liabilities,2024-Q1,Sales,Product A,402771.58,USD
+Subsidiary B,Liabilities,2024-Q1,Sales,Product B,24416.97,GBP
+Subsidiary B,Liabilities,2024-Q1,Sales,Product C,456866.85,EUR
+Subsidiary B,Liabilities,2024-Q1,Sales,Service X,294117.51,USD
+Subsidiary B,Liabilities,2024-Q1,Sales,Service Y,66628.69,USD
+Subsidiary B,Liabilities,2024-Q1,Marketing,Product A,311373.49,USD
+Subsidiary B,Liabilities,2024-Q1,Marketing,Product B,443390.97,GBP
+Subsidiary B,Liabilities,2024-Q1,Marketing,Product C,324816.37,GBP
+Subsidiary B,Liabilities,2024-Q1,Marketing,Service X,272483.64,EUR
+Subsidiary B,Liabilities,2024-Q1,Marketing,Service Y,441672.42,GBP
+Subsidiary B,Liabilities,2024-Q1,R&D,Product A,52185.58,USD
+Subsidiary B,Liabilities,2024-Q1,R&D,Product B,209238.91,GBP
+Subsidiary B,Liabilities,2024-Q1,R&D,Product C,467382.41,USD
+Subsidiary B,Liabilities,2024-Q1,R&D,Service X,97295.28,USD
+Subsidiary B,Liabilities,2024-Q1,R&D,Service Y,169971.52,EUR
+Subsidiary B,Liabilities,2024-Q1,Finance,Product A,122509.57,USD
+Subsidiary B,Liabilities,2024-Q1,Finance,Product B,239767.94,EUR
+Subsidiary B,Liabilities,2024-Q1,Finance,Product C,51881.22,GBP
+Subsidiary B,Liabilities,2024-Q1,Finance,Service X,337933.27,GBP
+Subsidiary B,Liabilities,2024-Q1,Finance,Service Y,346973.49,USD
+Subsidiary B,Liabilities,2024-Q1,Operations,Product A,230497.24,USD
+Subsidiary B,Liabilities,2024-Q1,Operations,Product B,122493.97,GBP
+Subsidiary B,Liabilities,2024-Q1,Operations,Product C,67060.05,GBP
+Subsidiary B,Liabilities,2024-Q1,Operations,Service X,177531.02,USD
+Subsidiary B,Liabilities,2024-Q1,Operations,Service Y,454529.55,USD
+Subsidiary B,Equity,2024-Q1,Sales,Product A,477277.3,EUR
+Subsidiary B,Equity,2024-Q1,Sales,Product B,415297.6,USD
+Subsidiary B,Equity,2024-Q1,Sales,Product C,13006.71,EUR
+Subsidiary B,Equity,2024-Q1,Sales,Service X,498800.67,GBP
+Subsidiary B,Equity,2024-Q1,Sales,Service Y,322776.83,EUR
+Subsidiary B,Equity,2024-Q1,Marketing,Product A,229690.86,USD
+Subsidiary B,Equity,2024-Q1,Marketing,Product B,409784.81,USD
+Subsidiary B,Equity,2024-Q1,Marketing,Product C,90666.07,GBP
+Subsidiary B,Equity,2024-Q1,Marketing,Service X,454977.94,GBP
+Subsidiary B,Equity,2024-Q1,Marketing,Service Y,364520.14,USD
+Subsidiary B,Equity,2024-Q1,R&D,Product A,495916.47,EUR
+Subsidiary B,Equity,2024-Q1,R&D,Product B,130386.02,USD
+Subsidiary B,Equity,2024-Q1,R&D,Product C,220255.83,GBP
+Subsidiary B,Equity,2024-Q1,R&D,Service X,354113.5,GBP
+Subsidiary B,Equity,2024-Q1,R&D,Service Y,363417.3,EUR
+Subsidiary B,Equity,2024-Q1,Finance,Product A,239107.33,GBP
+Subsidiary B,Equity,2024-Q1,Finance,Product B,86698.01,EUR
+Subsidiary B,Equity,2024-Q1,Finance,Product C,69734.8,USD
+Subsidiary B,Equity,2024-Q1,Finance,Service X,341526.97,USD
+Subsidiary B,Equity,2024-Q1,Finance,Service Y,337332.25,USD
+Subsidiary B,Equity,2024-Q1,Operations,Product A,349664.27,USD
+Subsidiary B,Equity,2024-Q1,Operations,Product B,472877.35,EUR
+Subsidiary B,Equity,2024-Q1,Operations,Product C,409925.26,EUR
+Subsidiary B,Equity,2024-Q1,Operations,Service X,431920.82,EUR
+Subsidiary B,Equity,2024-Q1,Operations,Service Y,70134.02,GBP
+Subsidiary B,Revenue,2024-Q2,Sales,Product A,65356.38,EUR
+Subsidiary B,Revenue,2024-Q2,Sales,Product B,309287.16,EUR
+Subsidiary B,Revenue,2024-Q2,Sales,Product C,448432.59,USD
+Subsidiary B,Revenue,2024-Q2,Sales,Service X,225575.98,USD
+Subsidiary B,Revenue,2024-Q2,Sales,Service Y,349897.31,EUR
+Subsidiary B,Revenue,2024-Q2,Marketing,Product A,341090.51,EUR
+Subsidiary B,Revenue,2024-Q2,Marketing,Product B,79715.22,GBP
+Subsidiary B,Revenue,2024-Q2,Marketing,Product C,309108.82,USD
+Subsidiary B,Revenue,2024-Q2,Marketing,Service X,420175.34,GBP
+Subsidiary B,Revenue,2024-Q2,Marketing,Service Y,280647.31,EUR
+Subsidiary B,Revenue,2024-Q2,R&D,Product A,352807.53,USD
+Subsidiary B,Revenue,2024-Q2,R&D,Product B,287895.94,GBP
+Subsidiary B,Revenue,2024-Q2,R&D,Product C,370214.59,EUR
+Subsidiary B,Revenue,2024-Q2,R&D,Service X,237097.48,EUR
+Subsidiary B,Revenue,2024-Q2,R&D,Service Y,493422.74,USD
+Subsidiary B,Revenue,2024-Q2,Finance,Product A,183630.67,EUR
+Subsidiary B,Revenue,2024-Q2,Finance,Product B,344213.38,GBP
+Subsidiary B,Revenue,2024-Q2,Finance,Product C,13715.02,EUR
+Subsidiary B,Revenue,2024-Q2,Finance,Service X,435052,EUR
+Subsidiary B,Revenue,2024-Q2,Finance,Service Y,384913.7,USD
+Subsidiary B,Revenue,2024-Q2,Operations,Product A,169551.77,USD
+Subsidiary B,Revenue,2024-Q2,Operations,Product B,269401.58,USD
+Subsidiary B,Revenue,2024-Q2,Operations,Product C,145008.35,GBP
+Subsidiary B,Revenue,2024-Q2,Operations,Service X,91357.58,GBP
+Subsidiary B,Revenue,2024-Q2,Operations,Service Y,104384.57,GBP
+Subsidiary B,COGS,2024-Q2,Sales,Product A,180480.58,GBP
+Subsidiary B,COGS,2024-Q2,Sales,Product B,183687.93,EUR
+Subsidiary B,COGS,2024-Q2,Sales,Product C,488388.98,GBP
+Subsidiary B,COGS,2024-Q2,Sales,Service X,136109.68,EUR
+Subsidiary B,COGS,2024-Q2,Sales,Service Y,183895.96,GBP
+Subsidiary B,COGS,2024-Q2,Marketing,Product A,159502.41,USD
+Subsidiary B,COGS,2024-Q2,Marketing,Product B,398593.31,GBP
+Subsidiary B,COGS,2024-Q2,Marketing,Product C,48798.64,GBP
+Subsidiary B,COGS,2024-Q2,Marketing,Service X,82471.81,USD
+Subsidiary B,COGS,2024-Q2,Marketing,Service Y,327791.72,GBP
+Subsidiary B,COGS,2024-Q2,R&D,Product A,52474.72,USD
+Subsidiary B,COGS,2024-Q2,R&D,Product B,192792.58,EUR
+Subsidiary B,COGS,2024-Q2,R&D,Product C,456387.35,EUR
+Subsidiary B,COGS,2024-Q2,R&D,Service X,23187.75,EUR
+Subsidiary B,COGS,2024-Q2,R&D,Service Y,225793.99,GBP
+Subsidiary B,COGS,2024-Q2,Finance,Product A,38151.22,GBP
+Subsidiary B,COGS,2024-Q2,Finance,Product B,358282.24,GBP
+Subsidiary B,COGS,2024-Q2,Finance,Product C,312208.2,EUR
+Subsidiary B,COGS,2024-Q2,Finance,Service X,209963.94,EUR
+Subsidiary B,COGS,2024-Q2,Finance,Service Y,56402.14,EUR
+Subsidiary B,COGS,2024-Q2,Operations,Product A,164891.6,GBP
+Subsidiary B,COGS,2024-Q2,Operations,Product B,126931,USD
+Subsidiary B,COGS,2024-Q2,Operations,Product C,288437.3,GBP
+Subsidiary B,COGS,2024-Q2,Operations,Service X,438692.23,USD
+Subsidiary B,COGS,2024-Q2,Operations,Service Y,54654.56,EUR
+Subsidiary B,Operating Expenses,2024-Q2,Sales,Product A,392786.58,GBP
+Subsidiary B,Operating Expenses,2024-Q2,Sales,Product B,351766.33,USD
+Subsidiary B,Operating Expenses,2024-Q2,Sales,Product C,10699.31,GBP
+Subsidiary B,Operating Expenses,2024-Q2,Sales,Service X,13787.33,GBP
+Subsidiary B,Operating Expenses,2024-Q2,Sales,Service Y,251743.9,EUR
+Subsidiary B,Operating Expenses,2024-Q2,Marketing,Product A,69802.93,EUR
+Subsidiary B,Operating Expenses,2024-Q2,Marketing,Product B,85889.57,EUR
+Subsidiary B,Operating Expenses,2024-Q2,Marketing,Product C,344380.42,GBP
+Subsidiary B,Operating Expenses,2024-Q2,Marketing,Service X,192931.04,EUR
+Subsidiary B,Operating Expenses,2024-Q2,Marketing,Service Y,213475.66,USD
+Subsidiary B,Operating Expenses,2024-Q2,R&D,Product A,355362.77,USD
+Subsidiary B,Operating Expenses,2024-Q2,R&D,Product B,253745.19,EUR
+Subsidiary B,Operating Expenses,2024-Q2,R&D,Product C,355197.66,USD
+Subsidiary B,Operating Expenses,2024-Q2,R&D,Service X,385322.86,GBP
+Subsidiary B,Operating Expenses,2024-Q2,R&D,Service Y,450209.22,EUR
+Subsidiary B,Operating Expenses,2024-Q2,Finance,Product A,275205.26,EUR
+Subsidiary B,Operating Expenses,2024-Q2,Finance,Product B,207093.43,USD
+Subsidiary B,Operating Expenses,2024-Q2,Finance,Product C,423647.69,GBP
+Subsidiary B,Operating Expenses,2024-Q2,Finance,Service X,356917.52,USD
+Subsidiary B,Operating Expenses,2024-Q2,Finance,Service Y,56950.62,USD
+Subsidiary B,Operating Expenses,2024-Q2,Operations,Product A,359336.87,GBP
+Subsidiary B,Operating Expenses,2024-Q2,Operations,Product B,451126.69,EUR
+Subsidiary B,Operating Expenses,2024-Q2,Operations,Product C,322291.12,EUR
+Subsidiary B,Operating Expenses,2024-Q2,Operations,Service X,273469.32,EUR
+Subsidiary B,Operating Expenses,2024-Q2,Operations,Service Y,53682.64,GBP
+Subsidiary B,Net Income,2024-Q2,Sales,Product A,10723.14,USD
+Subsidiary B,Net Income,2024-Q2,Sales,Product B,245579.33,GBP
+Subsidiary B,Net Income,2024-Q2,Sales,Product C,265654.3,EUR
+Subsidiary B,Net Income,2024-Q2,Sales,Service X,32058.04,USD
+Subsidiary B,Net Income,2024-Q2,Sales,Service Y,34330.58,GBP
+Subsidiary B,Net Income,2024-Q2,Marketing,Product A,481884.2,EUR
+Subsidiary B,Net Income,2024-Q2,Marketing,Product B,27711.11,USD
+Subsidiary B,Net Income,2024-Q2,Marketing,Product C,144381.47,GBP
+Subsidiary B,Net Income,2024-Q2,Marketing,Service X,494274.34,GBP
+Subsidiary B,Net Income,2024-Q2,Marketing,Service Y,232642.12,EUR
+Subsidiary B,Net Income,2024-Q2,R&D,Product A,302823.9,USD
+Subsidiary B,Net Income,2024-Q2,R&D,Product B,120027.54,GBP
+Subsidiary B,Net Income,2024-Q2,R&D,Product C,260611.73,EUR
+Subsidiary B,Net Income,2024-Q2,R&D,Service X,366049.13,USD
+Subsidiary B,Net Income,2024-Q2,R&D,Service Y,480299.58,USD
+Subsidiary B,Net Income,2024-Q2,Finance,Product A,223700.13,GBP
+Subsidiary B,Net Income,2024-Q2,Finance,Product B,244969.33,USD
+Subsidiary B,Net Income,2024-Q2,Finance,Product C,444613.37,EUR
+Subsidiary B,Net Income,2024-Q2,Finance,Service X,27430.3,GBP
+Subsidiary B,Net Income,2024-Q2,Finance,Service Y,418727.55,GBP
+Subsidiary B,Net Income,2024-Q2,Operations,Product A,227238.43,USD
+Subsidiary B,Net Income,2024-Q2,Operations,Product B,117365.01,USD
+Subsidiary B,Net Income,2024-Q2,Operations,Product C,325426.37,USD
+Subsidiary B,Net Income,2024-Q2,Operations,Service X,346131.89,EUR
+Subsidiary B,Net Income,2024-Q2,Operations,Service Y,424958.52,GBP
+Subsidiary B,Assets,2024-Q2,Sales,Product A,448346.14,USD
+Subsidiary B,Assets,2024-Q2,Sales,Product B,236723.44,EUR
+Subsidiary B,Assets,2024-Q2,Sales,Product C,377276.57,USD
+Subsidiary B,Assets,2024-Q2,Sales,Service X,30723.43,GBP
+Subsidiary B,Assets,2024-Q2,Sales,Service Y,343514.14,EUR
+Subsidiary B,Assets,2024-Q2,Marketing,Product A,371206.53,GBP
+Subsidiary B,Assets,2024-Q2,Marketing,Product B,91712.28,GBP
+Subsidiary B,Assets,2024-Q2,Marketing,Product C,21608.97,EUR
+Subsidiary B,Assets,2024-Q2,Marketing,Service X,59366.09,EUR
+Subsidiary B,Assets,2024-Q2,Marketing,Service Y,292784.15,GBP
+Subsidiary B,Assets,2024-Q2,R&D,Product A,130532.42,EUR
+Subsidiary B,Assets,2024-Q2,R&D,Product B,334714.89,USD
+Subsidiary B,Assets,2024-Q2,R&D,Product C,337165.75,USD
+Subsidiary B,Assets,2024-Q2,R&D,Service X,448030.81,EUR
+Subsidiary B,Assets,2024-Q2,R&D,Service Y,31440.42,EUR
+Subsidiary B,Assets,2024-Q2,Finance,Product A,431653,USD
+Subsidiary B,Assets,2024-Q2,Finance,Product B,322782.01,EUR
+Subsidiary B,Assets,2024-Q2,Finance,Product C,440650.21,EUR
+Subsidiary B,Assets,2024-Q2,Finance,Service X,165004.1,EUR
+Subsidiary B,Assets,2024-Q2,Finance,Service Y,307221.32,EUR
+Subsidiary B,Assets,2024-Q2,Operations,Product A,59005.88,USD
+Subsidiary B,Assets,2024-Q2,Operations,Product B,81010.41,GBP
+Subsidiary B,Assets,2024-Q2,Operations,Product C,239054.63,EUR
+Subsidiary B,Assets,2024-Q2,Operations,Service X,38409.13,EUR
+Subsidiary B,Assets,2024-Q2,Operations,Service Y,334902.31,GBP
+Subsidiary B,Liabilities,2024-Q2,Sales,Product A,377311.62,USD
+Subsidiary B,Liabilities,2024-Q2,Sales,Product B,341899.76,EUR
+Subsidiary B,Liabilities,2024-Q2,Sales,Product C,85230.62,EUR
+Subsidiary B,Liabilities,2024-Q2,Sales,Service X,432405.4,USD
+Subsidiary B,Liabilities,2024-Q2,Sales,Service Y,182432.87,EUR
+Subsidiary B,Liabilities,2024-Q2,Marketing,Product A,12457.24,GBP
+Subsidiary B,Liabilities,2024-Q2,Marketing,Product B,228349.51,EUR
+Subsidiary B,Liabilities,2024-Q2,Marketing,Product C,257504.44,EUR
+Subsidiary B,Liabilities,2024-Q2,Marketing,Service X,34421.29,EUR
+Subsidiary B,Liabilities,2024-Q2,Marketing,Service Y,228008.95,GBP
+Subsidiary B,Liabilities,2024-Q2,R&D,Product A,278595.2,USD
+Subsidiary B,Liabilities,2024-Q2,R&D,Product B,242760.92,USD
+Subsidiary B,Liabilities,2024-Q2,R&D,Product C,456072.39,EUR
+Subsidiary B,Liabilities,2024-Q2,R&D,Service X,433506.59,USD
+Subsidiary B,Liabilities,2024-Q2,R&D,Service Y,336565.91,GBP
+Subsidiary B,Liabilities,2024-Q2,Finance,Product A,474170.49,EUR
+Subsidiary B,Liabilities,2024-Q2,Finance,Product B,109581.36,EUR
+Subsidiary B,Liabilities,2024-Q2,Finance,Product C,328737.95,USD
+Subsidiary B,Liabilities,2024-Q2,Finance,Service X,356791.05,USD
+Subsidiary B,Liabilities,2024-Q2,Finance,Service Y,452449.03,GBP
+Subsidiary B,Liabilities,2024-Q2,Operations,Product A,27734.78,EUR
+Subsidiary B,Liabilities,2024-Q2,Operations,Product B,472776.09,USD
+Subsidiary B,Liabilities,2024-Q2,Operations,Product C,189739.55,EUR
+Subsidiary B,Liabilities,2024-Q2,Operations,Service X,190901.03,GBP
+Subsidiary B,Liabilities,2024-Q2,Operations,Service Y,429746.42,EUR
+Subsidiary B,Equity,2024-Q2,Sales,Product A,268514.14,GBP
+Subsidiary B,Equity,2024-Q2,Sales,Product B,486730.54,USD
+Subsidiary B,Equity,2024-Q2,Sales,Product C,359008.67,USD
+Subsidiary B,Equity,2024-Q2,Sales,Service X,129078,GBP
+Subsidiary B,Equity,2024-Q2,Sales,Service Y,484706.32,USD
+Subsidiary B,Equity,2024-Q2,Marketing,Product A,47947.92,GBP
+Subsidiary B,Equity,2024-Q2,Marketing,Product B,139659.12,EUR
+Subsidiary B,Equity,2024-Q2,Marketing,Product C,121324.88,EUR
+Subsidiary B,Equity,2024-Q2,Marketing,Service X,48514.25,GBP
+Subsidiary B,Equity,2024-Q2,Marketing,Service Y,36490.13,USD
+Subsidiary B,Equity,2024-Q2,R&D,Product A,321009.19,GBP
+Subsidiary B,Equity,2024-Q2,R&D,Product B,184915.21,USD
+Subsidiary B,Equity,2024-Q2,R&D,Product C,273996.68,USD
+Subsidiary B,Equity,2024-Q2,R&D,Service X,234620.73,USD
+Subsidiary B,Equity,2024-Q2,R&D,Service Y,282990.93,EUR
+Subsidiary B,Equity,2024-Q2,Finance,Product A,398870.57,GBP
+Subsidiary B,Equity,2024-Q2,Finance,Product B,458019.09,GBP
+Subsidiary B,Equity,2024-Q2,Finance,Product C,416598.72,USD
+Subsidiary B,Equity,2024-Q2,Finance,Service X,358754.68,USD
+Subsidiary B,Equity,2024-Q2,Finance,Service Y,363895.47,USD
+Subsidiary B,Equity,2024-Q2,Operations,Product A,357527.16,GBP
+Subsidiary B,Equity,2024-Q2,Operations,Product B,306185.85,USD
+Subsidiary B,Equity,2024-Q2,Operations,Product C,480099.29,USD
+Subsidiary B,Equity,2024-Q2,Operations,Service X,387897.58,GBP
+Subsidiary B,Equity,2024-Q2,Operations,Service Y,269819.26,USD
+Subsidiary B,Revenue,2024-Q3,Sales,Product A,52725.08,GBP
+Subsidiary B,Revenue,2024-Q3,Sales,Product B,281479.84,USD
+Subsidiary B,Revenue,2024-Q3,Sales,Product C,61303.79,EUR
+Subsidiary B,Revenue,2024-Q3,Sales,Service X,367368.05,EUR
+Subsidiary B,Revenue,2024-Q3,Sales,Service Y,121222.1,EUR
+Subsidiary B,Revenue,2024-Q3,Marketing,Product A,27993.47,GBP
+Subsidiary B,Revenue,2024-Q3,Marketing,Product B,352426.65,GBP
+Subsidiary B,Revenue,2024-Q3,Marketing,Product C,206055.99,EUR
+Subsidiary B,Revenue,2024-Q3,Marketing,Service X,14825.33,EUR
+Subsidiary B,Revenue,2024-Q3,Marketing,Service Y,465632.31,EUR
+Subsidiary B,Revenue,2024-Q3,R&D,Product A,365357.13,EUR
+Subsidiary B,Revenue,2024-Q3,R&D,Product B,240790.95,GBP
+Subsidiary B,Revenue,2024-Q3,R&D,Product C,341685.3,GBP
+Subsidiary B,Revenue,2024-Q3,R&D,Service X,175614.58,GBP
+Subsidiary B,Revenue,2024-Q3,R&D,Service Y,383055.22,GBP
+Subsidiary B,Revenue,2024-Q3,Finance,Product A,127351.25,EUR
+Subsidiary B,Revenue,2024-Q3,Finance,Product B,312751.46,EUR
+Subsidiary B,Revenue,2024-Q3,Finance,Product C,77796,EUR
+Subsidiary B,Revenue,2024-Q3,Finance,Service X,339573.33,EUR
+Subsidiary B,Revenue,2024-Q3,Finance,Service Y,272673.01,GBP
+Subsidiary B,Revenue,2024-Q3,Operations,Product A,247631.85,GBP
+Subsidiary B,Revenue,2024-Q3,Operations,Product B,217176.93,USD
+Subsidiary B,Revenue,2024-Q3,Operations,Product C,200229.24,USD
+Subsidiary B,Revenue,2024-Q3,Operations,Service X,307742.18,USD
+Subsidiary B,Revenue,2024-Q3,Operations,Service Y,70278.95,EUR
+Subsidiary B,COGS,2024-Q3,Sales,Product A,435364.39,USD
+Subsidiary B,COGS,2024-Q3,Sales,Product B,198265.9,USD
+Subsidiary B,COGS,2024-Q3,Sales,Product C,391131.67,USD
+Subsidiary B,COGS,2024-Q3,Sales,Service X,411103.49,GBP
+Subsidiary B,COGS,2024-Q3,Sales,Service Y,203507.17,GBP
+Subsidiary B,COGS,2024-Q3,Marketing,Product A,368103.47,GBP
+Subsidiary B,COGS,2024-Q3,Marketing,Product B,328722.87,GBP
+Subsidiary B,COGS,2024-Q3,Marketing,Product C,152546.38,EUR
+Subsidiary B,COGS,2024-Q3,Marketing,Service X,268382.51,GBP
+Subsidiary B,COGS,2024-Q3,Marketing,Service Y,365959.74,GBP
+Subsidiary B,COGS,2024-Q3,R&D,Product A,409862.04,EUR
+Subsidiary B,COGS,2024-Q3,R&D,Product B,116353.03,EUR
+Subsidiary B,COGS,2024-Q3,R&D,Product C,412753.26,USD
+Subsidiary B,COGS,2024-Q3,R&D,Service X,43211.14,GBP
+Subsidiary B,COGS,2024-Q3,R&D,Service Y,489245.29,EUR
+Subsidiary B,COGS,2024-Q3,Finance,Product A,141418.48,GBP
+Subsidiary B,COGS,2024-Q3,Finance,Product B,10518.67,EUR
+Subsidiary B,COGS,2024-Q3,Finance,Product C,172253.46,GBP
+Subsidiary B,COGS,2024-Q3,Finance,Service X,335019.25,GBP
+Subsidiary B,COGS,2024-Q3,Finance,Service Y,52237.24,USD
+Subsidiary B,COGS,2024-Q3,Operations,Product A,485291.8,USD
+Subsidiary B,COGS,2024-Q3,Operations,Product B,69313.78,EUR
+Subsidiary B,COGS,2024-Q3,Operations,Product C,255418.47,USD
+Subsidiary B,COGS,2024-Q3,Operations,Service X,69381.53,EUR
+Subsidiary B,COGS,2024-Q3,Operations,Service Y,469500.64,USD
+Subsidiary B,Operating Expenses,2024-Q3,Sales,Product A,29104.69,GBP
+Subsidiary B,Operating Expenses,2024-Q3,Sales,Product B,143451.45,GBP
+Subsidiary B,Operating Expenses,2024-Q3,Sales,Product C,118876.86,USD
+Subsidiary B,Operating Expenses,2024-Q3,Sales,Service X,203850.17,EUR
+Subsidiary B,Operating Expenses,2024-Q3,Sales,Service Y,93924.19,EUR
+Subsidiary B,Operating Expenses,2024-Q3,Marketing,Product A,209350.53,GBP
+Subsidiary B,Operating Expenses,2024-Q3,Marketing,Product B,62839.03,GBP
+Subsidiary B,Operating Expenses,2024-Q3,Marketing,Product C,222882.27,GBP
+Subsidiary B,Operating Expenses,2024-Q3,Marketing,Service X,250727.12,EUR
+Subsidiary B,Operating Expenses,2024-Q3,Marketing,Service Y,304494.58,USD
+Subsidiary B,Operating Expenses,2024-Q3,R&D,Product A,485920.9,EUR
+Subsidiary B,Operating Expenses,2024-Q3,R&D,Product B,478329.42,USD
+Subsidiary B,Operating Expenses,2024-Q3,R&D,Product C,209225.29,EUR
+Subsidiary B,Operating Expenses,2024-Q3,R&D,Service X,69838.67,USD
+Subsidiary B,Operating Expenses,2024-Q3,R&D,Service Y,400791.79,GBP
+Subsidiary B,Operating Expenses,2024-Q3,Finance,Product A,54197.69,EUR
+Subsidiary B,Operating Expenses,2024-Q3,Finance,Product B,276845.69,GBP
+Subsidiary B,Operating Expenses,2024-Q3,Finance,Product C,324544.7,EUR
+Subsidiary B,Operating Expenses,2024-Q3,Finance,Service X,210883.21,GBP
+Subsidiary B,Operating Expenses,2024-Q3,Finance,Service Y,37681.81,GBP
+Subsidiary B,Operating Expenses,2024-Q3,Operations,Product A,33785.41,USD
+Subsidiary B,Operating Expenses,2024-Q3,Operations,Product B,460550.74,USD
+Subsidiary B,Operating Expenses,2024-Q3,Operations,Product C,444785.62,USD
+Subsidiary B,Operating Expenses,2024-Q3,Operations,Service X,360834.58,USD
+Subsidiary B,Operating Expenses,2024-Q3,Operations,Service Y,398748.84,USD
+Subsidiary B,Net Income,2024-Q3,Sales,Product A,425878.2,GBP
+Subsidiary B,Net Income,2024-Q3,Sales,Product B,279236.06,GBP
+Subsidiary B,Net Income,2024-Q3,Sales,Product C,422042.11,USD
+Subsidiary B,Net Income,2024-Q3,Sales,Service X,439839.08,GBP
+Subsidiary B,Net Income,2024-Q3,Sales,Service Y,295068.24,USD
+Subsidiary B,Net Income,2024-Q3,Marketing,Product A,465325.16,EUR
+Subsidiary B,Net Income,2024-Q3,Marketing,Product B,207522.01,USD
+Subsidiary B,Net Income,2024-Q3,Marketing,Product C,49867.65,EUR
+Subsidiary B,Net Income,2024-Q3,Marketing,Service X,378188.29,USD
+Subsidiary B,Net Income,2024-Q3,Marketing,Service Y,163039.11,USD
+Subsidiary B,Net Income,2024-Q3,R&D,Product A,247596.54,GBP
+Subsidiary B,Net Income,2024-Q3,R&D,Product B,134172.49,EUR
+Subsidiary B,Net Income,2024-Q3,R&D,Product C,149942.43,EUR
+Subsidiary B,Net Income,2024-Q3,R&D,Service X,402842.78,USD
+Subsidiary B,Net Income,2024-Q3,R&D,Service Y,343311.57,GBP
+Subsidiary B,Net Income,2024-Q3,Finance,Product A,213266.71,EUR
+Subsidiary B,Net Income,2024-Q3,Finance,Product B,463452.3,USD
+Subsidiary B,Net Income,2024-Q3,Finance,Product C,395153.14,GBP
+Subsidiary B,Net Income,2024-Q3,Finance,Service X,180863.68,EUR
+Subsidiary B,Net Income,2024-Q3,Finance,Service Y,257470.26,USD
+Subsidiary B,Net Income,2024-Q3,Operations,Product A,13148.99,USD
+Subsidiary B,Net Income,2024-Q3,Operations,Product B,278762.95,GBP
+Subsidiary B,Net Income,2024-Q3,Operations,Product C,384320.58,GBP
+Subsidiary B,Net Income,2024-Q3,Operations,Service X,238659.75,EUR
+Subsidiary B,Net Income,2024-Q3,Operations,Service Y,435651.68,EUR
+Subsidiary B,Assets,2024-Q3,Sales,Product A,193792.8,GBP
+Subsidiary B,Assets,2024-Q3,Sales,Product B,445713.49,GBP
+Subsidiary B,Assets,2024-Q3,Sales,Product C,62938.84,EUR
+Subsidiary B,Assets,2024-Q3,Sales,Service X,436559.04,EUR
+Subsidiary B,Assets,2024-Q3,Sales,Service Y,255902.73,EUR
+Subsidiary B,Assets,2024-Q3,Marketing,Product A,290755.37,GBP
+Subsidiary B,Assets,2024-Q3,Marketing,Product B,20258.44,USD
+Subsidiary B,Assets,2024-Q3,Marketing,Product C,71686.31,EUR
+Subsidiary B,Assets,2024-Q3,Marketing,Service X,110626.94,USD
+Subsidiary B,Assets,2024-Q3,Marketing,Service Y,70123.69,GBP
+Subsidiary B,Assets,2024-Q3,R&D,Product A,461726.46,USD
+Subsidiary B,Assets,2024-Q3,R&D,Product B,185993.56,EUR
+Subsidiary B,Assets,2024-Q3,R&D,Product C,494502.79,USD
+Subsidiary B,Assets,2024-Q3,R&D,Service X,184267.61,USD
+Subsidiary B,Assets,2024-Q3,R&D,Service Y,359786.95,USD
+Subsidiary B,Assets,2024-Q3,Finance,Product A,341103.2,GBP
+Subsidiary B,Assets,2024-Q3,Finance,Product B,46803.46,EUR
+Subsidiary B,Assets,2024-Q3,Finance,Product C,154218.16,USD
+Subsidiary B,Assets,2024-Q3,Finance,Service X,479711.91,USD
+Subsidiary B,Assets,2024-Q3,Finance,Service Y,400030.69,EUR
+Subsidiary B,Assets,2024-Q3,Operations,Product A,60143.91,EUR
+Subsidiary B,Assets,2024-Q3,Operations,Product B,46992.67,GBP
+Subsidiary B,Assets,2024-Q3,Operations,Product C,364105.68,GBP
+Subsidiary B,Assets,2024-Q3,Operations,Service X,163417.18,USD
+Subsidiary B,Assets,2024-Q3,Operations,Service Y,423058.79,GBP
+Subsidiary B,Liabilities,2024-Q3,Sales,Product A,300715.37,EUR
+Subsidiary B,Liabilities,2024-Q3,Sales,Product B,265458.4,EUR
+Subsidiary B,Liabilities,2024-Q3,Sales,Product C,207054.12,EUR
+Subsidiary B,Liabilities,2024-Q3,Sales,Service X,342614.06,USD
+Subsidiary B,Liabilities,2024-Q3,Sales,Service Y,63469.92,EUR
+Subsidiary B,Liabilities,2024-Q3,Marketing,Product A,320308.86,USD
+Subsidiary B,Liabilities,2024-Q3,Marketing,Product B,442744.77,USD
+Subsidiary B,Liabilities,2024-Q3,Marketing,Product C,393976.13,USD
+Subsidiary B,Liabilities,2024-Q3,Marketing,Service X,91094.18,EUR
+Subsidiary B,Liabilities,2024-Q3,Marketing,Service Y,171887.62,USD
+Subsidiary B,Liabilities,2024-Q3,R&D,Product A,231641.84,USD
+Subsidiary B,Liabilities,2024-Q3,R&D,Product B,436142.16,USD
+Subsidiary B,Liabilities,2024-Q3,R&D,Product C,282049.1,USD
+Subsidiary B,Liabilities,2024-Q3,R&D,Service X,127716.55,USD
+Subsidiary B,Liabilities,2024-Q3,R&D,Service Y,339092.8,USD
+Subsidiary B,Liabilities,2024-Q3,Finance,Product A,370745.67,USD
+Subsidiary B,Liabilities,2024-Q3,Finance,Product B,64537.87,GBP
+Subsidiary B,Liabilities,2024-Q3,Finance,Product C,60966.3,USD
+Subsidiary B,Liabilities,2024-Q3,Finance,Service X,60388.57,GBP
+Subsidiary B,Liabilities,2024-Q3,Finance,Service Y,256601.41,GBP
+Subsidiary B,Liabilities,2024-Q3,Operations,Product A,82085.74,EUR
+Subsidiary B,Liabilities,2024-Q3,Operations,Product B,389651.7,GBP
+Subsidiary B,Liabilities,2024-Q3,Operations,Product C,188293.68,USD
+Subsidiary B,Liabilities,2024-Q3,Operations,Service X,75405.67,USD
+Subsidiary B,Liabilities,2024-Q3,Operations,Service Y,303728.18,USD
+Subsidiary B,Equity,2024-Q3,Sales,Product A,44778.48,GBP
+Subsidiary B,Equity,2024-Q3,Sales,Product B,312463.98,GBP
+Subsidiary B,Equity,2024-Q3,Sales,Product C,499057.81,GBP
+Subsidiary B,Equity,2024-Q3,Sales,Service X,129920.52,EUR
+Subsidiary B,Equity,2024-Q3,Sales,Service Y,101716.93,EUR
+Subsidiary B,Equity,2024-Q3,Marketing,Product A,494515.75,USD
+Subsidiary B,Equity,2024-Q3,Marketing,Product B,80200.9,EUR
+Subsidiary B,Equity,2024-Q3,Marketing,Product C,292759.77,USD
+Subsidiary B,Equity,2024-Q3,Marketing,Service X,38257.58,GBP
+Subsidiary B,Equity,2024-Q3,Marketing,Service Y,152478.23,GBP
+Subsidiary B,Equity,2024-Q3,R&D,Product A,387465.62,EUR
+Subsidiary B,Equity,2024-Q3,R&D,Product B,428698.82,USD
+Subsidiary B,Equity,2024-Q3,R&D,Product C,397242.91,EUR
+Subsidiary B,Equity,2024-Q3,R&D,Service X,55732.99,EUR
+Subsidiary B,Equity,2024-Q3,R&D,Service Y,376437.62,GBP
+Subsidiary B,Equity,2024-Q3,Finance,Product A,494430.2,USD
+Subsidiary B,Equity,2024-Q3,Finance,Product B,327920.03,GBP
+Subsidiary B,Equity,2024-Q3,Finance,Product C,233394.35,EUR
+Subsidiary B,Equity,2024-Q3,Finance,Service X,250126.87,EUR
+Subsidiary B,Equity,2024-Q3,Finance,Service Y,101044.97,USD
+Subsidiary B,Equity,2024-Q3,Operations,Product A,442381.55,GBP
+Subsidiary B,Equity,2024-Q3,Operations,Product B,98646.09,GBP
+Subsidiary B,Equity,2024-Q3,Operations,Product C,296689.21,USD
+Subsidiary B,Equity,2024-Q3,Operations,Service X,342174.98,GBP
+Subsidiary B,Equity,2024-Q3,Operations,Service Y,340593.42,EUR
+Subsidiary B,Revenue,2024-Q4,Sales,Product A,17018.65,GBP
+Subsidiary B,Revenue,2024-Q4,Sales,Product B,380740.96,USD
+Subsidiary B,Revenue,2024-Q4,Sales,Product C,288008.88,GBP
+Subsidiary B,Revenue,2024-Q4,Sales,Service X,111880.7,GBP
+Subsidiary B,Revenue,2024-Q4,Sales,Service Y,10894.39,GBP
+Subsidiary B,Revenue,2024-Q4,Marketing,Product A,340204.91,EUR
+Subsidiary B,Revenue,2024-Q4,Marketing,Product B,18796.29,GBP
+Subsidiary B,Revenue,2024-Q4,Marketing,Product C,378680.85,EUR
+Subsidiary B,Revenue,2024-Q4,Marketing,Service X,360258.39,EUR
+Subsidiary B,Revenue,2024-Q4,Marketing,Service Y,251390.17,GBP
+Subsidiary B,Revenue,2024-Q4,R&D,Product A,273249.09,USD
+Subsidiary B,Revenue,2024-Q4,R&D,Product B,358142.23,USD
+Subsidiary B,Revenue,2024-Q4,R&D,Product C,152242.98,GBP
+Subsidiary B,Revenue,2024-Q4,R&D,Service X,11525.05,GBP
+Subsidiary B,Revenue,2024-Q4,R&D,Service Y,202995.21,EUR
+Subsidiary B,Revenue,2024-Q4,Finance,Product A,141051.62,GBP
+Subsidiary B,Revenue,2024-Q4,Finance,Product B,200173.72,EUR
+Subsidiary B,Revenue,2024-Q4,Finance,Product C,432754.95,USD
+Subsidiary B,Revenue,2024-Q4,Finance,Service X,420124.55,GBP
+Subsidiary B,Revenue,2024-Q4,Finance,Service Y,302202.57,EUR
+Subsidiary B,Revenue,2024-Q4,Operations,Product A,204204.07,GBP
+Subsidiary B,Revenue,2024-Q4,Operations,Product B,420211.86,EUR
+Subsidiary B,Revenue,2024-Q4,Operations,Product C,469976.22,GBP
+Subsidiary B,Revenue,2024-Q4,Operations,Service X,340566.97,EUR
+Subsidiary B,Revenue,2024-Q4,Operations,Service Y,296018.54,EUR
+Subsidiary B,COGS,2024-Q4,Sales,Product A,348971.6,EUR
+Subsidiary B,COGS,2024-Q4,Sales,Product B,457982.61,USD
+Subsidiary B,COGS,2024-Q4,Sales,Product C,293955.61,EUR
+Subsidiary B,COGS,2024-Q4,Sales,Service X,310531.17,GBP
+Subsidiary B,COGS,2024-Q4,Sales,Service Y,262682,USD
+Subsidiary B,COGS,2024-Q4,Marketing,Product A,352279.71,USD
+Subsidiary B,COGS,2024-Q4,Marketing,Product B,27643.22,USD
+Subsidiary B,COGS,2024-Q4,Marketing,Product C,419683.78,EUR
+Subsidiary B,COGS,2024-Q4,Marketing,Service X,322021.81,GBP
+Subsidiary B,COGS,2024-Q4,Marketing,Service Y,369967.46,USD
+Subsidiary B,COGS,2024-Q4,R&D,Product A,123926.49,USD
+Subsidiary B,COGS,2024-Q4,R&D,Product B,67777.7,USD
+Subsidiary B,COGS,2024-Q4,R&D,Product C,318347.48,EUR
+Subsidiary B,COGS,2024-Q4,R&D,Service X,32866.93,EUR
+Subsidiary B,COGS,2024-Q4,R&D,Service Y,144726.18,GBP
+Subsidiary B,COGS,2024-Q4,Finance,Product A,61303.85,GBP
+Subsidiary B,COGS,2024-Q4,Finance,Product B,203473.91,GBP
+Subsidiary B,COGS,2024-Q4,Finance,Product C,389385.33,EUR
+Subsidiary B,COGS,2024-Q4,Finance,Service X,263182.77,EUR
+Subsidiary B,COGS,2024-Q4,Finance,Service Y,287678.79,USD
+Subsidiary B,COGS,2024-Q4,Operations,Product A,457086.13,USD
+Subsidiary B,COGS,2024-Q4,Operations,Product B,162695.37,USD
+Subsidiary B,COGS,2024-Q4,Operations,Product C,240669.51,GBP
+Subsidiary B,COGS,2024-Q4,Operations,Service X,470061.78,EUR
+Subsidiary B,COGS,2024-Q4,Operations,Service Y,17093.83,USD
+Subsidiary B,Operating Expenses,2024-Q4,Sales,Product A,297133.55,EUR
+Subsidiary B,Operating Expenses,2024-Q4,Sales,Product B,109371.87,GBP
+Subsidiary B,Operating Expenses,2024-Q4,Sales,Product C,195262.67,USD
+Subsidiary B,Operating Expenses,2024-Q4,Sales,Service X,167834.12,EUR
+Subsidiary B,Operating Expenses,2024-Q4,Sales,Service Y,40902.64,GBP
+Subsidiary B,Operating Expenses,2024-Q4,Marketing,Product A,458300.79,USD
+Subsidiary B,Operating Expenses,2024-Q4,Marketing,Product B,141700.83,GBP
+Subsidiary B,Operating Expenses,2024-Q4,Marketing,Product C,271382.55,GBP
+Subsidiary B,Operating Expenses,2024-Q4,Marketing,Service X,454864.03,GBP
+Subsidiary B,Operating Expenses,2024-Q4,Marketing,Service Y,203529.79,EUR
+Subsidiary B,Operating Expenses,2024-Q4,R&D,Product A,23884.7,USD
+Subsidiary B,Operating Expenses,2024-Q4,R&D,Product B,119604.85,USD
+Subsidiary B,Operating Expenses,2024-Q4,R&D,Product C,413088.13,USD
+Subsidiary B,Operating Expenses,2024-Q4,R&D,Service X,290601.16,EUR
+Subsidiary B,Operating Expenses,2024-Q4,R&D,Service Y,154409.69,GBP
+Subsidiary B,Operating Expenses,2024-Q4,Finance,Product A,62161.27,USD
+Subsidiary B,Operating Expenses,2024-Q4,Finance,Product B,99479.61,EUR
+Subsidiary B,Operating Expenses,2024-Q4,Finance,Product C,215414.58,GBP
+Subsidiary B,Operating Expenses,2024-Q4,Finance,Service X,314497.49,GBP
+Subsidiary B,Operating Expenses,2024-Q4,Finance,Service Y,175838.3,USD
+Subsidiary B,Operating Expenses,2024-Q4,Operations,Product A,483789.68,USD
+Subsidiary B,Operating Expenses,2024-Q4,Operations,Product B,169460.98,GBP
+Subsidiary B,Operating Expenses,2024-Q4,Operations,Product C,153151.22,EUR
+Subsidiary B,Operating Expenses,2024-Q4,Operations,Service X,260717.59,GBP
+Subsidiary B,Operating Expenses,2024-Q4,Operations,Service Y,493152.14,GBP
+Subsidiary B,Net Income,2024-Q4,Sales,Product A,438753.31,USD
+Subsidiary B,Net Income,2024-Q4,Sales,Product B,103279.84,EUR
+Subsidiary B,Net Income,2024-Q4,Sales,Product C,294022,EUR
+Subsidiary B,Net Income,2024-Q4,Sales,Service X,456995.1,USD
+Subsidiary B,Net Income,2024-Q4,Sales,Service Y,393690.72,EUR
+Subsidiary B,Net Income,2024-Q4,Marketing,Product A,221515.43,USD
+Subsidiary B,Net Income,2024-Q4,Marketing,Product B,347531.63,GBP
+Subsidiary B,Net Income,2024-Q4,Marketing,Product C,312543.78,EUR
+Subsidiary B,Net Income,2024-Q4,Marketing,Service X,229620.17,GBP
+Subsidiary B,Net Income,2024-Q4,Marketing,Service Y,318924.07,EUR
+Subsidiary B,Net Income,2024-Q4,R&D,Product A,147963.46,GBP
+Subsidiary B,Net Income,2024-Q4,R&D,Product B,365004.78,EUR
+Subsidiary B,Net Income,2024-Q4,R&D,Product C,334274.76,GBP
+Subsidiary B,Net Income,2024-Q4,R&D,Service X,51173.73,EUR
+Subsidiary B,Net Income,2024-Q4,R&D,Service Y,319033.37,USD
+Subsidiary B,Net Income,2024-Q4,Finance,Product A,22534.1,GBP
+Subsidiary B,Net Income,2024-Q4,Finance,Product B,398667.31,GBP
+Subsidiary B,Net Income,2024-Q4,Finance,Product C,74027.91,USD
+Subsidiary B,Net Income,2024-Q4,Finance,Service X,390764.74,EUR
+Subsidiary B,Net Income,2024-Q4,Finance,Service Y,126209.34,USD
+Subsidiary B,Net Income,2024-Q4,Operations,Product A,24184.3,GBP
+Subsidiary B,Net Income,2024-Q4,Operations,Product B,276445.55,GBP
+Subsidiary B,Net Income,2024-Q4,Operations,Product C,208290.39,EUR
+Subsidiary B,Net Income,2024-Q4,Operations,Service X,201512.57,EUR
+Subsidiary B,Net Income,2024-Q4,Operations,Service Y,375995.52,EUR
+Subsidiary B,Assets,2024-Q4,Sales,Product A,161801.59,USD
+Subsidiary B,Assets,2024-Q4,Sales,Product B,369014.44,EUR
+Subsidiary B,Assets,2024-Q4,Sales,Product C,32212.61,EUR
+Subsidiary B,Assets,2024-Q4,Sales,Service X,128122.62,EUR
+Subsidiary B,Assets,2024-Q4,Sales,Service Y,328438.14,GBP
+Subsidiary B,Assets,2024-Q4,Marketing,Product A,69605.64,EUR
+Subsidiary B,Assets,2024-Q4,Marketing,Product B,470458,GBP
+Subsidiary B,Assets,2024-Q4,Marketing,Product C,449289.99,GBP
+Subsidiary B,Assets,2024-Q4,Marketing,Service X,202224.34,GBP
+Subsidiary B,Assets,2024-Q4,Marketing,Service Y,161330.6,USD
+Subsidiary B,Assets,2024-Q4,R&D,Product A,304512.07,USD
+Subsidiary B,Assets,2024-Q4,R&D,Product B,139631.36,EUR
+Subsidiary B,Assets,2024-Q4,R&D,Product C,156167.28,GBP
+Subsidiary B,Assets,2024-Q4,R&D,Service X,164830.39,EUR
+Subsidiary B,Assets,2024-Q4,R&D,Service Y,305857.46,GBP
+Subsidiary B,Assets,2024-Q4,Finance,Product A,416306.43,GBP
+Subsidiary B,Assets,2024-Q4,Finance,Product B,51689.74,EUR
+Subsidiary B,Assets,2024-Q4,Finance,Product C,81941.82,GBP
+Subsidiary B,Assets,2024-Q4,Finance,Service X,368455.67,GBP
+Subsidiary B,Assets,2024-Q4,Finance,Service Y,188619.09,EUR
+Subsidiary B,Assets,2024-Q4,Operations,Product A,116364.48,USD
+Subsidiary B,Assets,2024-Q4,Operations,Product B,57934.54,USD
+Subsidiary B,Assets,2024-Q4,Operations,Product C,344386.46,USD
+Subsidiary B,Assets,2024-Q4,Operations,Service X,25548.87,GBP
+Subsidiary B,Assets,2024-Q4,Operations,Service Y,137700.64,GBP
+Subsidiary B,Liabilities,2024-Q4,Sales,Product A,217641.14,USD
+Subsidiary B,Liabilities,2024-Q4,Sales,Product B,200193.35,GBP
+Subsidiary B,Liabilities,2024-Q4,Sales,Product C,431588.63,EUR
+Subsidiary B,Liabilities,2024-Q4,Sales,Service X,44245.81,GBP
+Subsidiary B,Liabilities,2024-Q4,Sales,Service Y,209722.39,USD
+Subsidiary B,Liabilities,2024-Q4,Marketing,Product A,93553.39,GBP
+Subsidiary B,Liabilities,2024-Q4,Marketing,Product B,388118.98,GBP
+Subsidiary B,Liabilities,2024-Q4,Marketing,Product C,36239.81,GBP
+Subsidiary B,Liabilities,2024-Q4,Marketing,Service X,159514.94,GBP
+Subsidiary B,Liabilities,2024-Q4,Marketing,Service Y,362508.97,EUR
+Subsidiary B,Liabilities,2024-Q4,R&D,Product A,235900.56,USD
+Subsidiary B,Liabilities,2024-Q4,R&D,Product B,448113.82,EUR
+Subsidiary B,Liabilities,2024-Q4,R&D,Product C,133864.1,EUR
+Subsidiary B,Liabilities,2024-Q4,R&D,Service X,199980.4,USD
+Subsidiary B,Liabilities,2024-Q4,R&D,Service Y,449492.33,USD
+Subsidiary B,Liabilities,2024-Q4,Finance,Product A,232568.42,USD
+Subsidiary B,Liabilities,2024-Q4,Finance,Product B,145130.7,GBP
+Subsidiary B,Liabilities,2024-Q4,Finance,Product C,218881.81,EUR
+Subsidiary B,Liabilities,2024-Q4,Finance,Service X,228999.54,EUR
+Subsidiary B,Liabilities,2024-Q4,Finance,Service Y,90558.87,USD
+Subsidiary B,Liabilities,2024-Q4,Operations,Product A,331258.91,USD
+Subsidiary B,Liabilities,2024-Q4,Operations,Product B,71076.57,EUR
+Subsidiary B,Liabilities,2024-Q4,Operations,Product C,287481.64,GBP
+Subsidiary B,Liabilities,2024-Q4,Operations,Service X,82747.68,GBP
+Subsidiary B,Liabilities,2024-Q4,Operations,Service Y,212267.76,GBP
+Subsidiary B,Equity,2024-Q4,Sales,Product A,489636.64,USD
+Subsidiary B,Equity,2024-Q4,Sales,Product B,489882.15,USD
+Subsidiary B,Equity,2024-Q4,Sales,Product C,245224.04,GBP
+Subsidiary B,Equity,2024-Q4,Sales,Service X,371491.2,GBP
+Subsidiary B,Equity,2024-Q4,Sales,Service Y,280119.19,GBP
+Subsidiary B,Equity,2024-Q4,Marketing,Product A,160436.91,USD
+Subsidiary B,Equity,2024-Q4,Marketing,Product B,305059.63,GBP
+Subsidiary B,Equity,2024-Q4,Marketing,Product C,191616.65,EUR
+Subsidiary B,Equity,2024-Q4,Marketing,Service X,430240.48,EUR
+Subsidiary B,Equity,2024-Q4,Marketing,Service Y,200321.68,GBP
+Subsidiary B,Equity,2024-Q4,R&D,Product A,436272.22,EUR
+Subsidiary B,Equity,2024-Q4,R&D,Product B,285623.18,EUR
+Subsidiary B,Equity,2024-Q4,R&D,Product C,227799.64,EUR
+Subsidiary B,Equity,2024-Q4,R&D,Service X,21539.52,USD
+Subsidiary B,Equity,2024-Q4,R&D,Service Y,204088.45,GBP
+Subsidiary B,Equity,2024-Q4,Finance,Product A,483770.21,USD
+Subsidiary B,Equity,2024-Q4,Finance,Product B,447063.89,USD
+Subsidiary B,Equity,2024-Q4,Finance,Product C,364675.27,GBP
+Subsidiary B,Equity,2024-Q4,Finance,Service X,458576.75,USD
+Subsidiary B,Equity,2024-Q4,Finance,Service Y,84310.61,GBP
+Subsidiary B,Equity,2024-Q4,Operations,Product A,447203.94,GBP
+Subsidiary B,Equity,2024-Q4,Operations,Product B,293518.52,GBP
+Subsidiary B,Equity,2024-Q4,Operations,Product C,279327.13,GBP
+Subsidiary B,Equity,2024-Q4,Operations,Service X,474869.09,EUR
+Subsidiary B,Equity,2024-Q4,Operations,Service Y,348543.38,EUR
+Subsidiary C,Revenue,2024-Q1,Sales,Product A,67175.57,GBP
+Subsidiary C,Revenue,2024-Q1,Sales,Product B,344027.05,USD
+Subsidiary C,Revenue,2024-Q1,Sales,Product C,354002.4,GBP
+Subsidiary C,Revenue,2024-Q1,Sales,Service X,416222.01,EUR
+Subsidiary C,Revenue,2024-Q1,Sales,Service Y,424639.37,EUR
+Subsidiary C,Revenue,2024-Q1,Marketing,Product A,463437.15,EUR
+Subsidiary C,Revenue,2024-Q1,Marketing,Product B,480878.87,GBP
+Subsidiary C,Revenue,2024-Q1,Marketing,Product C,117160.89,USD
+Subsidiary C,Revenue,2024-Q1,Marketing,Service X,46000.65,GBP
+Subsidiary C,Revenue,2024-Q1,Marketing,Service Y,379039.41,USD
+Subsidiary C,Revenue,2024-Q1,R&D,Product A,492687.86,GBP
+Subsidiary C,Revenue,2024-Q1,R&D,Product B,125298.96,USD
+Subsidiary C,Revenue,2024-Q1,R&D,Product C,180155.26,USD
+Subsidiary C,Revenue,2024-Q1,R&D,Service X,458515.91,EUR
+Subsidiary C,Revenue,2024-Q1,R&D,Service Y,434972.42,USD
+Subsidiary C,Revenue,2024-Q1,Finance,Product A,119268.28,GBP
+Subsidiary C,Revenue,2024-Q1,Finance,Product B,37248.32,EUR
+Subsidiary C,Revenue,2024-Q1,Finance,Product C,215414.93,USD
+Subsidiary C,Revenue,2024-Q1,Finance,Service X,373289.14,GBP
+Subsidiary C,Revenue,2024-Q1,Finance,Service Y,397290.42,EUR
+Subsidiary C,Revenue,2024-Q1,Operations,Product A,428902.98,USD
+Subsidiary C,Revenue,2024-Q1,Operations,Product B,158921.19,GBP
+Subsidiary C,Revenue,2024-Q1,Operations,Product C,253210.28,EUR
+Subsidiary C,Revenue,2024-Q1,Operations,Service X,165415.5,GBP
+Subsidiary C,Revenue,2024-Q1,Operations,Service Y,270550.1,USD
+Subsidiary C,COGS,2024-Q1,Sales,Product A,115775.45,GBP
+Subsidiary C,COGS,2024-Q1,Sales,Product B,17423.19,GBP
+Subsidiary C,COGS,2024-Q1,Sales,Product C,276757.83,GBP
+Subsidiary C,COGS,2024-Q1,Sales,Service X,435424.96,GBP
+Subsidiary C,COGS,2024-Q1,Sales,Service Y,88023.44,EUR
+Subsidiary C,COGS,2024-Q1,Marketing,Product A,348235.96,GBP
+Subsidiary C,COGS,2024-Q1,Marketing,Product B,350046.14,GBP
+Subsidiary C,COGS,2024-Q1,Marketing,Product C,177105.07,USD
+Subsidiary C,COGS,2024-Q1,Marketing,Service X,81798.75,GBP
+Subsidiary C,COGS,2024-Q1,Marketing,Service Y,181314.08,USD
+Subsidiary C,COGS,2024-Q1,R&D,Product A,447068.66,USD
+Subsidiary C,COGS,2024-Q1,R&D,Product B,185396.48,GBP
+Subsidiary C,COGS,2024-Q1,R&D,Product C,165133.89,GBP
+Subsidiary C,COGS,2024-Q1,R&D,Service X,28719.3,GBP
+Subsidiary C,COGS,2024-Q1,R&D,Service Y,386724.65,EUR
+Subsidiary C,COGS,2024-Q1,Finance,Product A,356615.13,GBP
+Subsidiary C,COGS,2024-Q1,Finance,Product B,425947.63,GBP
+Subsidiary C,COGS,2024-Q1,Finance,Product C,423420.9,USD
+Subsidiary C,COGS,2024-Q1,Finance,Service X,134404.01,USD
+Subsidiary C,COGS,2024-Q1,Finance,Service Y,106693.89,USD
+Subsidiary C,COGS,2024-Q1,Operations,Product A,459386.79,GBP
+Subsidiary C,COGS,2024-Q1,Operations,Product B,12195.29,EUR
+Subsidiary C,COGS,2024-Q1,Operations,Product C,428515.28,USD
+Subsidiary C,COGS,2024-Q1,Operations,Service X,393557.23,GBP
+Subsidiary C,COGS,2024-Q1,Operations,Service Y,483264.89,EUR
+Subsidiary C,Operating Expenses,2024-Q1,Sales,Product A,229013.84,USD
+Subsidiary C,Operating Expenses,2024-Q1,Sales,Product B,354852.11,GBP
+Subsidiary C,Operating Expenses,2024-Q1,Sales,Product C,289837.18,GBP
+Subsidiary C,Operating Expenses,2024-Q1,Sales,Service X,317299.67,USD
+Subsidiary C,Operating Expenses,2024-Q1,Sales,Service Y,150458.02,USD
+Subsidiary C,Operating Expenses,2024-Q1,Marketing,Product A,328680.88,EUR
+Subsidiary C,Operating Expenses,2024-Q1,Marketing,Product B,320803.98,GBP
+Subsidiary C,Operating Expenses,2024-Q1,Marketing,Product C,16805.53,GBP
+Subsidiary C,Operating Expenses,2024-Q1,Marketing,Service X,496536.68,GBP
+Subsidiary C,Operating Expenses,2024-Q1,Marketing,Service Y,285004.5,EUR
+Subsidiary C,Operating Expenses,2024-Q1,R&D,Product A,376197.54,USD
+Subsidiary C,Operating Expenses,2024-Q1,R&D,Product B,240596.86,USD
+Subsidiary C,Operating Expenses,2024-Q1,R&D,Product C,373058.58,USD
+Subsidiary C,Operating Expenses,2024-Q1,R&D,Service X,187628.61,GBP
+Subsidiary C,Operating Expenses,2024-Q1,R&D,Service Y,332450.33,USD
+Subsidiary C,Operating Expenses,2024-Q1,Finance,Product A,454871.85,USD
+Subsidiary C,Operating Expenses,2024-Q1,Finance,Product B,282820.73,EUR
+Subsidiary C,Operating Expenses,2024-Q1,Finance,Product C,496203.3,GBP
+Subsidiary C,Operating Expenses,2024-Q1,Finance,Service X,170803.24,EUR
+Subsidiary C,Operating Expenses,2024-Q1,Finance,Service Y,92226.4,GBP
+Subsidiary C,Operating Expenses,2024-Q1,Operations,Product A,322283.31,GBP
+Subsidiary C,Operating Expenses,2024-Q1,Operations,Product B,308594.44,EUR
+Subsidiary C,Operating Expenses,2024-Q1,Operations,Product C,263881.42,GBP
+Subsidiary C,Operating Expenses,2024-Q1,Operations,Service X,111885.05,EUR
+Subsidiary C,Operating Expenses,2024-Q1,Operations,Service Y,224838.42,GBP
+Subsidiary C,Net Income,2024-Q1,Sales,Product A,122384.43,EUR
+Subsidiary C,Net Income,2024-Q1,Sales,Product B,220171.85,USD
+Subsidiary C,Net Income,2024-Q1,Sales,Product C,327948.78,USD
+Subsidiary C,Net Income,2024-Q1,Sales,Service X,28211.46,EUR
+Subsidiary C,Net Income,2024-Q1,Sales,Service Y,22254.48,USD
+Subsidiary C,Net Income,2024-Q1,Marketing,Product A,450357.58,EUR
+Subsidiary C,Net Income,2024-Q1,Marketing,Product B,11593.13,GBP
+Subsidiary C,Net Income,2024-Q1,Marketing,Product C,430621.08,EUR
+Subsidiary C,Net Income,2024-Q1,Marketing,Service X,299082.97,EUR
+Subsidiary C,Net Income,2024-Q1,Marketing,Service Y,373833,USD
+Subsidiary C,Net Income,2024-Q1,R&D,Product A,106190.63,GBP
+Subsidiary C,Net Income,2024-Q1,R&D,Product B,60561.59,GBP
+Subsidiary C,Net Income,2024-Q1,R&D,Product C,295410.7,USD
+Subsidiary C,Net Income,2024-Q1,R&D,Service X,197435.53,USD
+Subsidiary C,Net Income,2024-Q1,R&D,Service Y,428709.94,EUR
+Subsidiary C,Net Income,2024-Q1,Finance,Product A,157622,EUR
+Subsidiary C,Net Income,2024-Q1,Finance,Product B,45942.6,USD
+Subsidiary C,Net Income,2024-Q1,Finance,Product C,471024.26,USD
+Subsidiary C,Net Income,2024-Q1,Finance,Service X,325777.14,EUR
+Subsidiary C,Net Income,2024-Q1,Finance,Service Y,188189.92,EUR
+Subsidiary C,Net Income,2024-Q1,Operations,Product A,59201.89,GBP
+Subsidiary C,Net Income,2024-Q1,Operations,Product B,33690.19,EUR
+Subsidiary C,Net Income,2024-Q1,Operations,Product C,419065.54,EUR
+Subsidiary C,Net Income,2024-Q1,Operations,Service X,406958.52,USD
+Subsidiary C,Net Income,2024-Q1,Operations,Service Y,492016.64,GBP
+Subsidiary C,Assets,2024-Q1,Sales,Product A,325304.67,USD
+Subsidiary C,Assets,2024-Q1,Sales,Product B,429895.86,EUR
+Subsidiary C,Assets,2024-Q1,Sales,Product C,208426.03,EUR
+Subsidiary C,Assets,2024-Q1,Sales,Service X,332902.85,EUR
+Subsidiary C,Assets,2024-Q1,Sales,Service Y,472686.84,GBP
+Subsidiary C,Assets,2024-Q1,Marketing,Product A,108886.41,GBP
+Subsidiary C,Assets,2024-Q1,Marketing,Product B,348003.65,USD
+Subsidiary C,Assets,2024-Q1,Marketing,Product C,49567.3,EUR
+Subsidiary C,Assets,2024-Q1,Marketing,Service X,171435.27,EUR
+Subsidiary C,Assets,2024-Q1,Marketing,Service Y,391895.21,GBP
+Subsidiary C,Assets,2024-Q1,R&D,Product A,339910.24,GBP
+Subsidiary C,Assets,2024-Q1,R&D,Product B,493761.11,USD
+Subsidiary C,Assets,2024-Q1,R&D,Product C,437948.38,EUR
+Subsidiary C,Assets,2024-Q1,R&D,Service X,125603.72,GBP
+Subsidiary C,Assets,2024-Q1,R&D,Service Y,456335.79,GBP
+Subsidiary C,Assets,2024-Q1,Finance,Product A,477553.78,EUR
+Subsidiary C,Assets,2024-Q1,Finance,Product B,35158.36,EUR
+Subsidiary C,Assets,2024-Q1,Finance,Product C,317798.31,EUR
+Subsidiary C,Assets,2024-Q1,Finance,Service X,494878.26,GBP
+Subsidiary C,Assets,2024-Q1,Finance,Service Y,438468.5,USD
+Subsidiary C,Assets,2024-Q1,Operations,Product A,290957.46,USD
+Subsidiary C,Assets,2024-Q1,Operations,Product B,403653.27,USD
+Subsidiary C,Assets,2024-Q1,Operations,Product C,377390.66,GBP
+Subsidiary C,Assets,2024-Q1,Operations,Service X,29195.11,USD
+Subsidiary C,Assets,2024-Q1,Operations,Service Y,314643.66,USD
+Subsidiary C,Liabilities,2024-Q1,Sales,Product A,326721.05,GBP
+Subsidiary C,Liabilities,2024-Q1,Sales,Product B,472303.32,GBP
+Subsidiary C,Liabilities,2024-Q1,Sales,Product C,86103.83,EUR
+Subsidiary C,Liabilities,2024-Q1,Sales,Service X,79479.17,USD
+Subsidiary C,Liabilities,2024-Q1,Sales,Service Y,315890.23,EUR
+Subsidiary C,Liabilities,2024-Q1,Marketing,Product A,207370.51,EUR
+Subsidiary C,Liabilities,2024-Q1,Marketing,Product B,127546.39,EUR
+Subsidiary C,Liabilities,2024-Q1,Marketing,Product C,191562.61,USD
+Subsidiary C,Liabilities,2024-Q1,Marketing,Service X,486178.79,EUR
+Subsidiary C,Liabilities,2024-Q1,Marketing,Service Y,152880.68,GBP
+Subsidiary C,Liabilities,2024-Q1,R&D,Product A,188551.54,GBP
+Subsidiary C,Liabilities,2024-Q1,R&D,Product B,186713.77,GBP
+Subsidiary C,Liabilities,2024-Q1,R&D,Product C,126216.13,GBP
+Subsidiary C,Liabilities,2024-Q1,R&D,Service X,266941.78,USD
+Subsidiary C,Liabilities,2024-Q1,R&D,Service Y,477352.31,USD
+Subsidiary C,Liabilities,2024-Q1,Finance,Product A,452982.71,EUR
+Subsidiary C,Liabilities,2024-Q1,Finance,Product B,139738.32,GBP
+Subsidiary C,Liabilities,2024-Q1,Finance,Product C,479596.49,USD
+Subsidiary C,Liabilities,2024-Q1,Finance,Service X,173212.16,EUR
+Subsidiary C,Liabilities,2024-Q1,Finance,Service Y,451201.47,USD
+Subsidiary C,Liabilities,2024-Q1,Operations,Product A,371725.1,GBP
+Subsidiary C,Liabilities,2024-Q1,Operations,Product B,258409.99,EUR
+Subsidiary C,Liabilities,2024-Q1,Operations,Product C,50553.24,GBP
+Subsidiary C,Liabilities,2024-Q1,Operations,Service X,12504.06,EUR
+Subsidiary C,Liabilities,2024-Q1,Operations,Service Y,129898.38,GBP
+Subsidiary C,Equity,2024-Q1,Sales,Product A,128576.73,GBP
+Subsidiary C,Equity,2024-Q1,Sales,Product B,447019.52,EUR
+Subsidiary C,Equity,2024-Q1,Sales,Product C,157603.87,GBP
+Subsidiary C,Equity,2024-Q1,Sales,Service X,479082.12,GBP
+Subsidiary C,Equity,2024-Q1,Sales,Service Y,303277.68,USD
+Subsidiary C,Equity,2024-Q1,Marketing,Product A,217840.85,GBP
+Subsidiary C,Equity,2024-Q1,Marketing,Product B,198441.78,GBP
+Subsidiary C,Equity,2024-Q1,Marketing,Product C,99036.01,USD
+Subsidiary C,Equity,2024-Q1,Marketing,Service X,171780.25,EUR
+Subsidiary C,Equity,2024-Q1,Marketing,Service Y,76849.56,GBP
+Subsidiary C,Equity,2024-Q1,R&D,Product A,174045.95,GBP
+Subsidiary C,Equity,2024-Q1,R&D,Product B,122177.42,EUR
+Subsidiary C,Equity,2024-Q1,R&D,Product C,192992.22,USD
+Subsidiary C,Equity,2024-Q1,R&D,Service X,157466.57,GBP
+Subsidiary C,Equity,2024-Q1,R&D,Service Y,346859.61,GBP
+Subsidiary C,Equity,2024-Q1,Finance,Product A,227842.34,USD
+Subsidiary C,Equity,2024-Q1,Finance,Product B,214560.02,GBP
+Subsidiary C,Equity,2024-Q1,Finance,Product C,15980.56,USD
+Subsidiary C,Equity,2024-Q1,Finance,Service X,302221.22,EUR
+Subsidiary C,Equity,2024-Q1,Finance,Service Y,329943.18,GBP
+Subsidiary C,Equity,2024-Q1,Operations,Product A,10040.2,EUR
+Subsidiary C,Equity,2024-Q1,Operations,Product B,417453.2,EUR
+Subsidiary C,Equity,2024-Q1,Operations,Product C,342141.93,GBP
+Subsidiary C,Equity,2024-Q1,Operations,Service X,58272.25,GBP
+Subsidiary C,Equity,2024-Q1,Operations,Service Y,261191,GBP
+Subsidiary C,Revenue,2024-Q2,Sales,Product A,252370.08,GBP
+Subsidiary C,Revenue,2024-Q2,Sales,Product B,244903.88,GBP
+Subsidiary C,Revenue,2024-Q2,Sales,Product C,17803.55,EUR
+Subsidiary C,Revenue,2024-Q2,Sales,Service X,40345.4,GBP
+Subsidiary C,Revenue,2024-Q2,Sales,Service Y,491276.73,EUR
+Subsidiary C,Revenue,2024-Q2,Marketing,Product A,292382.29,EUR
+Subsidiary C,Revenue,2024-Q2,Marketing,Product B,313765.78,USD
+Subsidiary C,Revenue,2024-Q2,Marketing,Product C,228302.03,EUR
+Subsidiary C,Revenue,2024-Q2,Marketing,Service X,293601.88,EUR
+Subsidiary C,Revenue,2024-Q2,Marketing,Service Y,59637.09,GBP
+Subsidiary C,Revenue,2024-Q2,R&D,Product A,154057.66,USD
+Subsidiary C,Revenue,2024-Q2,R&D,Product B,286906.7,GBP
+Subsidiary C,Revenue,2024-Q2,R&D,Product C,489273.55,EUR
+Subsidiary C,Revenue,2024-Q2,R&D,Service X,255233.93,GBP
+Subsidiary C,Revenue,2024-Q2,R&D,Service Y,288107.75,EUR
+Subsidiary C,Revenue,2024-Q2,Finance,Product A,241712.59,USD
+Subsidiary C,Revenue,2024-Q2,Finance,Product B,322757.51,USD
+Subsidiary C,Revenue,2024-Q2,Finance,Product C,410144.88,GBP
+Subsidiary C,Revenue,2024-Q2,Finance,Service X,317190.4,EUR
+Subsidiary C,Revenue,2024-Q2,Finance,Service Y,429822.03,USD
+Subsidiary C,Revenue,2024-Q2,Operations,Product A,311157.47,USD
+Subsidiary C,Revenue,2024-Q2,Operations,Product B,165162.56,GBP
+Subsidiary C,Revenue,2024-Q2,Operations,Product C,89732.39,USD
+Subsidiary C,Revenue,2024-Q2,Operations,Service X,78176.34,USD
+Subsidiary C,Revenue,2024-Q2,Operations,Service Y,247517.91,EUR
+Subsidiary C,COGS,2024-Q2,Sales,Product A,321139.21,EUR
+Subsidiary C,COGS,2024-Q2,Sales,Product B,77816.27,EUR
+Subsidiary C,COGS,2024-Q2,Sales,Product C,463366.52,EUR
+Subsidiary C,COGS,2024-Q2,Sales,Service X,494648.58,GBP
+Subsidiary C,COGS,2024-Q2,Sales,Service Y,492800.32,GBP
+Subsidiary C,COGS,2024-Q2,Marketing,Product A,257911.37,USD
+Subsidiary C,COGS,2024-Q2,Marketing,Product B,253591.55,GBP
+Subsidiary C,COGS,2024-Q2,Marketing,Product C,43868.75,EUR
+Subsidiary C,COGS,2024-Q2,Marketing,Service X,67173.9,EUR
+Subsidiary C,COGS,2024-Q2,Marketing,Service Y,397277.16,USD
+Subsidiary C,COGS,2024-Q2,R&D,Product A,271654.41,USD
+Subsidiary C,COGS,2024-Q2,R&D,Product B,52306.49,USD
+Subsidiary C,COGS,2024-Q2,R&D,Product C,135854.1,GBP
+Subsidiary C,COGS,2024-Q2,R&D,Service X,256694.14,USD
+Subsidiary C,COGS,2024-Q2,R&D,Service Y,337723.58,EUR
+Subsidiary C,COGS,2024-Q2,Finance,Product A,53751.08,GBP
+Subsidiary C,COGS,2024-Q2,Finance,Product B,488637.68,USD
+Subsidiary C,COGS,2024-Q2,Finance,Product C,153565.35,GBP
+Subsidiary C,COGS,2024-Q2,Finance,Service X,491697.85,EUR
+Subsidiary C,COGS,2024-Q2,Finance,Service Y,153165.31,GBP
+Subsidiary C,COGS,2024-Q2,Operations,Product A,499831.86,GBP
+Subsidiary C,COGS,2024-Q2,Operations,Product B,13665.56,USD
+Subsidiary C,COGS,2024-Q2,Operations,Product C,60556.07,GBP
+Subsidiary C,COGS,2024-Q2,Operations,Service X,380509.88,EUR
+Subsidiary C,COGS,2024-Q2,Operations,Service Y,425487.72,USD
+Subsidiary C,Operating Expenses,2024-Q2,Sales,Product A,32460.77,GBP
+Subsidiary C,Operating Expenses,2024-Q2,Sales,Product B,230639,EUR
+Subsidiary C,Operating Expenses,2024-Q2,Sales,Product C,292250.46,USD
+Subsidiary C,Operating Expenses,2024-Q2,Sales,Service X,52631.15,GBP
+Subsidiary C,Operating Expenses,2024-Q2,Sales,Service Y,310393.48,GBP
+Subsidiary C,Operating Expenses,2024-Q2,Marketing,Product A,329536,GBP
+Subsidiary C,Operating Expenses,2024-Q2,Marketing,Product B,389298.98,EUR
+Subsidiary C,Operating Expenses,2024-Q2,Marketing,Product C,257717.4,GBP
+Subsidiary C,Operating Expenses,2024-Q2,Marketing,Service X,149929.36,GBP
+Subsidiary C,Operating Expenses,2024-Q2,Marketing,Service Y,226065.16,EUR
+Subsidiary C,Operating Expenses,2024-Q2,R&D,Product A,480065.48,EUR
+Subsidiary C,Operating Expenses,2024-Q2,R&D,Product B,115059.14,USD
+Subsidiary C,Operating Expenses,2024-Q2,R&D,Product C,164974.52,USD
+Subsidiary C,Operating Expenses,2024-Q2,R&D,Service X,287095.25,USD
+Subsidiary C,Operating Expenses,2024-Q2,R&D,Service Y,86070.32,EUR
+Subsidiary C,Operating Expenses,2024-Q2,Finance,Product A,434860.81,GBP
+Subsidiary C,Operating Expenses,2024-Q2,Finance,Product B,53667.96,GBP
+Subsidiary C,Operating Expenses,2024-Q2,Finance,Product C,174498.39,USD
+Subsidiary C,Operating Expenses,2024-Q2,Finance,Service X,71366.75,USD
+Subsidiary C,Operating Expenses,2024-Q2,Finance,Service Y,406000.51,GBP
+Subsidiary C,Operating Expenses,2024-Q2,Operations,Product A,219790.93,GBP
+Subsidiary C,Operating Expenses,2024-Q2,Operations,Product B,449192.68,GBP
+Subsidiary C,Operating Expenses,2024-Q2,Operations,Product C,215537.51,USD
+Subsidiary C,Operating Expenses,2024-Q2,Operations,Service X,422317.91,GBP
+Subsidiary C,Operating Expenses,2024-Q2,Operations,Service Y,465737.61,GBP
+Subsidiary C,Net Income,2024-Q2,Sales,Product A,58144.17,EUR
+Subsidiary C,Net Income,2024-Q2,Sales,Product B,221650.57,EUR
+Subsidiary C,Net Income,2024-Q2,Sales,Product C,40293.24,GBP
+Subsidiary C,Net Income,2024-Q2,Sales,Service X,160544.21,USD
+Subsidiary C,Net Income,2024-Q2,Sales,Service Y,472742.67,EUR
+Subsidiary C,Net Income,2024-Q2,Marketing,Product A,63655.43,USD
+Subsidiary C,Net Income,2024-Q2,Marketing,Product B,119905.24,GBP
+Subsidiary C,Net Income,2024-Q2,Marketing,Product C,485891.15,GBP
+Subsidiary C,Net Income,2024-Q2,Marketing,Service X,261761.13,EUR
+Subsidiary C,Net Income,2024-Q2,Marketing,Service Y,355369.39,EUR
+Subsidiary C,Net Income,2024-Q2,R&D,Product A,277518.56,EUR
+Subsidiary C,Net Income,2024-Q2,R&D,Product B,268026.29,USD
+Subsidiary C,Net Income,2024-Q2,R&D,Product C,212290.25,EUR
+Subsidiary C,Net Income,2024-Q2,R&D,Service X,51175.43,EUR
+Subsidiary C,Net Income,2024-Q2,R&D,Service Y,283539.04,GBP
+Subsidiary C,Net Income,2024-Q2,Finance,Product A,216850.45,USD
+Subsidiary C,Net Income,2024-Q2,Finance,Product B,147000.81,EUR
+Subsidiary C,Net Income,2024-Q2,Finance,Product C,493156.02,USD
+Subsidiary C,Net Income,2024-Q2,Finance,Service X,493252.82,EUR
+Subsidiary C,Net Income,2024-Q2,Finance,Service Y,109895.82,EUR
+Subsidiary C,Net Income,2024-Q2,Operations,Product A,130956.57,EUR
+Subsidiary C,Net Income,2024-Q2,Operations,Product B,267453.32,USD
+Subsidiary C,Net Income,2024-Q2,Operations,Product C,211732.48,EUR
+Subsidiary C,Net Income,2024-Q2,Operations,Service X,369254.12,GBP
+Subsidiary C,Net Income,2024-Q2,Operations,Service Y,487961.23,GBP
+Subsidiary C,Assets,2024-Q2,Sales,Product A,362392.47,USD
+Subsidiary C,Assets,2024-Q2,Sales,Product B,179679.48,GBP
+Subsidiary C,Assets,2024-Q2,Sales,Product C,234988.2,USD
+Subsidiary C,Assets,2024-Q2,Sales,Service X,238464.53,GBP
+Subsidiary C,Assets,2024-Q2,Sales,Service Y,336691.14,EUR
+Subsidiary C,Assets,2024-Q2,Marketing,Product A,151112.05,EUR
+Subsidiary C,Assets,2024-Q2,Marketing,Product B,231363.59,EUR
+Subsidiary C,Assets,2024-Q2,Marketing,Product C,269273.66,GBP
+Subsidiary C,Assets,2024-Q2,Marketing,Service X,249163.8,GBP
+Subsidiary C,Assets,2024-Q2,Marketing,Service Y,122527.5,USD
+Subsidiary C,Assets,2024-Q2,R&D,Product A,90925.45,EUR
+Subsidiary C,Assets,2024-Q2,R&D,Product B,25526.02,EUR
+Subsidiary C,Assets,2024-Q2,R&D,Product C,255744.9,GBP
+Subsidiary C,Assets,2024-Q2,R&D,Service X,82885.88,GBP
+Subsidiary C,Assets,2024-Q2,R&D,Service Y,41210.69,USD
+Subsidiary C,Assets,2024-Q2,Finance,Product A,109394.21,GBP
+Subsidiary C,Assets,2024-Q2,Finance,Product B,379988,GBP
+Subsidiary C,Assets,2024-Q2,Finance,Product C,233446.2,GBP
+Subsidiary C,Assets,2024-Q2,Finance,Service X,436336.26,EUR
+Subsidiary C,Assets,2024-Q2,Finance,Service Y,323411.55,EUR
+Subsidiary C,Assets,2024-Q2,Operations,Product A,301162.45,EUR
+Subsidiary C,Assets,2024-Q2,Operations,Product B,478980.47,GBP
+Subsidiary C,Assets,2024-Q2,Operations,Product C,403337.76,EUR
+Subsidiary C,Assets,2024-Q2,Operations,Service X,472588.03,EUR
+Subsidiary C,Assets,2024-Q2,Operations,Service Y,61544.52,EUR
+Subsidiary C,Liabilities,2024-Q2,Sales,Product A,66880.68,USD
+Subsidiary C,Liabilities,2024-Q2,Sales,Product B,336684.28,EUR
+Subsidiary C,Liabilities,2024-Q2,Sales,Product C,327627.33,GBP
+Subsidiary C,Liabilities,2024-Q2,Sales,Service X,242561.85,EUR
+Subsidiary C,Liabilities,2024-Q2,Sales,Service Y,297625.8,EUR
+Subsidiary C,Liabilities,2024-Q2,Marketing,Product A,251538.07,USD
+Subsidiary C,Liabilities,2024-Q2,Marketing,Product B,478248.29,GBP
+Subsidiary C,Liabilities,2024-Q2,Marketing,Product C,333640.76,EUR
+Subsidiary C,Liabilities,2024-Q2,Marketing,Service X,75674.4,GBP
+Subsidiary C,Liabilities,2024-Q2,Marketing,Service Y,174919.98,EUR
+Subsidiary C,Liabilities,2024-Q2,R&D,Product A,441133.88,USD
+Subsidiary C,Liabilities,2024-Q2,R&D,Product B,473421.52,USD
+Subsidiary C,Liabilities,2024-Q2,R&D,Product C,416589.62,USD
+Subsidiary C,Liabilities,2024-Q2,R&D,Service X,152835.28,USD
+Subsidiary C,Liabilities,2024-Q2,R&D,Service Y,98826.82,USD
+Subsidiary C,Liabilities,2024-Q2,Finance,Product A,310547.23,USD
+Subsidiary C,Liabilities,2024-Q2,Finance,Product B,213502.81,EUR
+Subsidiary C,Liabilities,2024-Q2,Finance,Product C,150042.17,USD
+Subsidiary C,Liabilities,2024-Q2,Finance,Service X,323074.74,USD
+Subsidiary C,Liabilities,2024-Q2,Finance,Service Y,163381.69,GBP
+Subsidiary C,Liabilities,2024-Q2,Operations,Product A,417911.7,USD
+Subsidiary C,Liabilities,2024-Q2,Operations,Product B,389152.58,USD
+Subsidiary C,Liabilities,2024-Q2,Operations,Product C,340311.59,USD
+Subsidiary C,Liabilities,2024-Q2,Operations,Service X,278533.6,EUR
+Subsidiary C,Liabilities,2024-Q2,Operations,Service Y,43017.56,GBP
+Subsidiary C,Equity,2024-Q2,Sales,Product A,343997.61,GBP
+Subsidiary C,Equity,2024-Q2,Sales,Product B,201355.98,EUR
+Subsidiary C,Equity,2024-Q2,Sales,Product C,191502.78,EUR
+Subsidiary C,Equity,2024-Q2,Sales,Service X,150118.94,EUR
+Subsidiary C,Equity,2024-Q2,Sales,Service Y,39151.34,GBP
+Subsidiary C,Equity,2024-Q2,Marketing,Product A,425870.16,USD
+Subsidiary C,Equity,2024-Q2,Marketing,Product B,480334,EUR
+Subsidiary C,Equity,2024-Q2,Marketing,Product C,104211.74,EUR
+Subsidiary C,Equity,2024-Q2,Marketing,Service X,377558.24,USD
+Subsidiary C,Equity,2024-Q2,Marketing,Service Y,486640.17,USD
+Subsidiary C,Equity,2024-Q2,R&D,Product A,124882.95,USD
+Subsidiary C,Equity,2024-Q2,R&D,Product B,456716.03,GBP
+Subsidiary C,Equity,2024-Q2,R&D,Product C,51993.96,USD
+Subsidiary C,Equity,2024-Q2,R&D,Service X,219560.68,GBP
+Subsidiary C,Equity,2024-Q2,R&D,Service Y,31534.32,GBP
+Subsidiary C,Equity,2024-Q2,Finance,Product A,87013.21,EUR
+Subsidiary C,Equity,2024-Q2,Finance,Product B,193605.71,USD
+Subsidiary C,Equity,2024-Q2,Finance,Product C,306993.46,EUR
+Subsidiary C,Equity,2024-Q2,Finance,Service X,31397.55,USD
+Subsidiary C,Equity,2024-Q2,Finance,Service Y,187170.92,GBP
+Subsidiary C,Equity,2024-Q2,Operations,Product A,387145.17,GBP
+Subsidiary C,Equity,2024-Q2,Operations,Product B,96873.97,USD
+Subsidiary C,Equity,2024-Q2,Operations,Product C,337612.52,GBP
+Subsidiary C,Equity,2024-Q2,Operations,Service X,375242.53,EUR
+Subsidiary C,Equity,2024-Q2,Operations,Service Y,159232.04,EUR
+Subsidiary C,Revenue,2024-Q3,Sales,Product A,462876.6,EUR
+Subsidiary C,Revenue,2024-Q3,Sales,Product B,187985.88,EUR
+Subsidiary C,Revenue,2024-Q3,Sales,Product C,380850.3,EUR
+Subsidiary C,Revenue,2024-Q3,Sales,Service X,441521.16,GBP
+Subsidiary C,Revenue,2024-Q3,Sales,Service Y,48259.28,GBP
+Subsidiary C,Revenue,2024-Q3,Marketing,Product A,401384.39,USD
+Subsidiary C,Revenue,2024-Q3,Marketing,Product B,197174.07,EUR
+Subsidiary C,Revenue,2024-Q3,Marketing,Product C,30455.32,EUR
+Subsidiary C,Revenue,2024-Q3,Marketing,Service X,273359.67,USD
+Subsidiary C,Revenue,2024-Q3,Marketing,Service Y,85419.62,USD
+Subsidiary C,Revenue,2024-Q3,R&D,Product A,204539.97,EUR
+Subsidiary C,Revenue,2024-Q3,R&D,Product B,311889.55,USD
+Subsidiary C,Revenue,2024-Q3,R&D,Product C,308416.13,EUR
+Subsidiary C,Revenue,2024-Q3,R&D,Service X,11382.38,EUR
+Subsidiary C,Revenue,2024-Q3,R&D,Service Y,111559.45,EUR
+Subsidiary C,Revenue,2024-Q3,Finance,Product A,335700.48,EUR
+Subsidiary C,Revenue,2024-Q3,Finance,Product B,430154.76,USD
+Subsidiary C,Revenue,2024-Q3,Finance,Product C,333784.42,EUR
+Subsidiary C,Revenue,2024-Q3,Finance,Service X,322148.89,USD
+Subsidiary C,Revenue,2024-Q3,Finance,Service Y,153710.84,USD
+Subsidiary C,Revenue,2024-Q3,Operations,Product A,277677.91,USD
+Subsidiary C,Revenue,2024-Q3,Operations,Product B,55938.08,EUR
+Subsidiary C,Revenue,2024-Q3,Operations,Product C,93818.4,EUR
+Subsidiary C,Revenue,2024-Q3,Operations,Service X,344147.36,EUR
+Subsidiary C,Revenue,2024-Q3,Operations,Service Y,281108.87,GBP
+Subsidiary C,COGS,2024-Q3,Sales,Product A,21016.61,USD
+Subsidiary C,COGS,2024-Q3,Sales,Product B,398129.22,USD
+Subsidiary C,COGS,2024-Q3,Sales,Product C,437936.73,EUR
+Subsidiary C,COGS,2024-Q3,Sales,Service X,228784.61,GBP
+Subsidiary C,COGS,2024-Q3,Sales,Service Y,135978.17,EUR
+Subsidiary C,COGS,2024-Q3,Marketing,Product A,300786.84,GBP
+Subsidiary C,COGS,2024-Q3,Marketing,Product B,364366.89,USD
+Subsidiary C,COGS,2024-Q3,Marketing,Product C,371384.66,GBP
+Subsidiary C,COGS,2024-Q3,Marketing,Service X,74295.29,EUR
+Subsidiary C,COGS,2024-Q3,Marketing,Service Y,11073.25,EUR
+Subsidiary C,COGS,2024-Q3,R&D,Product A,478689.24,GBP
+Subsidiary C,COGS,2024-Q3,R&D,Product B,154627.16,USD
+Subsidiary C,COGS,2024-Q3,R&D,Product C,124633.39,GBP
+Subsidiary C,COGS,2024-Q3,R&D,Service X,249037.67,GBP
+Subsidiary C,COGS,2024-Q3,R&D,Service Y,130611.64,EUR
+Subsidiary C,COGS,2024-Q3,Finance,Product A,100344.88,USD
+Subsidiary C,COGS,2024-Q3,Finance,Product B,258951.29,GBP
+Subsidiary C,COGS,2024-Q3,Finance,Product C,412491.93,GBP
+Subsidiary C,COGS,2024-Q3,Finance,Service X,60805.68,EUR
+Subsidiary C,COGS,2024-Q3,Finance,Service Y,314334.87,EUR
+Subsidiary C,COGS,2024-Q3,Operations,Product A,111656.72,EUR
+Subsidiary C,COGS,2024-Q3,Operations,Product B,176111.26,EUR
+Subsidiary C,COGS,2024-Q3,Operations,Product C,341193.7,GBP
+Subsidiary C,COGS,2024-Q3,Operations,Service X,399141.32,USD
+Subsidiary C,COGS,2024-Q3,Operations,Service Y,474093.24,GBP
+Subsidiary C,Operating Expenses,2024-Q3,Sales,Product A,166501.26,GBP
+Subsidiary C,Operating Expenses,2024-Q3,Sales,Product B,277212.12,EUR
+Subsidiary C,Operating Expenses,2024-Q3,Sales,Product C,433512.35,EUR
+Subsidiary C,Operating Expenses,2024-Q3,Sales,Service X,67449.06,EUR
+Subsidiary C,Operating Expenses,2024-Q3,Sales,Service Y,191074.97,EUR
+Subsidiary C,Operating Expenses,2024-Q3,Marketing,Product A,218279.35,GBP
+Subsidiary C,Operating Expenses,2024-Q3,Marketing,Product B,230028,GBP
+Subsidiary C,Operating Expenses,2024-Q3,Marketing,Product C,379449.31,USD
+Subsidiary C,Operating Expenses,2024-Q3,Marketing,Service X,406421.9,EUR
+Subsidiary C,Operating Expenses,2024-Q3,Marketing,Service Y,450151.54,GBP
+Subsidiary C,Operating Expenses,2024-Q3,R&D,Product A,354003.09,GBP
+Subsidiary C,Operating Expenses,2024-Q3,R&D,Product B,225455.15,EUR
+Subsidiary C,Operating Expenses,2024-Q3,R&D,Product C,380089.55,USD
+Subsidiary C,Operating Expenses,2024-Q3,R&D,Service X,315204.09,USD
+Subsidiary C,Operating Expenses,2024-Q3,R&D,Service Y,98680.62,USD
+Subsidiary C,Operating Expenses,2024-Q3,Finance,Product A,12147.96,USD
+Subsidiary C,Operating Expenses,2024-Q3,Finance,Product B,495031.58,EUR
+Subsidiary C,Operating Expenses,2024-Q3,Finance,Product C,240329.95,EUR
+Subsidiary C,Operating Expenses,2024-Q3,Finance,Service X,44763.14,GBP
+Subsidiary C,Operating Expenses,2024-Q3,Finance,Service Y,274294.36,USD
+Subsidiary C,Operating Expenses,2024-Q3,Operations,Product A,426018.72,GBP
+Subsidiary C,Operating Expenses,2024-Q3,Operations,Product B,211276.11,EUR
+Subsidiary C,Operating Expenses,2024-Q3,Operations,Product C,496901.08,GBP
+Subsidiary C,Operating Expenses,2024-Q3,Operations,Service X,276823.27,GBP
+Subsidiary C,Operating Expenses,2024-Q3,Operations,Service Y,365697.2,EUR
+Subsidiary C,Net Income,2024-Q3,Sales,Product A,247343.99,GBP
+Subsidiary C,Net Income,2024-Q3,Sales,Product B,26435.57,GBP
+Subsidiary C,Net Income,2024-Q3,Sales,Product C,120632.62,USD
+Subsidiary C,Net Income,2024-Q3,Sales,Service X,125386.87,EUR
+Subsidiary C,Net Income,2024-Q3,Sales,Service Y,320197.84,USD
+Subsidiary C,Net Income,2024-Q3,Marketing,Product A,143858.47,GBP
+Subsidiary C,Net Income,2024-Q3,Marketing,Product B,180770.43,GBP
+Subsidiary C,Net Income,2024-Q3,Marketing,Product C,25583.5,EUR
+Subsidiary C,Net Income,2024-Q3,Marketing,Service X,70112.94,USD
+Subsidiary C,Net Income,2024-Q3,Marketing,Service Y,24852.2,EUR
+Subsidiary C,Net Income,2024-Q3,R&D,Product A,170379.21,USD
+Subsidiary C,Net Income,2024-Q3,R&D,Product B,320201.57,GBP
+Subsidiary C,Net Income,2024-Q3,R&D,Product C,247515.07,EUR
+Subsidiary C,Net Income,2024-Q3,R&D,Service X,258112.23,GBP
+Subsidiary C,Net Income,2024-Q3,R&D,Service Y,270746.12,USD
+Subsidiary C,Net Income,2024-Q3,Finance,Product A,159911.98,GBP
+Subsidiary C,Net Income,2024-Q3,Finance,Product B,238294.59,USD
+Subsidiary C,Net Income,2024-Q3,Finance,Product C,238632.17,EUR
+Subsidiary C,Net Income,2024-Q3,Finance,Service X,206624.35,EUR
+Subsidiary C,Net Income,2024-Q3,Finance,Service Y,91570.86,GBP
+Subsidiary C,Net Income,2024-Q3,Operations,Product A,295767.97,GBP
+Subsidiary C,Net Income,2024-Q3,Operations,Product B,323478.52,USD
+Subsidiary C,Net Income,2024-Q3,Operations,Product C,263804.65,USD
+Subsidiary C,Net Income,2024-Q3,Operations,Service X,446772.37,GBP
+Subsidiary C,Net Income,2024-Q3,Operations,Service Y,308738.1,GBP
+Subsidiary C,Assets,2024-Q3,Sales,Product A,322181.26,USD
+Subsidiary C,Assets,2024-Q3,Sales,Product B,296507.38,GBP
+Subsidiary C,Assets,2024-Q3,Sales,Product C,464929.03,EUR
+Subsidiary C,Assets,2024-Q3,Sales,Service X,456421.01,GBP
+Subsidiary C,Assets,2024-Q3,Sales,Service Y,48987.94,USD
+Subsidiary C,Assets,2024-Q3,Marketing,Product A,15676.95,EUR
+Subsidiary C,Assets,2024-Q3,Marketing,Product B,149430.15,EUR
+Subsidiary C,Assets,2024-Q3,Marketing,Product C,85668.89,USD
+Subsidiary C,Assets,2024-Q3,Marketing,Service X,440754.87,GBP
+Subsidiary C,Assets,2024-Q3,Marketing,Service Y,265957.96,EUR
+Subsidiary C,Assets,2024-Q3,R&D,Product A,169984.54,EUR
+Subsidiary C,Assets,2024-Q3,R&D,Product B,235570.6,GBP
+Subsidiary C,Assets,2024-Q3,R&D,Product C,397159.08,USD
+Subsidiary C,Assets,2024-Q3,R&D,Service X,361219.92,GBP
+Subsidiary C,Assets,2024-Q3,R&D,Service Y,285714.85,GBP
+Subsidiary C,Assets,2024-Q3,Finance,Product A,301709.48,EUR
+Subsidiary C,Assets,2024-Q3,Finance,Product B,178833.33,EUR
+Subsidiary C,Assets,2024-Q3,Finance,Product C,436440.12,USD
+Subsidiary C,Assets,2024-Q3,Finance,Service X,285254.8,EUR
+Subsidiary C,Assets,2024-Q3,Finance,Service Y,483004.53,EUR
+Subsidiary C,Assets,2024-Q3,Operations,Product A,214575.4,GBP
+Subsidiary C,Assets,2024-Q3,Operations,Product B,491264.35,USD
+Subsidiary C,Assets,2024-Q3,Operations,Product C,423996.7,GBP
+Subsidiary C,Assets,2024-Q3,Operations,Service X,470855.74,USD
+Subsidiary C,Assets,2024-Q3,Operations,Service Y,356593.97,GBP
+Subsidiary C,Liabilities,2024-Q3,Sales,Product A,89116.28,GBP
+Subsidiary C,Liabilities,2024-Q3,Sales,Product B,355694.51,GBP
+Subsidiary C,Liabilities,2024-Q3,Sales,Product C,402648,GBP
+Subsidiary C,Liabilities,2024-Q3,Sales,Service X,162534.71,GBP
+Subsidiary C,Liabilities,2024-Q3,Sales,Service Y,280484.92,USD
+Subsidiary C,Liabilities,2024-Q3,Marketing,Product A,409533.19,EUR
+Subsidiary C,Liabilities,2024-Q3,Marketing,Product B,138903.31,EUR
+Subsidiary C,Liabilities,2024-Q3,Marketing,Product C,82239.57,USD
+Subsidiary C,Liabilities,2024-Q3,Marketing,Service X,400887.33,EUR
+Subsidiary C,Liabilities,2024-Q3,Marketing,Service Y,377217,GBP
+Subsidiary C,Liabilities,2024-Q3,R&D,Product A,12340.93,USD
+Subsidiary C,Liabilities,2024-Q3,R&D,Product B,329124.15,USD
+Subsidiary C,Liabilities,2024-Q3,R&D,Product C,317550.1,GBP
+Subsidiary C,Liabilities,2024-Q3,R&D,Service X,268274.39,GBP
+Subsidiary C,Liabilities,2024-Q3,R&D,Service Y,397821.16,GBP
+Subsidiary C,Liabilities,2024-Q3,Finance,Product A,129607.81,GBP
+Subsidiary C,Liabilities,2024-Q3,Finance,Product B,119703.25,USD
+Subsidiary C,Liabilities,2024-Q3,Finance,Product C,226613.03,USD
+Subsidiary C,Liabilities,2024-Q3,Finance,Service X,453151.94,EUR
+Subsidiary C,Liabilities,2024-Q3,Finance,Service Y,92621.43,EUR
+Subsidiary C,Liabilities,2024-Q3,Operations,Product A,493422.34,EUR
+Subsidiary C,Liabilities,2024-Q3,Operations,Product B,303952,GBP
+Subsidiary C,Liabilities,2024-Q3,Operations,Product C,145321.33,EUR
+Subsidiary C,Liabilities,2024-Q3,Operations,Service X,246479.08,USD
+Subsidiary C,Liabilities,2024-Q3,Operations,Service Y,441789.84,GBP
+Subsidiary C,Equity,2024-Q3,Sales,Product A,445098.93,EUR
+Subsidiary C,Equity,2024-Q3,Sales,Product B,182428.86,EUR
+Subsidiary C,Equity,2024-Q3,Sales,Product C,127339.9,USD
+Subsidiary C,Equity,2024-Q3,Sales,Service X,25136.04,GBP
+Subsidiary C,Equity,2024-Q3,Sales,Service Y,161792.78,EUR
+Subsidiary C,Equity,2024-Q3,Marketing,Product A,444015.47,EUR
+Subsidiary C,Equity,2024-Q3,Marketing,Product B,438994.59,USD
+Subsidiary C,Equity,2024-Q3,Marketing,Product C,183455.66,USD
+Subsidiary C,Equity,2024-Q3,Marketing,Service X,343343.06,EUR
+Subsidiary C,Equity,2024-Q3,Marketing,Service Y,91638.72,GBP
+Subsidiary C,Equity,2024-Q3,R&D,Product A,367299.4,GBP
+Subsidiary C,Equity,2024-Q3,R&D,Product B,129998.57,EUR
+Subsidiary C,Equity,2024-Q3,R&D,Product C,111911.17,USD
+Subsidiary C,Equity,2024-Q3,R&D,Service X,198974.85,GBP
+Subsidiary C,Equity,2024-Q3,R&D,Service Y,21530.4,GBP
+Subsidiary C,Equity,2024-Q3,Finance,Product A,434988.56,GBP
+Subsidiary C,Equity,2024-Q3,Finance,Product B,251685.66,EUR
+Subsidiary C,Equity,2024-Q3,Finance,Product C,39347.37,GBP
+Subsidiary C,Equity,2024-Q3,Finance,Service X,341284.25,USD
+Subsidiary C,Equity,2024-Q3,Finance,Service Y,304740.87,EUR
+Subsidiary C,Equity,2024-Q3,Operations,Product A,499413.78,USD
+Subsidiary C,Equity,2024-Q3,Operations,Product B,154995.7,EUR
+Subsidiary C,Equity,2024-Q3,Operations,Product C,65504.53,EUR
+Subsidiary C,Equity,2024-Q3,Operations,Service X,251551.42,GBP
+Subsidiary C,Equity,2024-Q3,Operations,Service Y,432397.86,EUR
+Subsidiary C,Revenue,2024-Q4,Sales,Product A,12757.19,EUR
+Subsidiary C,Revenue,2024-Q4,Sales,Product B,220185.36,GBP
+Subsidiary C,Revenue,2024-Q4,Sales,Product C,203393.33,GBP
+Subsidiary C,Revenue,2024-Q4,Sales,Service X,196674.5,EUR
+Subsidiary C,Revenue,2024-Q4,Sales,Service Y,166846.87,USD
+Subsidiary C,Revenue,2024-Q4,Marketing,Product A,148648.01,GBP
+Subsidiary C,Revenue,2024-Q4,Marketing,Product B,300550.4,USD
+Subsidiary C,Revenue,2024-Q4,Marketing,Product C,158197.39,GBP
+Subsidiary C,Revenue,2024-Q4,Marketing,Service X,271117.06,GBP
+Subsidiary C,Revenue,2024-Q4,Marketing,Service Y,302455.14,EUR
+Subsidiary C,Revenue,2024-Q4,R&D,Product A,203631.67,GBP
+Subsidiary C,Revenue,2024-Q4,R&D,Product B,365192.7,USD
+Subsidiary C,Revenue,2024-Q4,R&D,Product C,39041.92,USD
+Subsidiary C,Revenue,2024-Q4,R&D,Service X,454943.19,GBP
+Subsidiary C,Revenue,2024-Q4,R&D,Service Y,492867.31,GBP
+Subsidiary C,Revenue,2024-Q4,Finance,Product A,87936.95,USD
+Subsidiary C,Revenue,2024-Q4,Finance,Product B,49617.94,USD
+Subsidiary C,Revenue,2024-Q4,Finance,Product C,282328.28,EUR
+Subsidiary C,Revenue,2024-Q4,Finance,Service X,243809.32,GBP
+Subsidiary C,Revenue,2024-Q4,Finance,Service Y,139119.73,USD
+Subsidiary C,Revenue,2024-Q4,Operations,Product A,255319.42,EUR
+Subsidiary C,Revenue,2024-Q4,Operations,Product B,360871.93,GBP
+Subsidiary C,Revenue,2024-Q4,Operations,Product C,281177.83,USD
+Subsidiary C,Revenue,2024-Q4,Operations,Service X,123249.04,USD
+Subsidiary C,Revenue,2024-Q4,Operations,Service Y,172465.1,GBP
+Subsidiary C,COGS,2024-Q4,Sales,Product A,433449.42,GBP
+Subsidiary C,COGS,2024-Q4,Sales,Product B,163498.88,USD
+Subsidiary C,COGS,2024-Q4,Sales,Product C,414058.71,USD
+Subsidiary C,COGS,2024-Q4,Sales,Service X,462646.49,EUR
+Subsidiary C,COGS,2024-Q4,Sales,Service Y,447716.55,USD
+Subsidiary C,COGS,2024-Q4,Marketing,Product A,242701.77,GBP
+Subsidiary C,COGS,2024-Q4,Marketing,Product B,326511.15,GBP
+Subsidiary C,COGS,2024-Q4,Marketing,Product C,131410.75,GBP
+Subsidiary C,COGS,2024-Q4,Marketing,Service X,342194.86,GBP
+Subsidiary C,COGS,2024-Q4,Marketing,Service Y,117367.2,GBP
+Subsidiary C,COGS,2024-Q4,R&D,Product A,27683.89,GBP
+Subsidiary C,COGS,2024-Q4,R&D,Product B,132075.02,USD
+Subsidiary C,COGS,2024-Q4,R&D,Product C,255043.93,USD
+Subsidiary C,COGS,2024-Q4,R&D,Service X,147683.44,GBP
+Subsidiary C,COGS,2024-Q4,R&D,Service Y,32231.08,GBP
+Subsidiary C,COGS,2024-Q4,Finance,Product A,23058.59,GBP
+Subsidiary C,COGS,2024-Q4,Finance,Product B,74355.6,USD
+Subsidiary C,COGS,2024-Q4,Finance,Product C,114229.19,EUR
+Subsidiary C,COGS,2024-Q4,Finance,Service X,298097.22,USD
+Subsidiary C,COGS,2024-Q4,Finance,Service Y,130587.96,GBP
+Subsidiary C,COGS,2024-Q4,Operations,Product A,357785.17,USD
+Subsidiary C,COGS,2024-Q4,Operations,Product B,95817.53,EUR
+Subsidiary C,COGS,2024-Q4,Operations,Product C,318002.14,USD
+Subsidiary C,COGS,2024-Q4,Operations,Service X,96360.74,EUR
+Subsidiary C,COGS,2024-Q4,Operations,Service Y,115080.54,GBP
+Subsidiary C,Operating Expenses,2024-Q4,Sales,Product A,158381.1,GBP
+Subsidiary C,Operating Expenses,2024-Q4,Sales,Product B,458609.4,USD
+Subsidiary C,Operating Expenses,2024-Q4,Sales,Product C,425062.54,GBP
+Subsidiary C,Operating Expenses,2024-Q4,Sales,Service X,142629.99,GBP
+Subsidiary C,Operating Expenses,2024-Q4,Sales,Service Y,418113.16,EUR
+Subsidiary C,Operating Expenses,2024-Q4,Marketing,Product A,419070.52,GBP
+Subsidiary C,Operating Expenses,2024-Q4,Marketing,Product B,268120.07,GBP
+Subsidiary C,Operating Expenses,2024-Q4,Marketing,Product C,114992.41,USD
+Subsidiary C,Operating Expenses,2024-Q4,Marketing,Service X,407891.89,USD
+Subsidiary C,Operating Expenses,2024-Q4,Marketing,Service Y,421828.31,GBP
+Subsidiary C,Operating Expenses,2024-Q4,R&D,Product A,379794.28,GBP
+Subsidiary C,Operating Expenses,2024-Q4,R&D,Product B,50518.35,GBP
+Subsidiary C,Operating Expenses,2024-Q4,R&D,Product C,436743.79,EUR
+Subsidiary C,Operating Expenses,2024-Q4,R&D,Service X,117154.27,USD
+Subsidiary C,Operating Expenses,2024-Q4,R&D,Service Y,151964.43,EUR
+Subsidiary C,Operating Expenses,2024-Q4,Finance,Product A,185522.38,GBP
+Subsidiary C,Operating Expenses,2024-Q4,Finance,Product B,462971.33,EUR
+Subsidiary C,Operating Expenses,2024-Q4,Finance,Product C,79113.57,GBP
+Subsidiary C,Operating Expenses,2024-Q4,Finance,Service X,108229.75,EUR
+Subsidiary C,Operating Expenses,2024-Q4,Finance,Service Y,481514,USD
+Subsidiary C,Operating Expenses,2024-Q4,Operations,Product A,46500.08,EUR
+Subsidiary C,Operating Expenses,2024-Q4,Operations,Product B,469014.15,USD
+Subsidiary C,Operating Expenses,2024-Q4,Operations,Product C,345161.94,GBP
+Subsidiary C,Operating Expenses,2024-Q4,Operations,Service X,414511.39,USD
+Subsidiary C,Operating Expenses,2024-Q4,Operations,Service Y,302955.97,USD
+Subsidiary C,Net Income,2024-Q4,Sales,Product A,367252.67,EUR
+Subsidiary C,Net Income,2024-Q4,Sales,Product B,425017.39,USD
+Subsidiary C,Net Income,2024-Q4,Sales,Product C,111384.32,GBP
+Subsidiary C,Net Income,2024-Q4,Sales,Service X,226725.23,GBP
+Subsidiary C,Net Income,2024-Q4,Sales,Service Y,102525.18,EUR
+Subsidiary C,Net Income,2024-Q4,Marketing,Product A,393787.55,USD
+Subsidiary C,Net Income,2024-Q4,Marketing,Product B,297930.52,EUR
+Subsidiary C,Net Income,2024-Q4,Marketing,Product C,14040,GBP
+Subsidiary C,Net Income,2024-Q4,Marketing,Service X,273121.68,GBP
+Subsidiary C,Net Income,2024-Q4,Marketing,Service Y,172791.49,USD
+Subsidiary C,Net Income,2024-Q4,R&D,Product A,406987.82,EUR
+Subsidiary C,Net Income,2024-Q4,R&D,Product B,91126.93,USD
+Subsidiary C,Net Income,2024-Q4,R&D,Product C,56763.32,USD
+Subsidiary C,Net Income,2024-Q4,R&D,Service X,199589.03,GBP
+Subsidiary C,Net Income,2024-Q4,R&D,Service Y,425991.62,GBP
+Subsidiary C,Net Income,2024-Q4,Finance,Product A,280330.7,GBP
+Subsidiary C,Net Income,2024-Q4,Finance,Product B,459264.51,USD
+Subsidiary C,Net Income,2024-Q4,Finance,Product C,44083.59,GBP
+Subsidiary C,Net Income,2024-Q4,Finance,Service X,89121.32,USD
+Subsidiary C,Net Income,2024-Q4,Finance,Service Y,105337.06,EUR
+Subsidiary C,Net Income,2024-Q4,Operations,Product A,455869.66,USD
+Subsidiary C,Net Income,2024-Q4,Operations,Product B,312992.29,GBP
+Subsidiary C,Net Income,2024-Q4,Operations,Product C,69422.94,EUR
+Subsidiary C,Net Income,2024-Q4,Operations,Service X,178998.76,USD
+Subsidiary C,Net Income,2024-Q4,Operations,Service Y,265112.68,USD
+Subsidiary C,Assets,2024-Q4,Sales,Product A,424057.78,EUR
+Subsidiary C,Assets,2024-Q4,Sales,Product B,141232.99,USD
+Subsidiary C,Assets,2024-Q4,Sales,Product C,18238.44,USD
+Subsidiary C,Assets,2024-Q4,Sales,Service X,153476.13,GBP
+Subsidiary C,Assets,2024-Q4,Sales,Service Y,37743.96,GBP
+Subsidiary C,Assets,2024-Q4,Marketing,Product A,299458.26,EUR
+Subsidiary C,Assets,2024-Q4,Marketing,Product B,30051.47,EUR
+Subsidiary C,Assets,2024-Q4,Marketing,Product C,361330.23,EUR
+Subsidiary C,Assets,2024-Q4,Marketing,Service X,420714.63,EUR
+Subsidiary C,Assets,2024-Q4,Marketing,Service Y,295122.79,USD
+Subsidiary C,Assets,2024-Q4,R&D,Product A,126302.54,USD
+Subsidiary C,Assets,2024-Q4,R&D,Product B,206005.33,EUR
+Subsidiary C,Assets,2024-Q4,R&D,Product C,305557.92,USD
+Subsidiary C,Assets,2024-Q4,R&D,Service X,269058.11,EUR
+Subsidiary C,Assets,2024-Q4,R&D,Service Y,117964.38,USD
+Subsidiary C,Assets,2024-Q4,Finance,Product A,392845.83,GBP
+Subsidiary C,Assets,2024-Q4,Finance,Product B,384969.97,EUR
+Subsidiary C,Assets,2024-Q4,Finance,Product C,419217.84,EUR
+Subsidiary C,Assets,2024-Q4,Finance,Service X,432349.46,USD
+Subsidiary C,Assets,2024-Q4,Finance,Service Y,440063.54,GBP
+Subsidiary C,Assets,2024-Q4,Operations,Product A,255878.69,EUR
+Subsidiary C,Assets,2024-Q4,Operations,Product B,374916.95,EUR
+Subsidiary C,Assets,2024-Q4,Operations,Product C,426908.58,USD
+Subsidiary C,Assets,2024-Q4,Operations,Service X,277290.77,GBP
+Subsidiary C,Assets,2024-Q4,Operations,Service Y,263748.77,EUR
+Subsidiary C,Liabilities,2024-Q4,Sales,Product A,390092.91,EUR
+Subsidiary C,Liabilities,2024-Q4,Sales,Product B,87161.84,EUR
+Subsidiary C,Liabilities,2024-Q4,Sales,Product C,479807.03,EUR
+Subsidiary C,Liabilities,2024-Q4,Sales,Service X,78982.19,EUR
+Subsidiary C,Liabilities,2024-Q4,Sales,Service Y,193135.78,GBP
+Subsidiary C,Liabilities,2024-Q4,Marketing,Product A,340258.36,EUR
+Subsidiary C,Liabilities,2024-Q4,Marketing,Product B,149401.22,EUR
+Subsidiary C,Liabilities,2024-Q4,Marketing,Product C,388788.89,EUR
+Subsidiary C,Liabilities,2024-Q4,Marketing,Service X,417076.17,EUR
+Subsidiary C,Liabilities,2024-Q4,Marketing,Service Y,84626.35,EUR
+Subsidiary C,Liabilities,2024-Q4,R&D,Product A,296776.1,GBP
+Subsidiary C,Liabilities,2024-Q4,R&D,Product B,492265.31,USD
+Subsidiary C,Liabilities,2024-Q4,R&D,Product C,348081.09,EUR
+Subsidiary C,Liabilities,2024-Q4,R&D,Service X,470330.39,EUR
+Subsidiary C,Liabilities,2024-Q4,R&D,Service Y,102909.76,GBP
+Subsidiary C,Liabilities,2024-Q4,Finance,Product A,264757.58,USD
+Subsidiary C,Liabilities,2024-Q4,Finance,Product B,152017.75,EUR
+Subsidiary C,Liabilities,2024-Q4,Finance,Product C,496283.2,USD
+Subsidiary C,Liabilities,2024-Q4,Finance,Service X,245509.81,GBP
+Subsidiary C,Liabilities,2024-Q4,Finance,Service Y,394016.17,GBP
+Subsidiary C,Liabilities,2024-Q4,Operations,Product A,294074.08,EUR
+Subsidiary C,Liabilities,2024-Q4,Operations,Product B,367938.8,EUR
+Subsidiary C,Liabilities,2024-Q4,Operations,Product C,86624.04,USD
+Subsidiary C,Liabilities,2024-Q4,Operations,Service X,313491.38,USD
+Subsidiary C,Liabilities,2024-Q4,Operations,Service Y,360352.69,GBP
+Subsidiary C,Equity,2024-Q4,Sales,Product A,163240.1,GBP
+Subsidiary C,Equity,2024-Q4,Sales,Product B,236114,EUR
+Subsidiary C,Equity,2024-Q4,Sales,Product C,153844.44,USD
+Subsidiary C,Equity,2024-Q4,Sales,Service X,217563.8,USD
+Subsidiary C,Equity,2024-Q4,Sales,Service Y,380084.11,GBP
+Subsidiary C,Equity,2024-Q4,Marketing,Product A,476833.88,GBP
+Subsidiary C,Equity,2024-Q4,Marketing,Product B,109691.4,GBP
+Subsidiary C,Equity,2024-Q4,Marketing,Product C,278059.41,EUR
+Subsidiary C,Equity,2024-Q4,Marketing,Service X,302813.81,EUR
+Subsidiary C,Equity,2024-Q4,Marketing,Service Y,420873.61,EUR
+Subsidiary C,Equity,2024-Q4,R&D,Product A,227289.14,USD
+Subsidiary C,Equity,2024-Q4,R&D,Product B,289320.25,EUR
+Subsidiary C,Equity,2024-Q4,R&D,Product C,206157.33,GBP
+Subsidiary C,Equity,2024-Q4,R&D,Service X,110222.53,EUR
+Subsidiary C,Equity,2024-Q4,R&D,Service Y,493839.97,GBP
+Subsidiary C,Equity,2024-Q4,Finance,Product A,417642.01,USD
+Subsidiary C,Equity,2024-Q4,Finance,Product B,332007.36,EUR
+Subsidiary C,Equity,2024-Q4,Finance,Product C,253841.59,GBP
+Subsidiary C,Equity,2024-Q4,Finance,Service X,146990.48,EUR
+Subsidiary C,Equity,2024-Q4,Finance,Service Y,348846.43,EUR
+Subsidiary C,Equity,2024-Q4,Operations,Product A,298468.21,EUR
+Subsidiary C,Equity,2024-Q4,Operations,Product B,486296.5,EUR
+Subsidiary C,Equity,2024-Q4,Operations,Product C,188422.19,USD
+Subsidiary C,Equity,2024-Q4,Operations,Service X,468293.86,EUR
+Subsidiary C,Equity,2024-Q4,Operations,Service Y,273827.17,EUR

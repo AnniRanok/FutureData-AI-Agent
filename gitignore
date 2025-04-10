@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+.Python
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit specific
+.streamlit/
+
+# Data and logs
+*.log
+*.csv
+*.json
+*.sqlite
+*.db
+
+# Model & embedding caches
+.cache/
+huggingface/
