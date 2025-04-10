@@ -2,8 +2,9 @@
 
 Welcome to **Future Data AI Agent** — your intelligent virtual assistant for financial data analysis.
 
-This Streamlit-based tool allows you to upload spreadsheet files (CSV/Excel), ask natural language questions, receive Python-powered answers, view KPIs and anomalies, and export actionable insights.
+This Streamlit-based tool allows you to upload spreadsheet files (CSV/Excel), ask natural language questions, receive Python-powered answers, view KPIs and anomalies, and export actionable insights. 
 
+![AI Agent](image0.jpg)
 ---
 ## File Structure
 
@@ -80,5 +81,6 @@ Inspired by Manus AI, Replit AI, and the power of modern LLMs.
 ## Contact
 Have feedback or want to contribute?
 
-📧 Email us at: future.data.agent@yourdomain.com 
-🌐 Website (Coming Soon):https://charming-granita-aff216.netlify.app/  
+📧 Email us at: future.data.agent@yourdomain.com  
+
+🌐 Website (Coming Soon):https://charming-granita-aff216.netlify.app/   
