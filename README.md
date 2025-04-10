@@ -80,5 +80,5 @@ Inspired by Manus AI, Replit AI, and the power of modern LLMs.
 ## Contact
 Have feedback or want to contribute?
 
-📧 Email us at: future.data.agent@yourdomain.com
-🌐 Website (Coming Soon): 
+📧 Email us at: future.data.agent@yourdomain.com 
+🌐 Website (Coming Soon):https://charming-granita-aff216.netlify.app/  
