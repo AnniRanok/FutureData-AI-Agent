@@ -83,4 +83,4 @@ Have feedback or want to contribute?
 
 📧 Email us at: future.data.agent@yourdomain.com  
 
-🌐 Website (Coming Soon):https://charming-granita-aff216.netlify.app/   
+🌐 Website (Coming Soon):https://futuredata-ai-agent.netlify.app.netlify.app/   
