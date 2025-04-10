@@ -4,7 +4,7 @@ Welcome to **Future Data AI Agent** — your intelligent virtual assistant for f
 
 This Streamlit-based tool allows you to upload spreadsheet files (CSV/Excel), ask natural language questions, receive Python-powered answers, view KPIs and anomalies, and export actionable insights. 
 
-![AI Agent](image0.jpg) 
+![AI Agent](image0.jpeg) 
 ---
 ## File Structure
 
