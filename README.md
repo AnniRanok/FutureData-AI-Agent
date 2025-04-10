@@ -1,6 +1,6 @@
-# Future Data AI Agent
+# FutureData AI Agent
 
-Welcome to **Future Data AI Agent** — your intelligent virtual assistant for financial data analysis.
+Welcome to **FutureData AI Agent** — your intelligent virtual assistant for financial data analysis.
 
 This Streamlit-based tool allows you to upload spreadsheet files (CSV/Excel), ask natural language questions, receive Python-powered answers, view KPIs and anomalies, and export actionable insights. 
 
