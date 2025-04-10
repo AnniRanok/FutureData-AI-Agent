@@ -81,6 +81,6 @@ Inspired by Manus AI, Replit AI, and the power of modern LLMs.
 ## Contact
 Have feedback or want to contribute?
 
-📧 Email us at: future.data.agent@yourdomain.com  
+📧 Email us at: konar.inna@gmail.com  
 
-🌐 Website (Coming Soon):https://futuredata-ai-agent.netlify.app.netlify.app/   
+🌐 Website (Coming Soon):https://futuredata-ai-agent.netlify.app/  
