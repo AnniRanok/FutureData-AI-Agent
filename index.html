@@ -1,20 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Future Data Intelligence</title>
   <meta charset="utf-8">
+  <title>Future Data Intelligence</title>
+
   <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155335712-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-155335712-1');
   </script>
+
+  <style>
+    .parallax1 {
+      background-image: url('https://s.mind.ua/img/forall/a/202329/0.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
+    .parallax1::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 1;
+    }
+
+    .parallax1 .container {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      color: white;
+    }
+
+    .brand_slogan,
+    .countdown_block h3 {
+      color: white;
+    }
+  </style>
 </head>
+
 <body>
-  <img src="https://s.mind.ua/img/forall/a/202329/0.jpg" alt="Some image" width="200">
+
+  <div class="parallax1">
+    <div class="container">
+      <img src="future_data_logo_transparent.png" width="200" alt="Future Data Logo" style="margin-bottom: 20px;">
+      <p class="brand_slogan">Applications, Solutions and Innovations</p>
+      <div class="countdown_block">
+        <h3>We build AI-driven applications for financial analysis, forecasting, and data-driven decision-making.</h3>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
+
 
   <title>Future Data Intelligence</title>
   <meta charset="utf-8">
