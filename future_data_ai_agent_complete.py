@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 import streamlit as st
 import pandas as pd
@@ -12,11 +10,9 @@ from datetime import datetime
 from scipy.stats import zscore
 import os
 
-# --- Налаштування сторінки ---
 st.set_page_config(page_title="Future Data Agent", layout="wide")
 st.title("💬 Future Data – Conversational Finance Assistant")
 
-# --- Стан ---
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 if "history" not in st.session_state:
@@ -27,8 +23,7 @@ if "activity_log" not in st.session_state:
 def log_activity(msg):
     st.session_state.activity_log.append(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
 
-# --- Чат блок ---
-st.subheader("🧠 Ask the AI Agent")
+st.subheader(" Ask the AI Agent")
 for msg in st.session_state.chat_history:
     st.markdown(f"**You:** {msg['user']}")
     st.markdown(f"**Agent:** {msg['agent']}")
@@ -48,8 +43,7 @@ if chat_input:
     st.session_state.chat_history.append({"user": chat_input, "agent": reply})
     st.experimental_rerun()
 
-# --- Завантаження файлу ---
-st.sidebar.header("📂 Upload Data")
+st.sidebar.header(" Upload Data")
 uploaded_file = st.sidebar.file_uploader("Choose CSV or Excel", type=["csv", "xlsx"])
 if uploaded_file:
     df = pd.read_csv(uploaded_file) if uploaded_file.name.endswith(".csv") else pd.read_excel(uploaded_file)
@@ -57,7 +51,7 @@ if uploaded_file:
     st.dataframe(df.head(), use_container_width=True)
     log_activity(f"File loaded: {uploaded_file.name}")
 
-    # --- Запит ---
+
     user_query = st.text_input("🔎 Ask a question about your data")
     if user_query:
         column_list = ", ".join(df.columns)
@@ -80,7 +74,7 @@ if uploaded_file:
         if isinstance(result, pd.DataFrame):
             st.dataframe(result)
         elif isinstance(result, (int, float, str)):
-            st.write("📈 Result:", result)
+            st.write(" Result:", result)
         elif plt.get_fignums():
             st.pyplot(plt.gcf())
             plt.clf()
@@ -90,11 +84,11 @@ if uploaded_file:
         summary = requests.post("http://localhost:11434/api/generate", json={
             "model": "mixtral", "prompt": summary_prompt, "stream": False
         }).json().get("response", "")
-        st.success(f"🧠 Summary: {summary}")
+        st.success(f" Summary: {summary}")
         log_activity("Summary created")
 
         # --- KPI ---
-        st.subheader("📊 KPI Scanner")
+        st.subheader(" KPI Scanner")
         kpi_cols = [col for col in df.columns if any(k in col.lower() for k in ['revenue','loss','profit','amount','score','pd'])]
         for col in kpi_cols:
             if pd.api.types.is_numeric_dtype(df[col]):
@@ -102,8 +96,8 @@ if uploaded_file:
                 st.bar_chart(df[col])
                 log_activity(f"KPI chart: {col}")
 
-        # --- Аномалії ---
-        st.subheader("🚨 Anomaly Detector")
+    
+        st.subheader(" Anomaly Detector")
         anomalies = []
         for col in df.select_dtypes(include=['float64', 'int64']).columns:
             try:
@@ -117,8 +111,8 @@ if uploaded_file:
             except:
                 continue
 
-        # --- TODO.md ---
-        st.subheader("📌 Suggested Actions")
+     
+        st.subheader(" Suggested Actions")
         todos = []
         for col in anomalies:
             todos.append(f"- Investigate anomaly in column **{col}**")
@@ -139,7 +133,7 @@ if st.session_state.activity_log:
     for log in reversed(st.session_state.activity_log):
         st.sidebar.markdown(log)
 
-# --- Стилізація ---
+
 st.markdown("""
 <style>
     .stButton>button { background-color: #2C3E50; color: white; border-radius: 6px; }
