@@ -78,7 +78,7 @@
                 <img src="{{ url_for('static', filename='images/ai_ml_applications.png') }}" alt="AI and ML Applications">
               </div>
               <div class="box_cnt">
-                <h5 style="color: #f39c12;">ARTIFICAL INTELLIGENT AND MACHINE LEARNING APPLICATIONS</h5>
+                <h5 style="color: #f39c12;">ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING APPLICATIONS</h5>
                 <p style="color: #dddddd; font-size: 1.15rem; line-height: 1.6;">Development and implementation of artificial intelligence and machine learning applications based on your business models and data. These solutions include, but are not limited to, logistics fleet management, sales forecasting, schedule optimization, image processing, and text analysis.</p>
               </div>
             </div>
@@ -193,19 +193,10 @@
     <div id="demoModal" class="modal" style="display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9);">
       <div class="modal-content" style="margin: 5% auto; padding: 20px; width: 80%; max-width: 800px; position: relative;">
         <span class="close-modal" style="position: absolute; top: -40px; right: 0; color: white; font-size: 35px; font-weight: bold; cursor: pointer;">&times;</span>
-        <div class="video-container" style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-          <!-- Placeholder for the demo video iframe -->
-          <div id="videoPlaceholder" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: #111; display: flex; justify-content: center; align-items: center; flex-direction: column; color: white;">
-            <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="#f39c12" stroke-width="2"/>
-              <path d="M10 8L16 12L10 16V8Z" fill="#f39c12"/>
-            </svg>
-            <p style="margin-top: 20px; font-size: 1.2rem;">Future Data AI Product Demo</p>
-            <p style="margin-top: 10px; font-size: 0.9rem; max-width: 80%; text-align: center;">
-              This is where your product demonstration video would appear. For a personalized demo tailored to your business needs, please contact our team.
-            </p>
-          </div>
-        </div>
+        <video controls autoplay style="width: 100%; border-radius: 10px;">
+          <source src="{{ url_for('static', filename='videos/FutureData.mp4') }}" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>  
       </div>
     </div>
 
