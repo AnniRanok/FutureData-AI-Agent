@@ -169,7 +169,7 @@
         <p style="font-size: 1.2rem; max-width: 800px; margin: 0 auto 2rem;">Watch our product demonstration to see how <span style="color: #f39c12;">Future</span><span style="color: #27AE60;">Data</span><span style="color: #2980b9;">AI</span> can transform your business through intelligent data solutions.</p>
         
         <div class="demo-preview" style="max-width: 800px; margin: 0 auto 2rem; position: relative; border-radius: 8px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-          <img src="{{ url_for('static', filename='images/globe_image.png') }}" alt="Demo Preview" style="width: 100%; display: block; height: auto;">
+          <img src="static/images/globe_image.png" alt="Demo Preview" style="width: 100%; display: block; height: auto;">
           <div class="demo-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); display: flex; justify-content: center; align-items: center;">
             <div class="play-button" style="width: 80px; height: 80px; background: rgba(243, 156, 18, 0.9); border-radius: 50%; display: flex; justify-content: center; align-items: center; cursor: pointer; transition: transform 0.3s, background-color 0.3s;">
               <svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -194,7 +194,7 @@
       <div class="modal-content" style="margin: 5% auto; padding: 20px; width: 80%; max-width: 800px; position: relative;">
         <span class="close-modal" style="position: absolute; top: -40px; right: 0; color: white; font-size: 35px; font-weight: bold; cursor: pointer;">&times;</span>
         <video controls autoplay style="width: 100%; border-radius: 10px;">
-          <source src="{{ url_for('static', filename='videos/future-data.mp4') }}" type="video/mp4">
+          <source src="static/videos/future-data.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>  
       </div>
@@ -269,6 +269,6 @@
       </div>
   </footer>
 
-  <script src="{{ url_for('static', filename='js/new-script.js') }}"></script>
+  <script src="static/js/main.js"></script>
 </body>
 </html>
