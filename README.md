@@ -12,7 +12,9 @@ This version represents a **technical draft** on the way to our full AI assistan
 ## Live Demo
 
  Watch the short demo here:  
-[![Watch the demo](https://github.com/AnniRanok/FutureData-AI-Agent/raw/main/static/videos/preview.png)](https://github.com/AnniRanok/FutureData-AI-Agent/raw/main/static/videos/demo.mp4)
+[![Watch the demo](https://github.com/AnniRanok/FutureData-AI-Agent/raw/main/static/videos/preview.png)](https://github.com/AnniRanok/FutureData-AI-Agent/raw/main/static/videos/future-data.mp4)
+
+
 
 
 ##  Features (Prototype Preview)
@@ -30,7 +32,27 @@ This version represents a **technical draft** on the way to our full AI assistan
 
 ## Project Structure
 
-<pre> ```bash FutureData-AI-Agent/ ├── future_data_app/ # Core application │ ├── app.py # Main logic (OpenAI + Pandas) │ ├── components/ # UI components │ ├── data/ # Example datasets │ ├── utils/ # Helper functions │ └── requirements.txt # App dependencies ├── static/ # Frontend assets │ ├── js/ │ ├── css/ │ └── videos/ ├── templates/ │ └── index.html # Landing page ├── app.py # Flask / Streamlit entry point ├── main.py # Optional CLI / launcher ├── README.md └── ... ``` </pre>
+<h3>📁 Project Structure</h3>
+<pre>
+FutureData-AI-Agent/
+├── future_data_app/                 # Core application
+│   ├── app.py                      # Main logic (OpenAI + Pandas)
+│   ├── components/                 # UI components
+│   ├── data/                       # Example datasets
+│   ├── utils/                      # Helper functions
+│   └── requirements.txt            # App dependencies
+├── static/                         # Frontend assets
+│   ├── js/
+│   ├── css/
+│   └── videos/
+├── templates/
+│   └── index.html                  # Landing page
+├── app.py                          # Flask / Streamlit entry point
+├── main.py                         # Optional CLI / launcher
+├── README.md
+└── ...
+</pre>
+
 
 
 
