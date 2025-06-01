@@ -83,4 +83,4 @@ Have feedback or want to contribute?
 
 📧 Email us at: konar.inna@gmail.com  
 
-🌐 Website (Coming Soon):https://futuredata-ai.netlify.app/  
+🌐 Website:https://futuredata-ai.netlify.app/  
