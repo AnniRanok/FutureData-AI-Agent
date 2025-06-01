@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Future Data AI Agent</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background-color: #000; color: white; }
+    header, section, footer { padding: 2rem; max-width: 960px; margin: auto; }
+    header { 
+      background: url('https://s.mind.ua/img/forall/a/202329/0.jpg?1639147269') no-repeat center center; 
+      background-size: cover;
+      color: white; 
+      text-align: center; 
+      padding: 5rem 2rem; 
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    }
+    h1 { font-size: 3.6rem; margin-bottom: 0.5rem; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); }
+    h2 { font-size: 1.75rem; color: #f39c12; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); }
+    .features, .cta, .contact-info { background: rgba(17, 17, 17, 0.9); margin-top: 2rem; padding: 2rem; border-radius: 8px; text-align: center; }
+    .button { display: inline-block; padding: 1rem 2rem; background: #27AE60; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; }
+    footer { background: #222; text-align: center; font-size: 0.9rem; margin-top: 2rem; padding: 1rem; }
+    .feature-image { width: 100%; border-radius: 8px; }
+    .feature-list { list-style-type: disc; padding-left: 20px; text-align: left; font-size: 1.1rem; }
+    .contact-info { text-align: left; font-size: 1rem; }
+    .contact-info p { font-size: 1rem; }
+  </style>
+</head>
+<body>
+
+ 
+  <!--========================================================
+                          HEADER
+  =========================================================-->
+  <div class="parallax1">
+    <header class="well ta-c">
+      <div class="container">
+        <div class="brand">
+          <img src="future_data_logo_transparent.png" width="200" alt="Future Data Logo" style="margin: 0 auto 20px; display: block;">
+          <p class="brand_slogan">Applications, Solutions and Innovations</p>
+        </div>
+        <div class="countdown_block">
+          <h3>We build AI-driven applications for financial analysis, forecasting, and data-driven decision-making.</h3><br>
+        </div>
+      </div>
+    </header>
+  </div>
+</div>
+</body>
+</html>
+
+
+</div>
+  <!--========================================================
+                            CONTENT
+  =========================================================-->
+  <main>
+
+    <section class="well-2 bg cnt">
+      <div class="container">
+        <div class="row">
+          <div class="grid_7">
+            <h2 class="left-border">Our Experiences and Technologies<br><span>build a holistic solution for your business</span></h2>
+          </div>
+          <div class="grid_5">
+            <p><h5>Our development team brings fresh, innovative approaches to creating AI-driven applications for financial analysis, forecasting, and decision-making. We focus on designing and implementing cutting-edge machine learning solutions for business needs, including but not limited to financial forecasting, anomaly detection, KPI analysis, and automated reporting.</h5></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="well-3 bg2">
+      <div class="container">
+        <div class="block-title">
+          <h2>Our information technology and artificial intelligent solutions</h2><br>
+          <h3><font color="#1ac1bb">Perfect for any business</font></h3>
+        </div>
+        <div class="row">
+          <div class="grid_4">
+            <div class="box">
+              <div class="box_aside">
+                <img src="page_img02.jpg" alt="">
+              </div>
+              <div class="box_cnt">
+                <h5>Financial Data Systems</h5>
+                <p>Providing a comprehensive range of solutions for financial data analysis and forecasting, including the development of automated financial reporting systems, AI-powered recommendation engines, machine learning-based anomaly detection, chatbots, data visualization, and real-time analytics.</p>
+              </div>
+            </div>
+          </div>
+          <div class="grid_4">
+            <div class="box">
+              <div class="box_aside">
+                <img src="page_img03.jpg" alt="">
+              </div>
+              <div class="box_cnt">
+                <h5>Enterprise Systems</h5>
+                <p>Integrating advanced financial data solutions into your existing enterprise systems, including web and mobile applications. Our platform is designed to seamlessly integrate with the tools and software used across industries like banking, insurance, healthcare, retail, and logistics, streamlining financial data management, reporting, and analysis for smarter, faster decision-making.</p>
+              </div>
+            </div>
+          </div>
+          <div class="grid_4">
+            <div class="box">
+              <div class="box_aside">
+                <img src="page_img04.jpg" alt="">
+              </div>
+              <div class="box_cnt">
+                <h5>Artifical intelligent and Machine Learning Applications</h5>
+                <p>Development and implementation of artificial intelligence and machine learning applications based on your business models and data. These solutions include, but are not limited to, logistics fleet management, sales forecasting, schedule optimization, image processing, and text analysis.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="well-4 bg">
+      <div class="container">
+          <h2 class="h2 __off">Features</h2>
+        <div class="row">
+          <div class="grid_6">
+            <div class="box-2 left-border">
+              <div class="flaticon-010-creative"></div><br>
+              <h5>State-of-the-art technologies</h5>
+              <p>Explore new technologies from our own research findings</p>
+            </div>
+          </div>
+          <div class="grid_6">
+            <div class="box-2 left-border">
+              <div class="flaticon-005-profits"></div><br>
+              <h5>Cost-effective</h5>
+              <p>Provide high-quality solutions from small to big based on your budget</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="grid_6">
+            <div class="box-2 left-border">
+              <div class="flaticon-006-objective"></div><br>
+              <h5>Customization</h5>
+              <p>Design solutions to fit your unique needs and short- and long-term objectives</p>
+            </div>
+          </div>
+          <div class="grid_6">
+            <div class="box-2 left-border">
+              <div class="flaticon-004-puzzle-pieces"></div><br>
+              <h5>Holistic solutions</h5>
+              <p>Provide a wide array of information technology and artificial intelligent services to support your business needs</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="well-6 bg-primary">
+      <div class="container">
+        <div class="cnt3">
+          <blockquote>Empowering your growth with Future Data Intelligence Technologies</blockquote>
+        </div>
+      </div>
+    </section>
+
+
+	
+
+    <section>
+      <div class="parallax parallax3 well-10 cnt6" data-parallax-speed="-0.2">
+        <div class="container">
+          <div class="row">
+            <div class="grid_6">
+              <h2>Subscribe</h2>
+              <p>Sign up to receive free email notifications when new information is available from us. With a subscription profile, you automatically receive updates without having to return to the website and check for changes.</p>
+            </div>
+            <div class="grid_6">
+              
+              <form id="subscribe-form" class="subscribe-form">
+                  <label class="email">
+                      <input type="email" id="email" placeholder="Enter Your Email">                      
+                  </label>
+                  <a class="btn" data-type="submit" href="JavaScript:regEmail();">Subscribe</a>
+              </form>
+              <div id="regEmailMsg"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!--========================================================
+                            FOOTER
+  =========================================================-->
+  <footer class="well-11 cnt8">
+    <div class="container">
+        <div class="row">
+          <div class="grid_6">
+            <h2>Contact Us</h2>
+            <p></p>
+            <ul class="address-list">
+              <li class="fa fa-map-marker">Luxembourg</li>
+              <li class="fa fa-phone">+33753314045 (WhatsApp)</li>
+            </ul>
+            <!--<ul class="soc-list">
+              <li><a class="fa fa-facebook" href="#"></a></li>
+              <li><a class="fa fa-twitter" href="#"></a></li>
+              <li><a class="fa fa-google-plus" href="#"></a></li>
+              <li><a class="fa fa-youtube" href="#"></a></li>
+            </ul>-->
+          </div>
+          <div class="grid_6">
+            
+            <form id="contact-form" class='contact-form'>
+              <div class="contact-form-loader"></div>
+              <fieldset>
+                <label class="name">
+                  <input type="text" name="name" id="contact_name" placeholder="Name" value="" data-constraints="@Required @JustLetters"/>
+                </label>
+            
+                <label class="email">
+                  <input type="text" name="email" id="contact_email" placeholder="Email" value="" data-constraints="@Required @Email"/>
+                  
+                </label>
+            
+                <label class="phone">
+                  <input type="text" name="phone" id="contact_phone" placeholder="Phone (Optional)" value="" data-constraints="@JustNumbers"/>
+                </label>
+            
+                <label class="message">
+                  <textarea name="message" id="contact_msg" placeholder="Message" data-constraints='@Required @Length(min=20,max=999999)'></textarea>            
+                </label>
+            
+                <div class="btn-wr">
+                  <a class="btn" data-type="submit" href="JavaScript:sendMsg();">Send</a>
+                </div>
+              </fieldset>
+            </form>
+
+			<div id="sendlMsgMsg"></div>
+            
+          </div>
+        </div>
+        <div class="copyright">
+          <p>Future Data © <span id="copyright-year">2025</span>. All Rights Reserved.</p>
+          <!-- {%FOOTER_LINK} -->
+        </div>
+      </div>
+    
+  </footer>
+</div>
+
+<!--<script src="js/script.js"></script>-->
+<!--coded by Gawuw-->
+
+  <script type="text/javascript">
+    
+$('.responsive').slick({
+  dots: true,
+  infinite: false,
+  speed: 300,
+  slidesToShow: 6,
+  slidesToScroll: 6,
+  responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        infinite: true,
+        dots: true
+      }
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    }
+    // You can unslick at a given breakpoint now by adding:
+    // settings: "unslick"
+    // instead of a settings object
+  ]
+});
+  </script>
+
+</body>
+</html>
