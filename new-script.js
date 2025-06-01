@@ -59,14 +59,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 // After a delay, show the video placeholder (in a real scenario, this would be where you'd embed the actual video)
                 setTimeout(() => {
                     videoPlaceholder.innerHTML = `
-                        <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="#f39c12" stroke-width="2"/>
-                            <path d="M10 8L16 12L10 16V8Z" fill="#f39c12"/>
-                        </svg>
-                        <p style="margin-top: 20px; font-size: 1.2rem;"><span style="color: #f39c12;">Future</span><span style="color: #27AE60;">Data</span><span style="color: #2980b9;">AI</span> Product Demo</p>
-                        <p style="margin-top: 10px; font-size: 0.9rem; max-width: 80%; text-align: center;">
-                            This is where your product demonstration video would appear. For a personalized demo tailored to your business needs, please contact our team.
-                        </p>
+                        <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;">
+                            <source src="{{ url_for('static', filename='videos/FutureData.mp4') }}" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
                     `;
                 }, 1500);
             }
