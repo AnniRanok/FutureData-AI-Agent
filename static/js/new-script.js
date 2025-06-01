@@ -7,7 +7,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const playButton = document.querySelector('.play-button');
     const demoModal = document.getElementById('demoModal');
     const closeModal = document.querySelector('.close-modal');
-    const videoPlaceholder = document.getElementById('videoPlaceholder');
+    const video = demoModal.querySelector("video");
+    // const videoPlaceholder = document.getElementById('videoPlaceholder');
     
     if (demoModal) {
         // Add animation class to demo button
@@ -50,27 +51,40 @@ document.addEventListener('DOMContentLoaded', function() {
             setTimeout(() => {
                 demoModal.style.opacity = '1';
             }, 10);
-            document.body.style.overflow = 'hidden'; // Prevent scrolling when modal is open
+            document.body.style.overflow = 'hidden'; // Заблокувати скрол
+        
+            if (video) {
+                video.currentTime = 0;
+                video.play();
+            } 
+        }
+        
+        // function openVideoModal() {
+        //     demoModal.style.display = 'block';
+        //     setTimeout(() => {
+        //         demoModal.style.opacity = '1';
+        //     }, 10);
+        //     document.body.style.overflow = 'hidden'; // Prevent scrolling when modal is open
             
             // Simulate loading a video
-            if (videoPlaceholder) {
-                videoPlaceholder.innerHTML = '<div class="loading-animation"><div></div><div></div><div></div><div></div></div><p>Loading presentation...</p>';
+            // if (videoPlaceholder) {
+            //     videoPlaceholder.innerHTML = '<div class="loading-animation"><div></div><div></div><div></div><div></div></div><p>Loading presentation...</p>';
                 
-                // After a delay, show the video placeholder (in a real scenario, this would be where you'd embed the actual video)
-                setTimeout(() => {
-                    videoPlaceholder.innerHTML = `
-                        <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="#f39c12" stroke-width="2"/>
-                            <path d="M10 8L16 12L10 16V8Z" fill="#f39c12"/>
-                        </svg>
-                        <p style="margin-top: 20px; font-size: 1.2rem;"><span style="color: #f39c12;">Future</span><span style="color: #27AE60;">Data</span><span style="color: #2980b9;">AI</span> Product Demo</p>
-                        <p style="margin-top: 10px; font-size: 0.9rem; max-width: 80%; text-align: center;">
-                            This is where your product demonstration video would appear. For a personalized demo tailored to your business needs, please contact our team.
-                        </p>
-                    `;
-                }, 1500);
-            }
-        }
+            //     // After a delay, show the video placeholder (in a real scenario, this would be where you'd embed the actual video)
+            //     setTimeout(() => {
+            //         videoPlaceholder.innerHTML = `
+            //             <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            //                 <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="#f39c12" stroke-width="2"/>
+            //                 <path d="M10 8L16 12L10 16V8Z" fill="#f39c12"/>
+            //             </svg>
+            //             <p style="margin-top: 20px; font-size: 1.2rem;"><span style="color: #f39c12;">Future</span><span style="color: #27AE60;">Data</span><span style="color: #2980b9;">AI</span> Product Demo</p>
+            //             <p style="margin-top: 10px; font-size: 0.9rem; max-width: 80%; text-align: center;">
+            //                 This is where your product demonstration video would appear. For a personalized demo tailored to your business needs, please contact our team.
+            //             </p>
+            //         `;
+            //     }, 1500);
+            // }
+        // }
         
         // Open modal when demo button is clicked
         if (demoButton) {
@@ -84,22 +98,34 @@ document.addEventListener('DOMContentLoaded', function() {
             demoModal.style.opacity = '0';
             setTimeout(() => {
                 demoModal.style.display = 'none';
-                document.body.style.overflow = ''; // Restore scrolling
-                // Reset the video placeholder for next time
-                if (videoPlaceholder) {
-                    videoPlaceholder.innerHTML = `
-                        <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="#f39c12" stroke-width="2"/>
-                            <path d="M10 8L16 12L10 16V8Z" fill="#f39c12"/>
-                        </svg>
-                        <p style="margin-top: 20px; font-size: 1.2rem;">Future Data AI Product Demo</p>
-                        <p style="margin-top: 10px; font-size: 0.9rem; max-width: 80%; text-align: center;">
-                            This is where your product demonstration video would appear. For a personalized demo tailored to your business needs, please contact our team.
-                        </p>
-                    `;
+                document.body.style.overflow = ''; // Повернути скрол
+                if (video) {
+                    video.pause();
+                    video.currentTime = 0;
                 }
             }, 300);
         };
+        
+        // const closeModalWithAnimation = () => {
+        //     demoModal.style.opacity = '0';
+        //     setTimeout(() => {
+        //         demoModal.style.display = 'none';
+        //         document.body.style.overflow = ''; // Restore scrolling
+        //         // Reset the video placeholder for next time
+        //         if (videoPlaceholder) {
+        //             videoPlaceholder.innerHTML = `
+        //                 <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        //                     <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="#f39c12" stroke-width="2"/>
+        //                     <path d="M10 8L16 12L10 16V8Z" fill="#f39c12"/>
+        //                 </svg>
+        //                 <p style="margin-top: 20px; font-size: 1.2rem;">Future Data AI Product Demo</p>
+        //                 <p style="margin-top: 10px; font-size: 0.9rem; max-width: 80%; text-align: center;">
+        //                     This is where your product demonstration video would appear. For a personalized demo tailored to your business needs, please contact our team.
+        //                 </p>
+        //             `;
+        //         }
+        //     }, 300);
+        // };
         
         // Close modal when X is clicked
         if (closeModal) {
