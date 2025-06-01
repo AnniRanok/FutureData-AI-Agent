@@ -11,9 +11,17 @@ This version represents a **technical draft** on the way to our full AI assistan
 
 ## Live Demo
 
- Watch the short demo here:  
-[![Watch the demo](https://github.com/AnniRanok/FutureData-AI-Agent/raw/main/static/videos/preview.png)](https://github.com/AnniRanok/FutureData-AI-Agent/raw/main/static/videos/future-data.mp4)
+ Watch the short demo here: 
+ 
+<p align="center">
+  <a href="https://github.com/AnniRanok/FutureData-AI-Agent/raw/main/static/videos/future-data.mp4" target="_blank">
+    <img src="https://github.com/AnniRanok/FutureData-AI-Agent/raw/main/static/videos/preview.png" alt="Watch the demo" width="600"/>
+  </a>
+</p>
 
+<p align="center">
+  <em>Click the image to watch a short demo of FutureData AI Agent in action (MP4, no sound)</em>
+</p>
 
 
 
