@@ -1,6 +1,6 @@
 import os
 import logging
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template_string, request, jsonify
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG)
@@ -16,7 +16,8 @@ messages = []
 @app.route('/')
 def index():
     """Render the main page of the website."""
-    return render_template('new_index.html')
+    with open("index.html") as f:
+        return render_template_string(f.read())
 
 @app.route('/subscribe', methods=['POST'])
 def subscribe():
