@@ -12,7 +12,8 @@ This version represents a **technical draft** on the way to our full AI assistan
 ## Live Demo
 
  Watch the short demo here:  
- https://github.com/AnniRanok/FutureData-AI-Agent/blob/main/static/videos/futuredata_demo.mp4
+[![Watch the demo](https://github.com/AnniRanok/FutureData-AI-Agent/raw/main/static/videos/preview.png)](https://github.com/AnniRanok/FutureData-AI-Agent/raw/main/static/videos/demo.mp4)
+
 
 ##  Features (Prototype Preview)
 
@@ -29,27 +30,7 @@ This version represents a **technical draft** on the way to our full AI assistan
 
 ## Project Structure
 
-FutureData-AI-Agent/
-│
-├── future_data_app/                  # Core application
-│   ├── app.py                        # Main logic (OpenAI + Pandas)
-│   ├── components/                   # UI components
-│   ├── data/                         # Example datasets
-│   ├── utils/                        # Helper functions
-│   └── requirements.txt              # App dependencies
-│
-├── static/                           # Frontend assets
-│   ├── js/
-│   ├── css/
-│   └── videos/
-│
-├── templates/
-│   └── index.html                   # Landing page
-│
-├── app.py                           # Main entrypoint (Flask / Streamlit)
-├── main.py                          # Optional CLI/launch utility
-├── README.md
-└── ...
+<pre> ```bash FutureData-AI-Agent/ ├── future_data_app/ # Core application │ ├── app.py # Main logic (OpenAI + Pandas) │ ├── components/ # UI components │ ├── data/ # Example datasets │ ├── utils/ # Helper functions │ └── requirements.txt # App dependencies ├── static/ # Frontend assets │ ├── js/ │ ├── css/ │ └── videos/ ├── templates/ │ └── index.html # Landing page ├── app.py # Flask / Streamlit entry point ├── main.py # Optional CLI / launcher ├── README.md └── ... ``` </pre>
 
 
 
@@ -125,7 +106,4 @@ Future Data team — turning spreadsheets into smart systems with the help of AI
 Got feedback or ideas?
 
 📧 konar.inna@gmail.com
-🌐 futuredata-ai.netlify.app
-
-
 🌐 Website:https://futuredata-ai.netlify.app/  
